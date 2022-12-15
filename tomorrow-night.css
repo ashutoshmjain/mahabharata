@@ -1,104 +1,83 @@
-/* Tomorrow Night Theme */
-/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
-/* Original theme - https://github.com/chriskempson/tomorrow-theme */
-/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/*
+ * An increased contrast highlighting scheme loosely based on the
+ * "Base16 Atelier Dune Light" theme by Bram de Haan
+ * (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/dune)
+ * Original Base16 color scheme by Chris Kempson
+ * (https://github.com/chriskempson/base16)
+ */
 
-/* Tomorrow Comment */
-.hljs-comment {
-  color: #969896;
+/* Comment */
+.hljs-comment,
+.hljs-quote {
+  color: #575757;
 }
 
-/* Tomorrow Red */
+/* Red */
 .hljs-variable,
+.hljs-template-variable,
 .hljs-attribute,
 .hljs-tag,
-.hljs-regexp,
-.ruby .hljs-constant,
-.xml .hljs-tag .hljs-title,
-.xml .hljs-pi,
-.xml .hljs-doctype,
-.html .hljs-doctype,
-.css .hljs-id,
-.css .hljs-class,
-.css .hljs-pseudo {
-  color: #cc6666;
-}
-
-/* Tomorrow Orange */
-.hljs-number,
-.hljs-preprocessor,
-.hljs-pragma,
-.hljs-built_in,
-.hljs-literal,
-.hljs-params,
-.hljs-constant {
-  color: #de935f;
-}
-
-/* Tomorrow Yellow */
-.ruby .hljs-class .hljs-title,
-.css .hljs-rule .hljs-attribute {
-  color: #f0c674;
-}
-
-/* Tomorrow Green */
-.hljs-string,
-.hljs-value,
-.hljs-inheritance,
-.hljs-header,
 .hljs-name,
-.ruby .hljs-symbol,
-.xml .hljs-cdata {
-  color: #b5bd68;
+.hljs-regexp,
+.hljs-link,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class {
+  color: #d70025;
 }
 
-/* Tomorrow Aqua */
+/* Orange */
+.hljs-number,
+.hljs-meta,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params {
+  color: #b21e00;
+}
+
+/* Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet {
+  color: #008200;
+}
+
+/* Blue */
 .hljs-title,
-.css .hljs-hexcolor {
-  color: #8abeb7;
+.hljs-section {
+  color: #0030f2;
 }
 
-/* Tomorrow Blue */
-.hljs-function,
-.python .hljs-decorator,
-.python .hljs-title,
-.ruby .hljs-function .hljs-title,
-.ruby .hljs-title .hljs-keyword,
-.perl .hljs-sub,
-.javascript .hljs-title,
-.coffeescript .hljs-title {
-  color: #81a2be;
-}
-
-/* Tomorrow Purple */
+/* Purple */
 .hljs-keyword,
-.javascript .hljs-function {
-  color: #b294bb;
+.hljs-selector-tag {
+  color: #9d00ec;
 }
 
 .hljs {
   display: block;
   overflow-x: auto;
-  background: #1d1f21;
-  color: #c5c8c6;
+  background: #f9ce00;
+  color: #000;
   padding: 0.5em;
-  -webkit-text-size-adjust: none;
 }
 
-.coffeescript .javascript,
-.javascript .xml,
-.tex .hljs-formula,
-.xml .javascript,
-.xml .vbscript,
-.xml .css,
-.xml .hljs-cdata {
-  opacity: 0.5;
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
 }
 
 .hljs-addition {
-  color: #718c00;
+  color: #22863a;
+  background-color: #f0fff4;
 }
 
 .hljs-deletion {
-  color: #c82829;
+  color: #b31d28;
+  background-color: #ffeef0;
 }
