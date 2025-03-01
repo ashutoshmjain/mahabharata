@@ -18,3 +18,4 @@
   - [Mausla Parva](./maha16.md)
   - [Mahaprasthanika Parva](./maha17.md)
   - [Svargarohanika Parva](./maha18.md)
+  - [About](./how.md)

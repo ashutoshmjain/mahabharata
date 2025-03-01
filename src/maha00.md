@@ -1,21 +1,39 @@
-# The Mahabharata
+
+<div class="cover-huge">
+
+Mahabharta
 
 of
 
-**Krishna-Dwaipayana Vyasa**
+Krishna Dwaipayana Vyasa
 
-Translated into English Prose from the Original Sanskrit Text
+</div>
 
-by
+<div class="centered">
+    <img src="./ganesa.svg" alt="Shwet Ganesa" class="responsive"
+    width = "1400"
+    height = "1000" />
+    
+</div>
 
-**Kisari Mohan Ganguli**
+<div class="cover-small"><sup>Pencil Art: Madan Maholvi</sup></div>
 
-[1883-1896]
+<div class="cover-small"><sup> 
+Scanned at sacred-texts.com, 2003. Proofed at Distributed Proofing, Juliet Sutherland, Project Manager. Additional proofing and formatting at sacred-texts.com, by J. B. Hare.
+</sup></div>
 
-Scanned at sacred-texts.com, 2003. Proofed at Distributed Proofing,
-Juliet Sutherland, Project Manager. Additional proofing and formatting at
-sacred-texts.com, by J. B. Hare.
+<div class="centered">
+Translation By Kisari Mohan Ganguli [1883 - 1896]
+</div>
 
+<div class="cover-small">
+  <div class="centered">
+      <a href="./how.md">Navigation & About .. </a>
+  </div>
+</div
+
+
+---
 
 
 ## TRANSLATOR'S PREFACE

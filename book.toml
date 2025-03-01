@@ -8,7 +8,6 @@ description = "discovering Gita and Maha-bharata"
 
 [output.html]
 theme = "src/theme"
-git-repository-url = "https://github.com/ashutoshmjain/mahabharata"
 cname = "mahabharata.shutri.com"
 no-section-label = true
 
