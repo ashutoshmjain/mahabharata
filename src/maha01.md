@@ -1,7 +1,27 @@
+# The Mahabharata
 
-# ADI PARVA
+of
 
-## SECTION I
+Krishna-Dwaipayana Vyasa
+
+BOOK 1
+
+## Adi Parva 
+
+Translated into English Prose from the Original Sanskrit Text
+
+by
+
+Kisari Mohan Ganguli
+
+[1883-1896]
+
+Scanned at sacred-texts.com, 2003. Proofed at Distributed Proofing,
+Juliet Sutherland, Project Manager. Additional proofing and formatting at
+sacred-texts.com, by J. B. Hare.
+
+
+SECTION I
 
 Om! Having bowed down to Narayana and Nara, the most exalted male being,
 and also to the goddess Saraswati, must the word Jaya be uttered.

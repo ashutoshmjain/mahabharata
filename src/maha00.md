@@ -16,28 +16,19 @@ Krishna Dwaipayana Vyasa
     
 </div>
 
-<div class="cover-small"><sup>Pencil Art: Madan Maholvi</sup></div>
+<div class="cover-small"><sup>Cover Photo : Madan Maholvi </sup></div>
 
-<div class="cover-small"><sup> 
+<div class="cover-small"> 
+
 Scanned at sacred-texts.com, 2003. 
 
 Proofed at Distributed Proofing, Juliet Sutherland, Project Manager. 
 
 Additional proofing and formatting at sacred-texts.com, by J. B. Hare.
-</sup></div>
 
-<div class="centered">
-
-Translated By Kisari Mohan Ganguli 
+Translated By **Kisari Mohan Ganguli** [1883 - 1896]
 
 </div>
-
-<div class="centered">
-
-[1883 - 1896]
-
-</div>
-
 
 <div class="cover-small">
   <div class="centered">
