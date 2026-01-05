@@ -1,44 +1,30 @@
+<div align="center">
 
-<div class="cover-huge">
+# The Mahabharata
+### of
+## Krishna Dwaipayana Vyasa
 
-Mahabharta
+*Translated by Kisari Mohan Ganguli (1883-1896)*
 
-of
+<br>
 
-Krishna Dwaipayana Vyasa
+![Ganesa, the scribe](./ganesa.svg)
 
-</div>
-
-<div class="centered">
-    <img src="./ganesa.svg" alt="Shwet Ganesa" class="responsive"
-    width = "1400"
-    height = "1000" />
-    
-</div>
-
-<div class="cover-small"><sup>Cover Photo : Madan Maholvi </sup></div>
-
-<div class="cover-small"> 
-
-Scanned at sacred-texts.com, 2003. 
-
-Proofed at Distributed Proofing, Juliet Sutherland, Project Manager. 
-
-Additional proofing and formatting at sacred-texts.com, by J. B. Hare.
-
-Translated By **Kisari Mohan Ganguli** [1883 - 1896]
+*Ganesa, traditionally held as the scribe of the epic as dictated by Vyasa.*
 
 </div>
-
-<div class="cover-small">
-  <div class="centered">
-      <a href="./how.md">Navigation & About .. </a>
-  </div>
-</div
-
 
 ---
 
+### A Note on this Edition
+
+This text is a digitized version of the Kisari Mohan Ganguli translation, first published between 1883 and 1896. This monumental work was one of the first and most comprehensive English translations of the Mahabharata.
+
+The original work was scanned and proofread by volunteers at `sacred-texts.com` and Distributed Proofing. This edition aims to present that invaluable work in a clean, readable, and accessible format for modern devices.
+
+**For navigation tips and information about this project, please see: [Navigation & About](./how.md)**
+
+---
 
 ## TRANSLATOR'S PREFACE
 
@@ -192,8 +178,8 @@ them that have come in contact with him. I never referred to him a
 difficulty that he could not clear up. Unfortunately, he was not always
 at hand to consult. Pundit Shyama Charan Kaviratna, during my residence
 at Seebpore, assisted me in going over the Mokshadharma sections of the
-Santi Parva. Unostentatious in the extreme, Kaviratna is truly the type
-of a learned Brahman of ancient India. Babu Aghore Nath Banerjee also has
+Santi Parva. Unostentatious in the extreme, Kaviratna is truly the type of
+a learned Brahman of ancient India. Babu Aghore Nath Banerjee also has
 from time to time, rendered me valuable assistance in clearing my
 difficulties.
 
@@ -219,7 +205,3 @@ sometimes seemed to me endless.
 **Kisari Mohan Ganguli**
 
 **Calcutta**
-
-
-
-
