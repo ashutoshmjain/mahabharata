@@ -21,7 +21,7 @@ Juliet Sutherland, Project Manager. Additional proofing and formatting at
 sacred-texts.com, by J. B. Hare.
 
 
-SECTION I
+## SECTION I
 
 Om! Having bowed down to Narayana and Nara, the most exalted male being,
 and also to the goddess Saraswati, must the word Jaya be uttered.
@@ -715,7 +715,7 @@ then that they become sources of evil.'"
 
 
 
-SECTION II
+## SECTION II
 
 "The Rishis said, 'O son of Suta, we wish to hear a full and
 circumstantial account of the place mentioned by you as Samanta-panchaya.'
@@ -1498,3 +1498,6 @@ deep import with the help of this chapter called Parva sangraha."
 
 Thus endeth the section called Parva-sangraha of the Adi Parva of the
 blessed Mahabharata.
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*
