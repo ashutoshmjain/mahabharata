@@ -1,4 +1,6 @@
-SECTION CCXV
+# Arjuna-vanavasa Parva
+
+## SECTION CCXV
 
 (Arjuna-vanavasa Parva)
 
@@ -84,7 +86,7 @@ there for twelve years.'"
 
 
 
-SECTION CCXVI
+## SECTION CCXVI
 
 (Arjuna-vanavasa Parva continued)
 
@@ -183,7 +185,7 @@ doubt, be vanquishable by thee.'"
 
 
 
-SECTION CCXVII
+## SECTION CCXVII
 
 (Arjuna-vanavasa Parva continued)
 
@@ -248,7 +250,7 @@ of the king (her father), he set out on his wanderings again.'"
 
 
 
-SECTION CCXVIII
+## SECTION CCXVIII
 
 (Arjuna-vanavasa Parva continued)
 
@@ -305,7 +307,7 @@ hundred years.'"
 
 
 
-SECTION CCXIX
+## SECTION CCXIX
 
 (Arjuna-vanavasa Parva continued)
 
@@ -374,7 +376,7 @@ called Gokarna.'"
 
 
 
-SECTION CCXX
+## SECTION CCXX
 
 (Arjuna-vanavasa Parva continued)
 
@@ -422,3 +424,6 @@ repeatedly embraced all that were equal to him in age. Wending then to
 the delightful mansion of Krishna that was filled with gems and every
 article of enjoyment, he took up his abode there with Krishna for many
 days.'"
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

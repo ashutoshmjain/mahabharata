@@ -1,4 +1,6 @@
-SECTION IV
+# Pauloma Parva
+
+## SECTION IV
 
 (Pauloma Parva)
 
@@ -34,7 +36,7 @@ and Sadhyas, who were also in their seats, he spake as followeth."
 
 
 
-SECTION V
+## SECTION V
 
 (Pauloma Parva continued)
 
@@ -123,7 +125,7 @@ this world.'"
 
 
 
-SECTION VI
+## SECTION VI
 
 (Pauloma Parva continued)
 
@@ -166,7 +168,7 @@ So ends the sixth section called "the curse on Agni" in the Adi Parva.
 
 
 
-SECTION VII
+## SECTION VII
 
 (Pauloma Parva continued)
 
@@ -250,7 +252,7 @@ the blessed Mahabharata.
 
 
 
-SECTION VIII
+## SECTION VIII
 
 (Pauloma Parva continued)
 
@@ -315,7 +317,7 @@ blessed Mahabharata.
 
 
 
-SECTION IX
+## SECTION IX
 
 (Pauloma Parva continued)
 
@@ -384,7 +386,7 @@ blessed Mahabharata.
 
 
 
-SECTION X
+## SECTION X
 
 (Pauloma Parva continued)
 
@@ -413,7 +415,7 @@ And so ends the tenth section of the Pauloma Parva of the Adi Parva.
 
 
 
-SECTION XI
+## SECTION XI
 
 (Pauloma Parva continued)
 
@@ -457,7 +459,7 @@ And so ends the eleventh section of the Pauloma Parva of the Adi Parva.
 
 
 
-SECTION XII
+## SECTION XII
 
 (Pauloma Parva continued)
 
@@ -476,3 +478,6 @@ consciousness, he came home and asked his father to relate the history in
 question. Thus asked, his father related all about the story.'"
 
 So ends the twelfth section in the Pauloma Parva of the Adi Parva.
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

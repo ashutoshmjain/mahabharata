@@ -1,4 +1,6 @@
-SECTION CLXLV
+# Vaivahika Parva
+
+## SECTION CLXLV
 
 (Vaivahika Parva)
 
@@ -99,7 +101,7 @@ ready.'"
 
 
 
-SECTION CLXLVI
+## SECTION CLXLVI
 
 (Vaivahika Parva continued)
 
@@ -150,7 +152,7 @@ sons of Kunti to be all of royal blood became exceedingly glad.'"
 
 
 
-SECTION CLXLVII
+## SECTION CLXLVII
 
 (Vaivahika Parva continued)
 
@@ -236,7 +238,7 @@ wanderings.'"
 
 
 
-SECTION CLXLVIII
+## SECTION CLXLVIII
 
 (Vaivahika Parva continued)
 
@@ -306,7 +308,7 @@ how the practice of polyandry could not be regarded as sinful.'"
 
 
 
-SECTION CLXLIX
+## SECTION CLXLIX
 
 (Vaivahika Parva continued)
 
@@ -483,7 +485,7 @@ Having listened to all this, O king Drupada, do what thou desirest.'"
 
 
 
-SECTION CC
+## SECTION CC
 
 (Vaivahika Parva continued)
 
@@ -551,7 +553,7 @@ Panchalas,'"
 
 
 
-SECTION CCI
+## SECTION CCI
 
 (Vaivahika Parva continued)
 
@@ -599,3 +601,6 @@ colours and large teeth. The slayer of Madhu, of immeasurable soul, also
 sent them coins of pure gold by crores upon crores in separate heaps. And
 Yudhishthira the just, desirous of gratifying Govinda, accepted all those
 presents with great joy.'"
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

@@ -1,4 +1,6 @@
-SECTION CCXXI
+# Subhadra-harana Parva
+
+## SECTION CCXXI
 
 (Subhadra-harana Parva)
 
@@ -57,7 +59,7 @@ it.'"
 
 
 
-SECTION CCXXII
+## SECTION CCXXII
 
 (Subhadra-harana Parva continued)
 
@@ -131,3 +133,6 @@ upon? Alone shall I today make the earth destitute of Kauravas! Never
 shall I put up with this transgression by Arjuna.' Then all the Bhojas,
 Vrishnis, and Andhakas, present there, approved of everything that
 Valadeva had said, deeply roaring like unto a kettle-drum or the clouds.'"
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

@@ -1,4 +1,6 @@
-SECTION III
+# Paushya Parva
+
+## SECTION III
 
 (Paushya Parva)
 
@@ -560,3 +562,6 @@ was overcome with pain and sorrow.
 
 And thus endeth the section called Paushya of the Adi Parva of the
 blessed Mahabharata."
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

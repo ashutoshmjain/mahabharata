@@ -1,4 +1,6 @@
-SECTION XIII
+# Astika Parva
+
+## SECTION XIII
 
 (Astika Parva)
 
@@ -79,7 +81,7 @@ So ends the thirteenth section in the Astika Parva of the Adi Parva.
 
 
 
-SECTION XIV
+## SECTION XIV
 
 (Astika Parva continued)
 
@@ -104,7 +106,7 @@ So ends the thirteenth section in the Astika Parva of the Adi Parva.
 
 
 
-SECTION XV
+## SECTION XV
 
 (Astika Parva continued)
 
@@ -140,7 +142,7 @@ So ends the fifteenth section in the Astika Parva of the Adi Parva.
 
 
 
-SECTION XVI
+## SECTION XVI
 
 (Astika Parva continued)
 
@@ -195,7 +197,7 @@ So ends the sixteenth section in the Astika Parva of the Adi Parva.
 
 
 
-SECTION XVII
+## SECTION XVII
 
 (Astika Parva continued)
 
@@ -231,7 +233,7 @@ So ends the seventeenth section in the Astika Parva of the Adi Parva.
 
 
 
-SECTION XVIII
+## SECTION XVIII
 
 (Astika Parva continued)
 
@@ -330,7 +332,7 @@ So ends the eighteenth section in the Astika Parva of the Adi Parva.
 
 
 
-SECTION XIX
+## SECTION XIX
 
 (Astika Parva continued)
 
@@ -414,7 +416,7 @@ And so ends the nineteenth section in the Astika Parva of the Adi Parva.
 
 
 
-SECTION XX
+## SECTION XX
 
 (Astika Parva continued)
 
@@ -460,7 +462,7 @@ And so ends the twentieth section in the Astika Parva of the Adi Parva.
 
 
 
-SECTION XXI
+## SECTION XXI
 
 (Astika Parva continued)
 
@@ -511,7 +513,7 @@ And so ends the twenty-first section in the Astika Parva of the Adi Parva.
 
 
 
-SECTION XXII
+## SECTION XXII
 
 (Astika Parva continued)
 
@@ -547,7 +549,7 @@ Parva.
 
 
 
-SECTION XXIII
+## SECTION XXIII
 
 (Astika Parva continued)
 
@@ -637,7 +639,7 @@ Parva.
 
 
 
-SECTION XXIV
+## SECTION XXIV
 
 (Astika Parva continued)
 
@@ -697,7 +699,7 @@ Parva.
 
 
 
-SECTION XXV
+## SECTION XXV
 
 (Astika Parva continued)
 
@@ -748,7 +750,7 @@ And so ends the twenty-fifth section in the Astika Parva of the Adi Parva.
 
 
 
-SECTION XXVI
+## SECTION XXVI
 
 (Astika Parva continued)
 
@@ -776,7 +778,7 @@ And so ends the twenty-sixth section in the Astika Parva of the Adi Parva.
 
 
 
-SECTION XXVII
+## SECTION XXVII
 
 (Astika Parva continued)
 
@@ -822,7 +824,7 @@ twenty-seventh section in the Astika Parva of the Adi Parva.
 
 
 
-SECTION XXVIII
+## SECTION XXVIII
 
 (Astika Parva continued)
 
@@ -881,7 +883,7 @@ So ends the twenty-eighth section in the Astika Parva of Adi Parva.
 
 
 
-SECTION XXIX
+## SECTION XXIX
 
 (Astika Parva continued)
 
@@ -994,7 +996,7 @@ So ends the twenty-ninth section in the Astika Parva of the Adi Parva.
 
 
 
-SECTION XXX
+## SECTION XXX
 
 (Astika Parva continued)
 
@@ -1121,7 +1123,7 @@ So ends the thirtieth section in the Astika Parva of the Adi Parva.
 
 
 
-SECTION XXXI
+## SECTION XXXI
 
 (Astika Parva continued)
 
@@ -1213,7 +1215,7 @@ mighty achievement of Garuda.'"
 
 
 
-SECTION XXXII
+## SECTION XXXII
 
 (Astika Parva continued)
 
@@ -1276,7 +1278,7 @@ So ends the thirty-second section in the Astika Parva of the Adi Parva.
 
 
 
-SECTION XXXIII
+## SECTION XXXIII
 
 (Astika Parva continued)
 
@@ -1343,7 +1345,7 @@ So ends the thirty-third section in the Astika Parva of the Adi Parva.
 
 
 
-SECTION XXXIV
+## SECTION XXXIV
 
 (Astika Parva continued)
 
@@ -1418,7 +1420,7 @@ Parva.
 
 
 
-SECTION XXXV
+## SECTION XXXV
 
 (Astika Parva continued)
 
@@ -1458,7 +1460,7 @@ So ends the thirty-fifth section in the Astika Parva of the Adi Parva.
 
 
 
-SECTION XXXVI
+## SECTION XXXVI
 
 (Astika Parva continued)
 
@@ -1540,7 +1542,7 @@ So ends the thirty-sixth section in the Astika Parva of the Adi Parva.
 
 
 
-SECTION XXXVII
+## SECTION XXXVII
 
 (Astika Parva continued)
 
@@ -1615,7 +1617,7 @@ So ends the thirty-seventh section in the Astika Parva of the Adi Parva.
 
 
 
-SECTION XXXVIII
+## SECTION XXXVIII
 
 (Astika Parva continued)
 
@@ -1661,7 +1663,7 @@ bride. This means of release hath been heard of by me!'"
 
 
 
-SECTION XXXIX
+## SECTION XXXIX
 
 (Astika Parva continued)
 
@@ -1701,7 +1703,7 @@ depends upon it.'"
 
 
 
-SECTION XL
+## SECTION XL
 
 (Astika Parva continued)
 
@@ -1787,7 +1789,7 @@ as if the punishment were mine.'"
 
 
 
-SECTION XLI
+## SECTION XLI
 
 (Astika Parva continued)
 
@@ -1859,7 +1861,7 @@ king deserve a curse from us.'"
 
 
 
-SECTION XLII
+## SECTION XLII
 
 (Astika Parva continued)
 
@@ -1965,7 +1967,7 @@ thee.'"
 
 
 
-SECTION XLIII
+## SECTION XLIII
 
 (Astika Parva continued)
 
@@ -2056,7 +2058,7 @@ Takshaka, that lord of snakes, bit that protector of the earth.'"
 
 
 
-SECTION XLIV
+## SECTION XLIV
 
 (Astika Parva continued)
 
@@ -2097,7 +2099,7 @@ spent in the pursuit of pleasure.'"
 
 
 
-SECTION XLV
+## SECTION XLV
 
 (Astika Parva continued)
 
@@ -2174,7 +2176,7 @@ us all like a friend? We wish to hear who thou art that stayest here.'"
 
 
 
-SECTION XLVI
+## SECTION XLVI
 
 (Astika Parva continued)
 
@@ -2232,7 +2234,7 @@ maintain her.'"
 
 
 
-SECTION XLVII
+## SECTION XLVII
 
 (Astika Parva continued)
 
@@ -2339,7 +2341,7 @@ his heart firmly fixed on practising again the severest penances.'"
 
 
 
-SECTION XLVIII
+## SECTION XLVIII
 
 (Astika Parva continued)
 
@@ -2397,7 +2399,7 @@ the snakes.'"
 
 
 
-SECTION XLIX
+## SECTION XLIX
 
 (Astika Parva continued)
 
@@ -2477,7 +2479,7 @@ anger. He continued in the same posture, bearing the dead snake.'"
 
 
 
-SECTION L
+## SECTION L
 
 (Astika Parva continued)
 
@@ -2601,7 +2603,7 @@ father's enemy to please myself, the Rishi Utanka and you all.'"
 
 
 
-SECTION LI
+## SECTION LI
 
 (Astika Parva continued)
 
@@ -2647,7 +2649,7 @@ his gate-keepers not to admit anybody without his knowledge."
 
 
 
-SECTION LII
+## SECTION LII
 
 (Astika Parva continued)
 
@@ -2676,7 +2678,7 @@ fire.'"
 
 
 
-SECTION LIII
+## SECTION LIII
 
 (Astika Parva continued)
 
@@ -2738,7 +2740,7 @@ of those dependent on me."'
 
 
 
-SECTION LIV
+## SECTION LIV
 
 (Astika Parva continued)
 
@@ -2821,7 +2823,7 @@ fire.'"
 
 
 
-SECTION LV
+## SECTION LV
 
 (Astika Parva continued)
 
@@ -2881,7 +2883,7 @@ addressed them as follows.'"
 
 
 
-SECTION LVI
+## SECTION LVI
 
 (Astika Parva continued)
 
@@ -2975,7 +2977,7 @@ receive his boon!'"
 
 
 
-SECTION LVII
+## SECTION LVII
 
 (Astika Parva continued)
 
@@ -3030,7 +3032,7 @@ mother, were burnt in that great 'sacrifice.'"
 
 
 
-SECTION LVIII
+## SECTION LVIII
 
 (Astika Parva, continued)
 
@@ -3114,3 +3116,6 @@ beginning, of the learned Astika. And, O Brahmana, O oppressor of all
 enemies, having heard this holy history of Astika that increaseth virtue,
 and which thou hadst asked me about after hearing the story of the
 Dundubha, let thy ardent curiosity be satisfied.'"
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

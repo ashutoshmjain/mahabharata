@@ -1,4 +1,6 @@
-SECTION CLIX
+# Vaka-vadha Parva
+
+## SECTION CLIX
 
 (Vaka-vadha Parva)
 
@@ -97,7 +99,7 @@ all these, for I can live no longer.'"
 
 
 
-SECTION CLX
+## SECTION CLX
 
 (Vaka-vadha Parva continued)
 
@@ -185,7 +187,7 @@ grief.'"
 
 
 
-SECTION CLXI
+## SECTION CLXI
 
 (Vaka-vadha Parva continued)
 
@@ -245,7 +247,7 @@ Indeed, her words revived them as nectar reviveth a person that is dead.'"
 
 
 
-SECTION CLXII
+## SECTION CLXII
 
 (Vaka-vadha Parva continued)
 
@@ -290,7 +292,7 @@ wretch might devour us all at once'"
 
 
 
-SECTION CLXIII
+## SECTION CLXIII
 
 (Vaka-vadha Parva continued)
 
@@ -345,7 +347,7 @@ saying, 'So be it.'"
 
 
 
-SECTION CLXIV
+## SECTION CLXIV
 
 (Vaka-vadha Parva continued)
 
@@ -415,7 +417,7 @@ this.'"
 
 
 
-SECTION CLXV
+## SECTION CLXV
 
 (Vaka-vadha Parva continued)
 
@@ -479,7 +481,7 @@ broken on Bhima's knee.'"
 
 
 
-SECTION CLXVI
+## SECTION CLXVI
 
 (Vaka-vadha Parva continued)
 
@@ -525,3 +527,6 @@ much. And the Vaisyas and the Sudras also became exceedingly glad, and
 they all established a festival in which the worship of Brahmanas was the
 principal ceremony (in remembrance of this Brahmana who had relieved them
 from their fears of Vaka).
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

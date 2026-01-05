@@ -1,4 +1,6 @@
-SECTION LXV
+# Sambhava Parva
+
+## SECTION LXV
 
 (Sambhava Parva)
 
@@ -115,7 +117,7 @@ hereafter.'"
 
 
 
-SECTION LXVI
+## SECTION LXVI
 
 (Sambhava Parva continued)
 
@@ -288,7 +290,7 @@ finally attaineth to the first of states in after-life!'"
 
 
 
-SECTION LXVII
+## SECTION LXVII
 
 (Sambhava Parva continued)
 
@@ -623,7 +625,7 @@ wisdom, is never cast down even under the most engrossing sorrows.'"
 
 
 
-SECTION LXVIII
+## SECTION LXVIII
 
 (Sambhava Parva continued)
 
@@ -667,7 +669,7 @@ contented people virtuously.'"
 
 
 
-SECTION LXIX
+## SECTION LXIX
 
 (Sambhava Parva continued)
 
@@ -744,7 +746,7 @@ made bereft of lions and tigers and other monarchs of the wilderness.'"
 
 
 
-SECTION LXX
+## SECTION LXX
 
 (Sambhava Parva continued)
 
@@ -880,7 +882,7 @@ vows.'"
 
 
 
-SECTION LXXI
+## SECTION LXXI
 
 (Sambhava Parva continued)
 
@@ -988,7 +990,7 @@ had been duly provided, Menaka went to the retreat of the great Kausika.'"
 
 
 
-SECTION LXXII
+## SECTION LXXII
 
 (Sambhava Parva continued)
 
@@ -1038,7 +1040,7 @@ birth!'"
 
 
 
-SECTION LXXIII
+## SECTION LXXIII
 
 (Sambhava Parva continued)
 
@@ -1128,7 +1130,7 @@ be virtuous and never deprived of their thrones.'"
 
 
 
-SECTION LXXIV
+## SECTION LXXIV
 
 (Sambhava Parva continued)
 
@@ -1428,7 +1430,7 @@ fortune, like unto the gods, and devoted to truth and honesty.'"
 
 
 
-SECTION LXXV
+## SECTION LXXV
 
 (Sambhava Parva continued)
 
@@ -1561,7 +1563,7 @@ his wives.'"
 
 
 
-SECTION LXXVI
+## SECTION LXXVI
 
 (Sambhava Parva continued)
 
@@ -1768,7 +1770,7 @@ his preceptor's permission.'"
 
 
 
-SECTION LXXVII
+## SECTION LXXVII
 
 (Sambhava Parva continued)
 
@@ -1833,7 +1835,7 @@ sacrificial offerings.'"
 
 
 
-SECTION LXXVIII
+## SECTION LXXVIII
 
 (Sambhava Parva continued)
 
@@ -1947,7 +1949,7 @@ oppressed by anger.'"
 
 
 
-SECTION LXXIX
+## SECTION LXXIX
 
 (Sambhava Parva continued)
 
@@ -1984,7 +1986,7 @@ said by the learned that for such a man even death would be better.'"
 
 
 
-SECTION LXXX
+## SECTION LXXX
 
 (Sambhava Parva continued)
 
@@ -2070,7 +2072,7 @@ reverence.'"
 
 
 
-SECTION LXXXI
+## SECTION LXXXI
 
 (Sambhava Parva continued)
 
@@ -2174,7 +2176,7 @@ the high-souled Bhargava, returned to his capital with a joyous heart.'"
 
 
 
-SECTION LXXXII
+## SECTION LXXXII
 
 (Sambhava Parva continued)
 
@@ -2252,7 +2254,7 @@ like-lotus-petals.'"
 
 
 
-SECTION LXXXIII
+## SECTION LXXXIII
 
 (Sambhava Parva continued)
 
@@ -2364,7 +2366,7 @@ fame, and numerous progeny!'"
 
 
 
-SECTION LXXXIV
+## SECTION LXXXIV
 
 (Sambhava Parva continued)
 
@@ -2455,7 +2457,7 @@ transferred his decrepitude unto the body of the high-souled Puru.'"
 
 
 
-SECTION LXXXV
+## SECTION LXXXV
 
 (Sambhava Parva continued)
 
@@ -2552,7 +2554,7 @@ control.'"
 
 
 
-SECTION LXXXVI
+## SECTION LXXXVI
 
 (Sambhava Parva continued)
 
@@ -2604,7 +2606,7 @@ fame of his achievements).'"
 
 
 
-SECTION LXXXVII
+## SECTION LXXXVII
 
 (Sambhava Parva continued)
 
@@ -2650,7 +2652,7 @@ regards, and shouldst always give but never beg!"'
 
 
 
-SECTION LXXXVIII
+## SECTION LXXXVIII
 
 (Sambhava Parva continued)
 
@@ -2698,7 +2700,7 @@ wise.'"
 
 
 
-SECTION LXXXIX
+## SECTION LXXXIX
 
 (Sambhava Parva continued)
 
@@ -2783,7 +2785,7 @@ region of yours, glad at heart that I come amongst you.'"
 
 
 
-SECTION XC
+## SECTION XC
 
 (Sambhava Parva continued)
 
@@ -2891,7 +2893,7 @@ virtuous like thee, enjoy perfect peace here and hereafter.'"
 
 
 
-SECTION XCI
+## SECTION XCI
 
 (Sambhava Parva continued)
 
@@ -2965,7 +2967,7 @@ whole universe and attaineth to salvation.'"
 
 
 
-SECTION XCII
+## SECTION XCII
 
 (Sambhava Parva continued)
 
@@ -3055,7 +3057,7 @@ following words.'"
 
 
 
-SECTION XCIII
+## SECTION XCIII
 
 (Sambhava Parva continued)
 
@@ -3160,7 +3162,7 @@ his deeds.'"
 
 
 
-SECTION XCIV
+## SECTION XCIV
 
 (Sambhava Parva continued)
 
@@ -3302,7 +3304,7 @@ gigantic proportions.'"
 
 
 
-SECTION XCV
+## SECTION XCV
 
 (Sambhava Parva continued)
 
@@ -3512,7 +3514,7 @@ listened to by men with rapt attention.'"
 
 
 
-SECTION XCVI
+## SECTION XCVI
 
 (Sambhava Parva continued)
 
@@ -3575,7 +3577,7 @@ to the place they liked.'"
 
 
 
-SECTION XCVII
+## SECTION XCVII
 
 (Sambhava Parva continued)
 
@@ -3657,7 +3659,7 @@ wife!'"
 
 
 
-SECTION XCVIII
+## SECTION XCVIII
 
 (Sambhava Parva continued)
 
@@ -3718,7 +3720,7 @@ Gangadatta.'"
 
 
 
-SECTION XCIX
+## SECTION XCIX
 
 (Sambhava Parva continued)
 
@@ -3824,7 +3826,7 @@ Mahabharata.'"
 
 
 
-SECTION C
+## SECTION C
 
 (Sambhava Parva continued )
 
@@ -4073,7 +4075,7 @@ thee, O sinless one, having first obtained thy command.'"
 
 
 
-SECTION CI
+## SECTION CI
 
 (Sambhava Parva continued)
 
@@ -4109,7 +4111,7 @@ obedient to the dictates of duty.'"
 
 
 
-SECTION CII
+## SECTION CII
 
 (Sambhava Parva continued)
 
@@ -4268,7 +4270,7 @@ Kuru race.'"
 
 
 
-SECTION CIII
+## SECTION CIII
 
 (Sambhava Parva continued)
 
@@ -4333,7 +4335,7 @@ ordinary course of social conduct is.'"
 
 
 
-SECTION CIV
+## SECTION CIV
 
 (Sambhava Parva continued)
 
@@ -4463,7 +4465,7 @@ matter in hand.'"
 
 
 
-SECTION CV
+## SECTION CV
 
 (Sambhava Parva continued)
 
@@ -4598,7 +4600,7 @@ guests who arrived on die occasion.'"
 
 
 
-SECTION CVI
+## SECTION CVI
 
 (Sambhava Parva continued)
 
@@ -4676,7 +4678,7 @@ Kuru race.'"
 
 
 
-SECTION CVII
+## SECTION CVII
 
 (Sambhava Parva continued)
 
@@ -4718,7 +4720,7 @@ to suffer the tortures of impalement!'"
 
 
 
-SECTION CVIII
+## SECTION CVIII
 
 (Sambhava Parva continued)
 
@@ -4772,7 +4774,7 @@ was ever devoted to the welfare of the Kurus.'"
 
 
 
-SECTION CIX
+## SECTION CIX
 
 (Sambhava Parva continued)
 
@@ -4834,7 +4836,7 @@ religion and virtue, said as follows."
 
 
 
-SECTION CX
+## SECTION CX
 
 (Sambhava Parva continued)
 
@@ -4880,7 +4882,7 @@ such superiors.'"
 
 
 
-SECTION CXI
+## SECTION CXI
 
 (Sambhava Parva continued)
 
@@ -4960,7 +4962,7 @@ cutter or peeler of his own cover).'"
 
 
 
-SECTION CXII
+## SECTION CXII
 
 (Sambhava Parva continued)
 
@@ -4994,7 +4996,7 @@ arriving at his own palace, he established his queen therein.'"
 
 
 
-SECTION CXIII
+## SECTION CXIII
 
 (Sambhava Parva continued)
 
@@ -5095,7 +5097,7 @@ kettle-drums, entered his capital.'"
 
 
 
-SECTION CXIV
+## SECTION CXIV
 
 (Sambhava Parva continued)
 
@@ -5137,7 +5139,7 @@ in accomplishments.'"
 
 
 
-SECTION CXV
+## SECTION CXV
 
 (Sambhava Parva continued)
 
@@ -5241,7 +5243,7 @@ upon a Vaisya woman.'"
 
 
 
-SECTION CXVI
+## SECTION CXVI
 
 (Sambhava Parva continued)
 
@@ -5293,7 +5295,7 @@ Duhsala. Tell me, O sinless one, what more I am now to narrate.'"
 
 
 
-SECTION CXVII
+## SECTION CXVII
 
 (Sambhava Parva continued)
 
@@ -5327,7 +5329,7 @@ proper time and with proper rites, upon Jayadratha (the king of Sindhu).'
 
 
 
-SECTION CXVIII
+## SECTION CXVIII
 
 (Sambhava Parva continued)
 
@@ -5426,7 +5428,7 @@ gave up the ghost; and Pandu also was plunged in woe at the sight.'"
 
 
 
-SECTION CXIX
+## SECTION CXIX
 
 (Sambhava Parva continued)
 
@@ -5545,7 +5547,7 @@ there continued to practise ascetic austerities.'"
 
 
 
-SECTION CXX
+## SECTION CXX
 
 (Sambhava Parva continued)
 
@@ -5664,7 +5666,7 @@ high ascetic merit.'"
 
 
 
-SECTION CXXI
+## SECTION CXXI
 
 (Sambhava Parva continued)
 
@@ -5750,7 +5752,7 @@ possessest.'"
 
 
 
-SECTION CXXII
+## SECTION CXXII
 
 (Sambhava Parva continued)
 
@@ -5862,7 +5864,7 @@ circumambulating his person, she resolved to do his bidding.'"
 
 
 
-SECTION CXXIII
+## SECTION CXXIII
 
 (Sambhava Parva continued)
 
@@ -6037,7 +6039,7 @@ forgetfulness of the ordinance?'"
 
 
 
-SECTION CXXIV
+## SECTION CXXIV
 
 (Sambhava Parva continued)
 
@@ -6126,7 +6128,7 @@ rapidly like a cluster of lotuses in a lake.'"
 
 
 
-SECTION CXXV
+## SECTION CXXV
 
 (Sambhava Parva continued)
 
@@ -6205,7 +6207,7 @@ that bull among men.'"
 
 
 
-SECTION CXXVI
+## SECTION CXXVI
 
 (Sambhava Parva continued)
 
@@ -6287,7 +6289,7 @@ filled with wonder returned to their homes.'"
 
 
 
-SECTION CXXVII
+## SECTION CXXVII
 
 (Sambhava Parva continued)
 
@@ -6356,7 +6358,7 @@ with the weeping Pandavas.'"
 
 
 
-SECTION CXXVIII
+## SECTION CXXVIII
 
 (Sambhava Parva continued)
 
@@ -6497,7 +6499,7 @@ him, on which he lay down at ease.'"
 
 
 
-SECTION CXXIX
+## SECTION CXXIX
 
 (Sambhava Parva continued)
 
@@ -6599,7 +6601,7 @@ called Kripa) that the Kuru princes began to learn the use of arms.'"
 
 
 
-SECTION CXXX
+## SECTION CXXX
 
 (Sambhava Parva continued)
 
@@ -6655,7 +6657,7 @@ him in that science.'"
 
 
 
-SECTION CXXXI
+## SECTION CXXXI
 
 (Sambhava Parva continued)
 
@@ -6766,7 +6768,7 @@ Drupada.'"
 
 
 
-SECTION CXXXII
+## SECTION CXXXII
 
 (Sambhava Parva continued)
 
@@ -6805,7 +6807,7 @@ after the elephant.'"
 
 
 
-SECTION CXXXIII
+## SECTION CXXXIII
 
 (Sambhava Parva continued)
 
@@ -6961,7 +6963,7 @@ thou hast conferred upon me by thy arrival is great.'
 
 
 
-SECTION CXXXIV
+## SECTION CXXXIV
 
 (Sambhava Parva continued)
 
@@ -7155,7 +7157,7 @@ were all ordered, one after another, to stand apart.'"
 
 
 
-SECTION CXXXV
+## SECTION CXXXV
 
 (Sambhava Parva continued)
 
@@ -7208,7 +7210,7 @@ be by any foe, and thy achievements will be great.'"
 
 
 
-SECTION CXXXVI
+## SECTION CXXXVI
 
 (Sambhava Parva continued)
 
@@ -7291,7 +7293,7 @@ Pandavas (Kunti) and Gandhari, all the feats of the princes.'"
 
 
 
-SECTION CXXXVII
+## SECTION CXXXVII
 
 (Sambhava Parva continued)
 
@@ -7376,7 +7378,7 @@ battle with the Danavas.'"
 
 
 
-SECTION CXXXVIII
+## SECTION CXXXVIII
 
 (Sambhava Parva continued)
 
@@ -7476,7 +7478,7 @@ happiness.'"
 
 
 
-SECTION CXXXIX
+## SECTION CXXXIX
 
 (Sambhava Parva continued)
 
@@ -7540,7 +7542,7 @@ warrior on earth like unto Karna.'"
 
 
 
-SECTION CXL
+## SECTION CXL
 
 (Sambhava Parva continued)
 
@@ -7723,7 +7725,7 @@ bestowed upon Drona.'
 
 
 
-SECTION CXLI
+## SECTION CXLI
 
 (Sambhava Parva continued)
 
@@ -7794,7 +7796,7 @@ sleep.'"
 
 
 
-SECTION CXLII
+## SECTION CXLII
 
 (Sambhava Parva continued)
 
@@ -8069,3 +8071,6 @@ to grieve in the future.'
 "Vaisampayana continued, 'Having delivered himself thus Kanika returned
 to his abode, while the Kuru king Dhritarashtra became pensive and
 melancholy.'"
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

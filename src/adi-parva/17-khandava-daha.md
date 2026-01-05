@@ -1,4 +1,6 @@
-SECTION CCXXIV
+# Khandava-daha Parva
+
+## SECTION CCXXIV
 
 (Khandava-daha Parva)
 
@@ -85,7 +87,7 @@ his commands).'"
 
 
 
-SECTION CCXXV
+## SECTION CCXXV
 
 (Khandava-daha Parva continued)
 
@@ -271,7 +273,7 @@ fire was extinguished there as often by the denizens of that forest.'"
 
 
 
-SECTION CCXXVI
+## SECTION CCXXVI
 
 (Khandava-daha Parva continued)
 
@@ -309,7 +311,7 @@ do. But, O exalted one, it behoveth thee to give us the adequate means.'"
 
 
 
-SECTION CCXXVII
+## SECTION CCXXVII
 
 (Khandava-daha Parva continued)
 
@@ -400,7 +402,7 @@ mountains, Meru, blazing with the rays of the sun fallen thereupon.'"
 
 
 
-SECTION CCXXVIII
+## SECTION CCXXVIII
 
 (Khandava-daha Parva continued)
 
@@ -455,7 +457,7 @@ with smoke and flashes of lightning, became terrible to behold.'"
 
 
 
-SECTION CCXXIX
+## SECTION CCXXIX
 
 (Khandava-daha Parva continued)
 
@@ -570,7 +572,7 @@ and by its fall killed numerous living creatures that dwelt in Khandava.'"
 
 
 
-SECTION CCXXX
+## SECTION CCXXX
 
 (Khandava-daha Parva continued)
 
@@ -673,7 +675,7 @@ viz., Aswasena, Maya, and four birds called Sarngakas.'"
 
 
 
-SECTION CCXXXI
+## SECTION CCXXXI
 
 (Khandava-daha Parva continued)
 
@@ -766,7 +768,7 @@ Khandava, for the destruction of Mandapala's children.'"
 
 
 
-SECTION CCXXXII
+## SECTION CCXXXII
 
 (Khandava-daha Parva continued)
 
@@ -831,7 +833,7 @@ wise.'"
 
 
 
-SECTION CCXXXIII
+## SECTION CCXXXIII
 
 (Khandava-daha Parva continued)
 
@@ -882,7 +884,7 @@ four, in the hearing of Agni, began to speak.'"
 
 
 
-SECTION CCXXXIV
+## SECTION CCXXXIV
 
 (Khandava-daha Parva continued)
 
@@ -970,7 +972,7 @@ strength, he began then to consume the forest of Khandava.'"
 
 
 
-SECTION CCXXXV
+## SECTION CCXXXV
 
 (Khandava-daha Parva continued)
 
@@ -1058,7 +1060,7 @@ them every assurance.'"
 
 
 
-SECTION CCXXXVI
+## SECTION CCXXXVI
 
 (Khandava-daha Parva continued)
 
@@ -1109,3 +1111,6 @@ END OF ADI PARVA
 FOOTNOTES
 
 1. These are divisions of time
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

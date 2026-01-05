@@ -1,4 +1,6 @@
-SECTION CCX
+# Rajya-labha Parva
+
+## SECTION CCX
 
 (Rajya-labha Parva)
 
@@ -57,7 +59,7 @@ as it happened. Indeed, our curiosity hath become great.'"
 
 
 
-SECTION CCXI
+## SECTION CCXI
 
 (Rajya-labha Parva continued)
 
@@ -144,7 +146,7 @@ flight of time, even regarding a whole year as a single day.'"
 
 
 
-SECTION CCXII
+## SECTION CCXII
 
 (Rajya-labha Parva continued)
 
@@ -218,7 +220,7 @@ abode in Kurukshetra, without a single rival.'"
 
 
 
-SECTION CCXIII
+## SECTION CCXIII
 
 (Rajya-labha Parva continued)
 
@@ -292,7 +294,7 @@ Rishis.'"
 
 
 
-SECTION CCXIV
+## SECTION CCXIV
 
 (Rajya-labha Parva continued)
 
@@ -370,3 +372,6 @@ to the place he wished. Thus, O Janamejaya, did the Pandavas urged by
 Narada, established a rule amongst themselves in regard to their common
 wife. And it was for this, O Bharata, that no dispute ever arose between
 them.'"
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

@@ -1,4 +1,6 @@
-SECTION CLXXXVI
+# Swayamvara Parva
+
+## SECTION CLXXXVI
 
 (Swayamvara Parva)
 
@@ -51,7 +53,7 @@ Swayamvara--that excellent jubilee.'"
 
 
 
-SECTION CLXXXVII
+## SECTION CLXXXVII
 
 (Swayamvara Parva continued)
 
@@ -148,7 +150,7 @@ those assembled lords of the earth.'"
 
 
 
-SECTION CLXXXVIII
+## SECTION CLXXXVIII
 
 (Swayamvara Parva continued)
 
@@ -191,7 +193,7 @@ shoot the mark.'"
 
 
 
-SECTION CLXXXIX
+## SECTION CLXXXIX
 
 (Swayamvara Parva continued)
 
@@ -281,7 +283,7 @@ bow-string.'"
 
 
 
-SECTION CLXL
+## SECTION CLXL
 
 (Swayamvara Parva continued)
 
@@ -353,7 +355,7 @@ wife.'"
 
 
 
-SECTION CLXLI
+## SECTION CLXLI
 
 (Swayamvara Parva continued)
 
@@ -423,7 +425,7 @@ foremost of the Kaurava princes have all escaped (from death)!'"
 
 
 
-SECTION CLXLII
+## SECTION CLXLII
 
 (Swayamvara Parva continued)
 
@@ -534,7 +536,7 @@ of the potter, like the cloud-covered sun appearing on a cloudy day.'"
 
 
 
-SECTION CLXLIII
+## SECTION CLXLIII
 
 (Swayamvara Parva continued)
 
@@ -619,7 +621,7 @@ away from the potter's abode.'"
 
 
 
-SECTION CLXLIV
+## SECTION CLXLIV
 
 (Swayamvara Parva continued)
 
@@ -673,3 +675,6 @@ foremost of men! O thou exalted one, tell me truly who hath won my
 daughter today? O, are the sons of that foremost of Kurus,
 Vichitravirya's son alive? Was it Partha (Arjuna) that took up the bow
 and shot the mark?'"
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

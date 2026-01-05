@@ -1,4 +1,6 @@
-SECTION CCII
+# Viduragamana Parva
+
+## SECTION CCII
 
 (Viduragamana Parva)
 
@@ -84,7 +86,7 @@ relatives.'"
 
 
 
-SECTION CCIII
+## SECTION CCIII
 
 (Viduragamana Parva continued)
 
@@ -136,7 +138,7 @@ bad. What, O Karna, dost thou think?'"
 
 
 
-SECTION CCIV
+## SECTION CCIV
 
 (Viduragamana Parva continued)
 
@@ -201,7 +203,7 @@ those celebrated ministers and took counsel with them.'"
 
 
 
-SECTION CCV
+## SECTION CCV
 
 (Viduragamana Parva continued)
 
@@ -248,7 +250,7 @@ the kingdom unto them.'"
 
 
 
-SECTION CCVI
+## SECTION CCVI
 
 (Viduragamana Parva continued)
 
@@ -325,7 +327,7 @@ exterminated in no time.'"
 
 
 
-SECTION CCVII
+## SECTION CCVII
 
 (Viduragamana Parva continued)
 
@@ -396,7 +398,7 @@ Duryodhana's fault, the subjects of this kingdom would be exterminated.'"
 
 
 
-SECTION CCVIII
+## SECTION CCVIII
 
 (Viduragamana Parva continued)
 
@@ -459,7 +461,7 @@ out with Kunti and Krishna.'"
 
 
 
-SECTION CCIX
+## SECTION CCIX
 
 (Viduragamana Parva continued)
 
@@ -596,3 +598,6 @@ Indra himself, that foremost of cities looked like Bhogavati (the capital
 of the nether kingdom) adorned with the Nagas. And, O monarch, having
 settled the Pandavas there, the heroic Krishna, obtaining their leave,
 came back with Rama to Dwaravati.'"
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

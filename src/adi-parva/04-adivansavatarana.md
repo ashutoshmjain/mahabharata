@@ -1,4 +1,6 @@
-SECTION LIX
+# Adivansavatarana Parva
+
+## SECTION LIX
 
 (Adivansavatarana Parva)
 
@@ -30,7 +32,7 @@ reciting it.'"
 
 
 
-SECTION LX
+## SECTION LX
 
 (Adivansavatarana Parva continued)
 
@@ -91,7 +93,7 @@ extinction of the Kurus and the Pandavas.'"
 
 
 
-SECTION LXI
+## SECTION LXI
 
 (Adivansavatarana Parva continued)
 
@@ -229,7 +231,7 @@ victory of the Pandavas.'"
 
 
 
-SECTION LXII
+## SECTION LXII
 
 (Adivansavatarana Parva continued)
 
@@ -349,7 +351,7 @@ not to be found anywhere.'"
 
 
 
-SECTION LXIII
+## SECTION LXIII
 
 (Adivansavatarana Parva continued)
 
@@ -649,7 +651,7 @@ principal ones who have been mentioned in this history.'"
 
 
 
- SECTION LXIV
+SECTION LXIV
 
 (Adivansavatarana Parva continued)
 
@@ -777,3 +779,6 @@ strength, who hath the mark of the auspicious whirl on his breast, who is
 the mover of every one's faculties and who is adored by all the gods.
 Him, Indra the most exalted of persons, addressed, saying, "Be
 incarnate." And Hari replied,--'Let it be.'"
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

@@ -1,4 +1,6 @@
-SECTION CLIV
+# Hidimva-vadha Parva
+
+## SECTION CLIV
 
 (Hidimva-vadha Parva)
 
@@ -86,7 +88,7 @@ shape. I care not.'"
 
 
 
-SECTION CLV
+## SECTION CLV
 
 (Hidimva-vadha Parva continued)
 
@@ -196,7 +198,7 @@ them.'"
 
 
 
-SECTION CLVI
+## SECTION CLVI
 
 (Hidimva-vadha Parva continued)
 
@@ -282,7 +284,7 @@ Rakshasa woman.'"
 
 
 
-SECTION CLVII
+## SECTION CLVII
 
 (Hidimva-vadha Parva continued)
 
@@ -386,7 +388,7 @@ sure to kill the person against whom it would be hurled).'"
 
 
 
-SECTION CLVIII
+## SECTION CLVIII
 
 (Hidimva-vadha Parva continued)
 
@@ -443,3 +445,6 @@ becoming very happy.'
 "Then, O king, the Pandavas with joined hands said unto the Rishi, 'So be
 it.' And the illustrious master, the Rishi Vyasa, then went away to the
 region whence he had come.'"
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

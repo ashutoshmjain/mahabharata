@@ -1,4 +1,6 @@
-SECTION CLXVII
+# Chaitraratha Parva
+
+## SECTION CLXVII
 
 (Chaitraratha Parva)
 
@@ -41,7 +43,7 @@ Draupadi.'"
 
 
 
-SECTION CLXVIII
+## SECTION CLXVIII
 
 (Chaitraratha Parva continued)
 
@@ -119,7 +121,7 @@ single moment. Sad at heart, the king began to waste away.'"
 
 
 
-SECTION CLXIX
+## SECTION CLXIX
 
 (Chaitraratha Parva continued)
 
@@ -267,7 +269,7 @@ his own great deeds.'"
 
 
 
-SECTION CLXX
+## SECTION CLXX
 
 (Chaitraratha Parva continued)
 
@@ -295,7 +297,7 @@ whether my younger brothers are willing to go.'"
 
 
 
-SECTION CLXXI
+## SECTION CLXXI
 
 (Chaitraratha Parva continued)
 
@@ -347,7 +349,7 @@ ascetic then left them and went to the place whence he had come.'"
 
 
 
-SECTION CLXXII
+## SECTION CLXXII
 
 (Chaitraratha Parva continued)
 
@@ -546,7 +548,7 @@ lasteth for ever in which Brahmanas have power.'"
 
 
 
-SECTION CLXXIII
+## SECTION CLXXIII
 
 (Chaitraratha Parva continued)
 
@@ -646,7 +648,7 @@ copious lamentations and for a time stood motionless with grief.'"
 
 
 
-SECTION CLXXIV
+## SECTION CLXXIV
 
 (Chaitraratha Parva continued)
 
@@ -705,7 +707,7 @@ illuminator of the universe.'"
 
 
 
-SECTION CLXXV
+## SECTION CLXXV
 
 (Chaitraratha Parva continued)
 
@@ -857,7 +859,7 @@ called Tapatya.'"
 
 
 
-SECTION CLXXVI
+## SECTION CLXXVI
 
 (Chaitraratha Parva continued)
 
@@ -972,7 +974,7 @@ Indra himself (in Heaven).'"
 
 
 
-SECTION CLXXVIII
+## SECTION CLXXVIII
 
 (Chaitraratha Parva continued)
 
@@ -1087,7 +1089,7 @@ of heart, to his asylum.'"
 
 
 
-SECTION CLXXIX
+## SECTION CLXXIX
 
 (Chaitraratha Parva continued)
 
@@ -1198,7 +1200,7 @@ Paudanya.'"
 
 
 
-SECTION CLXXX
+## SECTION CLXXX
 
 (Chaitraratha Parva continued)
 
@@ -1270,7 +1272,7 @@ behoveth thee to favour these kings by granting them their eye-sight.'"
 
 
 
-SECTION CLXXXI
+## SECTION CLXXXI
 
 (Chaitraratha Parva continued)
 
@@ -1330,7 +1332,7 @@ wrath of thine that staineth thy ascetic energy.'"
 
 
 
-SECTION CLXXXII
+## SECTION CLXXXII
 
 (Chaitraratha Parva continued)
 
@@ -1393,7 +1395,7 @@ wise men!'"
 
 
 
-SECTION CLXXXIII
+## SECTION CLXXXIII
 
 (Chaitraratha Parva continued)
 
@@ -1451,7 +1453,7 @@ Rakshasas and trees and stones in all seasons.'"
 
 
 
-SECTION CLXXXIV
+## SECTION CLXXXIV
 
 (Chaitraratha Parva continued)
 
@@ -1515,7 +1517,7 @@ appointed Vasishtha to beget a son upon his queen.'"
 
 
 
-SECTION CLXXXV
+## SECTION CLXXXV
 
 (Chaitraratha Parva continued)
 
@@ -1553,3 +1555,6 @@ their own accomplishments to their sovereignty and kingdom. Then those
 kings of men, having had benedictions uttered upon them by that Brahmana,
 resolved to go, accompanied by him, to the Swayamvara of the Princess of
 Panchala.'"
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

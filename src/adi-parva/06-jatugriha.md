@@ -1,4 +1,6 @@
-SECTION CXLIII
+# Jatugriha Parva
+
+## SECTION CXLIII
 
 (Jatugriha Parva)
 
@@ -96,7 +98,7 @@ succeeded to it, however much the people might be unfavourable to us.'"
 
 
 
-SECTION CXLIV
+## SECTION CXLIV
 
 (Jatugriha Parva continued)
 
@@ -154,7 +156,7 @@ pierces my heart even like a terrible dart.'"
 
 
 
-SECTION CXLV
+## SECTION CXLV
 
 (Jatugriha Parva continued)
 
@@ -199,7 +201,7 @@ Varanavata.'"
 
 
 
-SECTION CXLVI
+## SECTION CXLVI
 
 (Jatugriha Parva continued)
 
@@ -242,7 +244,7 @@ everything that the prince had bid him do."
 
 
 
-SECTION CXLVII
+## SECTION CXLVII
 
 (Jatugriha Parva continued)
 
@@ -333,7 +335,7 @@ at Varanavata they beheld the town and the people.'"
 
 
 
-SECTION CXLVIII
+## SECTION CXLVIII
 
 (Jatugriha Parva continued)
 
@@ -411,7 +413,7 @@ what we are after.'"
 
 
 
-SECTION CXLIX
+## SECTION CXLIX
 
 (Jatugriha Parva continued)
 
@@ -457,7 +459,7 @@ else knew of them except Vidura's friend, that good miner.'"
 
 
 
-SECTION CL
+## SECTION CL
 
 (Jatugriha Parva continued)
 
@@ -512,7 +514,7 @@ pressing deep the earth with his stamp.'"
 
 
 
-SECTION CLI
+## SECTION CLI
 
 (Jatugriha Parva continued)
 
@@ -557,7 +559,7 @@ and in great secrecy.'"
 
 
 
-SECTION CLII
+## SECTION CLII
 
 (Jatugriha Parva continued)
 
@@ -626,7 +628,7 @@ celerity.'"
 
 
 
-SECTION CLIII
+## SECTION CLIII
 
 (Jatugriha Parva continued)
 
@@ -726,3 +728,6 @@ not far off from this forest. These all are asleep, so I will sit awake.
 And this will slake their thirst after they rise refreshed from sleep.'
 Saying this, Bhima sat there awake, keeping watch over his sleeping
 mother and brothers.'"
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*
