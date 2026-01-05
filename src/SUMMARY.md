@@ -1,5 +1,6 @@
 # Summary
-- [Mahabharata](./maha00.md)  - [Adi Parva](./maha01.md)
+- [Mahabharata](./maha00.md)
+  - [Adi Parva](./maha01.md)
     - [Introduction](./adi-parva/00-introduction.md)
     - [Paushya](./adi-parva/01-paushya.md)
     - [Pauloma](./adi-parva/02-pauloma.md)
