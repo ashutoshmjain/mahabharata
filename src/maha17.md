@@ -1,18 +1,10 @@
-
-
-
-
 # The Mahabharata
 
 of
 
 Krishna-Dwaipayana Vyasa
 
-BOOK 17
-
 ## Mahaprasthanika-parva
-
-
 
 Translated into English Prose from the Original Sanskrit Text
 
@@ -24,10 +16,6 @@ Kisari Mohan Ganguli
 
 Scanned and Proofed by Mantra Caitanya. Additional proofing and
 formatting at sacred-texts.com, by J. B. Hare, October 2003.
-
-
-
-
 
 1
 
@@ -143,8 +131,6 @@ Dwaraka covered by the ocean. Turning next to the north, those foremost
 ones proceeded on. Observant of Yoga, they were desirous of making a
 round of the whole Earth."
 
-
-
 2
 
 Vaishampayana said: "Those princes of restrained souls and devoted to
@@ -216,8 +202,6 @@ while eating. It is for that, O Bhima, that thou hast fallen down.
 "Having said these words, the mighty-armed Yudhishthira proceeded on,
 without looking back. He had only one companion, the dog of which I have
 repeatedly spoken to thee, that followed him now.
-
-
 
 3
 
@@ -336,3 +320,6 @@ ample proportions and darkish complexion and endued with great
 intelligence and righteous of conduct, has gone."
 
 The end of Mahaprasthanika-parv
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

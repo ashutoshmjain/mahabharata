@@ -1,18 +1,10 @@
-
-
-
-
 # The Mahabharata
 
 of
 
 Krishna-Dwaipayana Vyasa
 
-BOOK 10
-
 ## Sauptika-parva
-
-
 
 Translated into English Prose from the Original Sanskrit Text
 
@@ -24,8 +16,6 @@ Kisari Mohan Ganguli
 
 Scanned and Proofed by Mantra Caitanya. Additional proofing and
 formatting at sacred-texts.com, by J. B. Hare, October 2003.
-
-
 
 1
 
@@ -188,8 +178,6 @@ result of those feats! If your wisdom hath not been driven away by
 stupefaction, then say what is proper for us to do in view of this
 calamitous and grave affair.'"
 
-
-
 2
 
 Kripa said, "We have heard all that thou hast said, O puissant one!
@@ -274,8 +262,6 @@ will say what, after all this, is for our good. We should do what they
 say. Even this is my certain resolution. Those men whose acts do not
 succeed even after the application of exertion, should, without doubt, be
 regarded as afflicted by destiny."
-
-
 
 3
 
@@ -366,8 +352,6 @@ the Pancalas army tonight while sunk in sleep, I shall, O thou of great
 intelligence, obtain great happiness and regard myself to have done my
 duty!"
 
-
-
 4
 
 Kripa said, "By good luck, O thou of unfading glory, thy heart is set
@@ -443,8 +427,6 @@ assuage this wrath of mine! The messengers informed me of the defeat of
 my friends and the victory of the Pandavas. That is burning my heart.
 Having however, caused a slaughter of my enemies during their sleep, I
 shall then take rest and shall then sleep without anxiety."
-
-
 
 5
 
@@ -547,8 +529,6 @@ libations of clarified butter. They proceeded, O lord, towards the camp
 of the Pancalas within which everybody was asleep. Having approached the
 gate, Drona's son, that mighty car-warrior, stopped."
 
-
-
 6
 
 Dhritarashtra said, "Seeing Drona's son stop at the gate of the
@@ -634,8 +614,6 @@ with a garland of human skulls, that plucker of Bhaga's eyes called also
 Rudra and Hara. In ascetic austerities and prowess, he far surpasses all
 the gods. I shall, therefore, seek the protection of Girisha armed with
 the trident."
-
-
 
 7
 
@@ -810,8 +788,6 @@ energy. In consequence of that energy derived from godhead, he became
 all-powerful in battle. Many invisible beings and rakshasas proceeded
 along his right and his left as he set out, like the lord Mahadeva
 himself, for entering the camp of his foes."
-
-
 
 8
 
@@ -1172,8 +1148,6 @@ well as all that remained of the Matsyas, have been slaughtered by me!
 Crowned with success, let us without delay go there where the king is! If
 the king be still alive, we will give him this joyful intelligence!"
 
-
-
 9
 
 Sanjaya said, "Having slain all the Pancalas and the sons of Draupadi,
@@ -1323,8 +1297,6 @@ the spiritual sight which the rishi gave hath been lost by me!"
 Vaishampayana continued, "The king, hearing of his son's death, breathed
 long and hot sighs, and became plunged in great anxiety."
 
-
-
 10
 
 Vaishampayana said, "After that night had gone away, the driver of
@@ -1426,8 +1398,6 @@ that foremost of righteous men, became deeply afflicted. That chief of
 the Kurus then began to weep aloud and fell down on the earth, deprived
 of his senses, along with all his followers."
 
-
-
 11
 
 Vaishampayana said, "Beholding his sons, grandsons, and friends all slain
@@ -1503,8 +1473,6 @@ steeds to be urged without delay. Those steeds, fleet as the wind, thus
 urged, O tiger among men, proceeded with great speed. Possessed of great
 valour and unfading energy, Bhima set out from the Pandava camp and
 proceeded with great celerity along the track of Ashvatthama's vehicle."
-
-
 
 12
 
@@ -1607,8 +1575,6 @@ steeds and much wealth and diverse kinds of gems, left Dvaraka. He is
 wrathful, wicked-souled, restless, and very cruel. He knows the weapon
 called brahmashira. Vrikodara should be protected from him!"
 
-
-
 13
 
 Vaishampayana said, "Having said these words, that foremost of all
@@ -1667,8 +1633,6 @@ the worlds. A fire then was born in that blade of grass, which seemed
 capable of consuming the three worlds like the all-destroying Yama at the
 end of the yuga."
 
-
-
 14
 
 Vaishampayana said, "At the very outset the mighty-armed hero of
@@ -1712,8 +1676,6 @@ The two rishis said, "Those great car-warriors who have fallen in this
 battle were acquainted with diverse kinds of weapons. They, however,
 never shot such a weapon upon human beings. What act of rashness is this,
 ye heroes, that ye have done?"
-
-
 
 15
 
@@ -1800,8 +1762,6 @@ stop thyself."
 Vaishampayana continued, "The son of Drona, having heard these words of
 the island-born, threw that uplifted weapon into the wombs of the Pandava
 women."
-
-
 
 16
 
@@ -1900,8 +1860,6 @@ the death of her sons, the princess Draupadi, possessed of great mental
 strength, gave up her vow. Then king Yudhishthira enquired of the
 mighty-armed Krishna, saying the following words."
 
-
-
 17
 
 Vaishampayana said, "After all the troops had been slain during the hour
@@ -1969,8 +1927,6 @@ These herbs and plants also will multiply like those that will subsist
 upon them!" Having said these words, Bhava went away, in cheerlessness
 and rage, to the foot of the Menjavat mountains for practising severer
 austerities."
-
-
 
 18
 
@@ -2040,3 +1996,6 @@ accomplished that act. It was done through the grace of Mahadeva. Do now
 what should next be done."
 
 The end of Sauptika-parv
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

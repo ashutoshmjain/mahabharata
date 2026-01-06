@@ -1,14 +1,8 @@
-
-
-
-
 ## The Mahabharata
 
 of
 
 Krishna-Dwaipayana Vyasa
-
-BOOK 14
 
 ## ASWAMEDHA PARVA
 
@@ -22,13 +16,11 @@ Kisari Mohan Ganguli
 
 Scanned at sacred-texts.com, January 2004. Proofed by John Bruno Hare.
 
-
-
 THE MAHABHARATA
 
 ASWAMEDHA PARVA
 
-SECTION I
+## SECTION I
 
 (Aswamedhika Parva)
 
@@ -73,9 +65,7 @@ been plunged in an ocean of woe. Behold thy old father and mother, O
 king, plunged in misery. But, O master of men, I find no occasion for thy
 grief.'"
 
-
-
-SECTION II
+## SECTION II
 
 "Vaisampayana said, "Thus addressed by the intelligent king Dhritarashtra
 Yudhishthira, possessed of understanding, became calm. And then Kesava
@@ -122,9 +112,7 @@ heard of the virtues of kings as well as the merits of gifts. Wherefore
 then, O Bharata, acquainted with every morality and versed in all the
 Agamas, art thou overwhelmed (with grief) as if from ignorance?'"
 
-
-
-SECTION III
+## SECTION III
 
 "Vyasa said, 'O Yudhishthira, thy wisdom, I conceive, is not adequate.
 None doth any act by virtue of his own power. It is God. who engageth him
@@ -171,9 +159,7 @@ thou art anxious to hear concerning that king sprung from the Karandhama
 race, then listen to me as I tell thee when that highly powerful monarch
 possessed of immense wealth reigned.'"
 
-
-
-SECTION IV
+## SECTION IV
 
 "Yudhishthira said, 'O righteous one, I am desirous of hearing the
 history of that royal sage Marutta. Do thou, O Dwaipayana, relate this
@@ -233,9 +219,7 @@ the sacrificial ground was near this place. And that righteous lord of
 Earth, king Marutta, along with other princes, performed a sacrifice
 there.'"
 
-
-
-SECTION V
+## SECTION V
 
 "Yudhishthira said, 'O best of speakers, how that king became so
 powerful? And how, O twice-born one, did he obtain so much gold? And
@@ -292,9 +276,7 @@ Vaisampayana continued,--'On hearing this speech from Vrihaspati Indra
 became cured of his envious feelings, and then praising him he repaired
 to his own mansion.'
 
-
-
-SECTION VI
+## SECTION VI
 
 "Vyasa said, 'The ancient legend of Vrihaspati and the wise Marutta is
 cited in this connection. On hearing of the compact made by Angira's son
@@ -390,9 +372,7 @@ together in supplication and trying to appease him. At length overcome
 with fatigue, and reaching the cool shade of a sacred fig tree with many
 branches, Samvarta desisted from his course and sat himself to rest.'
 
-
-
-SECTION VII
+## SECTION VII
 
 "Samvarta said, 'How hast thou come to know me, and who has referred thee
 to me, do thou tell this to me truly, if thou wishest me to do what is
@@ -470,9 +450,7 @@ both Indra and my brother, I shall certainly make thee attain equality
 with Sakra, and I tell thee truly that I shall do what is agreeable to
 thee."
 
-
-
-SECTION VIII
+## SECTION VIII
 
 "Samvarta said, "There is a peak named Munjaban on the summits of the
 Himalaya mountains, where the adorable Lord of Uma (Mahadeva) is
@@ -534,9 +512,7 @@ glow of his complexion left him, and his frame became emaciated. And when
 the lord of the gods came to know that Vrihaspati was much aggrieved, he
 went to him attended by the Immortals and addressed him thus."
 
-
-
-SECTION IX
+## SECTION IX
 
 "Indra said, "Dost thou, O Vrihaspati, sleep in peace, and are thy
 servants agreeable to thee, dost thou seek the welfare of the gods, and
@@ -687,9 +663,7 @@ than that of the Kshatriyas. None are more powerful than Brahmanas and
 knowing duly, as I do, the power of Brahmanas, I do not, O Sakra, desire
 to come in conflict with Samvarta."
 
-
-
-SECTION V
+## SECTION V
 
 "Indra said, "Even so it is; the might of Brahmanas is great and there
 are none more powerful than Brahmanas, but I can never bear with
@@ -837,9 +811,7 @@ delighted on hearing this speech of the son of Satyavati (Vyasa), and
 desirous of performing his sacrifice with those riches, he held repeated
 consultations with his ministers."
 
-
-
-SECTION XI
+## SECTION XI
 
 Vaisampayana said, "When Vyasa of wonderful achievements had concluded
 his speech to the king, the highly-puissant son of Vasudeva (Krishna)
@@ -887,9 +859,7 @@ hundred sacrifices slew Vritra in his body by means of his invisible
 thunderbolt, and know, O prince, that this religious mystery was recited
 by Sakra to the great sages, and they in turn told it to me."
 
-
-
-SECTION XII
+## SECTION XII
 
 "Vasudeva said, "There are two kinds of ailments, physical and mental.
 They are produced by the mutual action of the body and mind on each
@@ -936,9 +906,7 @@ thou attain success. And knowing this wisdom and the destiny of all
 creatures, and following the conduct of thy ancestors, do thou duly
 administer thy kingdom."
 
-
-
-SECTION XIII
+## SECTION XIII
 
 "Vasudeva said, "O scion of Bharata's race, salvation is not attained by
 foregoing the external things (like kingdom, etc), it is only attained by
@@ -1007,9 +975,7 @@ see the men slain in this battle alive again. Therefore shouldst thou
 perform magnificent sacrifices with presents, so that thou mayst attain
 fame in this world, and reach the perfect way (hereafter)."
 
-
-
-SECTION XIV
+## SECTION XIV
 
 "Vaisampayana said, "With such speeches as these, was the royal saint
 Yudhishthira, bereft of his friends, consoled by those sages of great
@@ -1052,9 +1018,7 @@ advance, made this entry into the city of Hastina Nagar, and consoling
 his lordly uncle, possessed of eyes of wisdom, that virtuous prince
 continued to administer the earth with his brothers.
 
-
-
-SECTION XV
+## SECTION XV
 
 Janamejaya said, 'O the best of regenerate beings, when the Pandavas had
 reconquered and pacified their kingdom, what did the two warriors,
@@ -1138,9 +1102,7 @@ Arjuna had been thus accosted by the noble-hearted Janarddana, he,
 showing all the honours due to him, sorrowfully replied by merely saying
 'be it so.'
 
-
-
-SECTION XVI
+## SECTION XVI
 
 (Anugita Parva)
 
@@ -1276,9 +1238,7 @@ Indeed, I applaud it much, for it was with the aid of that intelligence
 that thou wert able to recognise me. Surely, O Kasyapa, thou art
 possessed of great intelligence.'
 
-
-
-SECTION XVII
+## SECTION XVII
 
 "Vasudeva said, touching the feet of that sage, the Brahmana asked him
 some questions that were exceedingly difficult to answer. That foremost
@@ -1390,9 +1350,7 @@ discourse to you on the attainment by Jiva of the condition of residence
 in the womb. Do thou hear me, with concentrated attention, O regenerate
 one, as I speak to thee!'
 
-
-
-SECTION XVIII
+## SECTION XVIII
 
 "--The Brahmana said, 'The acts, good and bad, that a Jiva does are not
 subject to destruction. Upon attainment of body after body, those acts
@@ -1480,9 +1438,7 @@ agreeably to truth, concerning this. Do thou, O learned Brahmana,
 understand in completeness that which constitutes the excellent
 knowledge, as I declare it, of that indestructible seat.--'"
 
-
-
-SECTION XIX
+## SECTION XIX
 
 "--The Brahmana said, 'He who becomes absorbed in the one receptacle (of
 all things), freeing himself from even the thought of his own identity
@@ -1653,9 +1609,7 @@ that is to be said,--there is nothing else that is higher than this. Yoga
 takes place in his case, O son of Pritha, who devotes himself to its
 constant practice for a period of six months.'"
 
-
-
-SECTION XX
+## SECTION XX
 
 "Vasudeva said, 'In this connection is cited the ancient narrative, O son
 of Pritha, of the discourse that took place between a married couple. A
@@ -1727,9 +1681,7 @@ as the sevenfold creation. It is in this very way that all this was
 comprehended by the ancients. By the three full and final libations, the
 full become full with light.'"
 
-
-
-SECTION XXI
+## SECTION XXI
 
 "The Brahmana said, 'In this connection is cited the following ancient
 story. Do thou understand, of what kind the institution is of the ten
@@ -1809,9 +1761,7 @@ dwells in Samana. Even in this way did Word formerly speak. Hence Mind,
 in consequence of being immovable, is distinguished, and the goddess
 Word, in consequence of being movable, is also distinguished."'
 
-
-
-SECTION XXII
+## SECTION XXII
 
 "The Brahmana said, 'In this connection is cited the ancient story, O
 blessed one, of what the institution is of the seven sacrificing priests.
@@ -1887,9 +1837,7 @@ respective attributes; true it is, we have no knowledge of one another's
 attributes. But without us thou canst have no perception. Without us no
 happiness can come to thee.'"
 
-
-
-SECTION XXIII
+## SECTION XXIII
 
 "The Brahmana said, 'In this connection, O blessed lady, is cited the
 ancient story of what kind the institution is of the five sacrificing
@@ -1961,9 +1909,7 @@ there are five life-winds. My own self is one. That one accumulates into
 many forms. Becoming friendly unto one another, and gratifying one
 another, depart in peace. Blessings to ye, do ye uphold one another!'"
 
-
-
-SECTION XXIV
+## SECTION XXIV
 
 "The Brahmana said, 'In this connection is cited the ancient story of the
 discourse between Narada and the Rishi Devamata.'
@@ -2008,9 +1954,7 @@ Samana once more comes into operation. Only Vyana exists for
 tranquillity. Tranquillity is eternal Brahman. This is the excellent seat
 of Udana as the Brahmanas know.'"[67]
 
-
-
-SECTION XXV
+## SECTION XXV
 
 "The Brahmana said, 'In this connection is recited the ancient story of
 what the institution is of the Chaturhotra (sacrifice). The ordinances
@@ -2058,9 +2002,7 @@ Narayana were animals offered in days of yore.[72] Then are sung some
 Samanas. On that topic occurs an authority. O timid one, know that the
 divine Narayana is the soul of all.'"
 
-
-
-SECTION XXVI
+## SECTION XXVI
 
 "The Brahmana said, 'There is one Ruler. There is no second beside him.
 He that is Ruler resides in the heart. I shall speak now of him. Impelled
@@ -2109,9 +2051,7 @@ Brahmacharyya is even so subtle, as understood by the wise. Having
 understood it, they betook themselves to it, instructed by the
 Kshetrajna!'"[75]
 
-
-
-SECTION XXVII
+## SECTION XXVII
 
 "The Brahmana said, 'Having crossed that impassable fastness (the world)
 which has purposes for its gadflies and mosquitoes, grief and joy for its
@@ -2174,9 +2114,7 @@ that sacred forest that is understood by Brahmanas, and understanding it,
 they live (in accordance with the ordinance), directed by the
 Kshetrajna.'"
 
-
-
-SECTION XXVIII
+## SECTION XXVIII
 
 "The Brahmana said, 'I do not smell scents. I do not perceive tastes. I
 do not see colours. I do not touch. I do not likewise hear the diverse
@@ -2261,9 +2199,7 @@ exceedingly subtle, to be of this kind and having understood it, they
 live accordingly directed by the Kshetrajna, that beholder of all
 topics.'"
 
-
-
-SECTION XXIX
+## SECTION XXIX
 
 "The Brahmana said, 'In this connection is cited the ancient story, O
 lady, of the discourse between Karttaviryya and the Ocean. There was a
@@ -2314,9 +2250,7 @@ behoves you not to forbid me.' The Pitris then said, 'O foremost of all
 victorious men, it behoves thee not to slay these inferior Kshatriyas. It
 is not proper that thyself, being a Brahmana, should slay these kings.'"
 
-
-
-SECTION XXX
+## SECTION XXX
 
 "The Pitris said, 'In this connection is cited this old history. Having
 heard it, thou shouldst act according to it, O foremost of all regenerate
@@ -2415,9 +2349,7 @@ Jamadagni's son practised the austerest penances, and having practised
 them, that highly blessed one attained to that success which is difficult
 to reach.'"
 
-
-
-SECTION XXXI
+## SECTION XXXI
 
 "The Brahmana said, 'There are three foes in the world. They are said to
 be ninefold, agreeably to their qualities. Exultation, satisfaction, and
@@ -2454,9 +2386,7 @@ Ambarisha of great celebrity, on the subject of sovereignty which he kept
 before him,--that king who had cut off the one foremost fault viz.,
 cupidity.'"
 
-
-
-SECTION XXXII
+## SECTION XXXII
 
 "The Brahmana said, 'In this connection is cited the old narrative, O
 lady, of the discourse between a Brahmana and (king) Janaka. King Janaka
@@ -2521,9 +2451,7 @@ for setting this wheel in motion, this wheel that has the quality of
 Goodness for its circumference, Brahmin for its nave, and the
 understanding for its spokes, and which never turns back!'"[92]
 
-
-
-SECTION XXXIII
+## SECTION XXXIII
 
 "The Brahmana said, 'I do not, O timid one, move in this world in that
 manner which thou, according to thy own understanding, censurest. I am a
@@ -2548,9 +2476,7 @@ thou needst have no apprehension in respect of the world hereafter. With
 thy heart intent upon the real entity, it is my soul into which thou wilt
 come.'"
 
-
-
-SECTION XXXIV
+## SECTION XXXIV
 
 "The Brahmana's wife said, 'This is incapable of being understood by a
 person of little intelligence as also by one whose soul has not been
@@ -2597,9 +2523,7 @@ attained. Do thou, tell me about them, O thou of unfading glory.'
 that my understanding is the Brahmana's wife. He who has been spoken of
 as Kshetrajna is I myself, O Dhananjaya!"'
 
-
-
-SECTION XXXV
+## SECTION XXXV
 
 "Arjuna said, 'It behoveth thee to expound Brahma to me,--that which is
 the highest object of knowledge. Through thy favour, my mind is delighted
@@ -2738,9 +2662,7 @@ accurately, all the qualities, all the deities, succeeds in cleansing
 himself of all sin. Freed from all bonds, such a man succeeds in enjoying
 all regions of spotless purity.'"[103]
 
-
-
-SECTION XXXVI
+## SECTION XXXVI
 
 "Brahma said, 'That which is unmanifest, which is indistinct,
 all-pervading, everlasting, immutable, should be known to become the city
@@ -2835,9 +2757,7 @@ and lower forms, been described to you. That man who always bears in mind
 the qualities mentioned here, will surely succeed in becoming freed from
 all characteristics that appertain to Darkness.'"
 
-
-
-SECTION XXXVII
+## SECTION XXXVII
 
 "Brahman said, 'Ye best of beings, I shall now declare to you accurately
 what (the quality of) Passion is. Ye highly blessed ones, do you
@@ -2883,9 +2803,7 @@ to which it leads has been properly described to you. The man who always
 understands these qualities, succeeds in always freeing himself from all
 of them which appertain to Passion.'"
 
-
-
-SECTION XXXVIII
+## SECTION XXXVIII
 
 "Brahmana said, 'I shall, after this discourse to you on that excellent
 quality which is the third (in the order of our enumeration). It is
@@ -2930,9 +2848,7 @@ also been properly set forth. That man who always understands these
 qualities, succeeds in enjoying the qualities without being attached to
 them.'"
 
-
-
-SECTION XXXIX
+## SECTION XXXIX
 
 "Brahmana said, 'The qualities are incapable of being declared as
 completely separate from one another. Passion and Goodness and Darkness
@@ -2996,9 +2912,7 @@ qualities), is well conversant with the truth about all distinctions and
 freed from the body, becomes liberated from all the qualities and enjoys
 absolute happiness.'"
 
-
-
-SECTION XL
+## SECTION XL
 
 "Brahmana said, 'From the unmanifest first sprang Mahat (the Great Soul)
 endued with great intelligence, the source of all the qualities. That is
@@ -3026,9 +2940,7 @@ universal form, the golden one, the highest goal of all persons endued
 with understanding,--that intelligent man lives, transcending the
 understanding.'"
 
-
-
-SECTION XLI
+## SECTION XLI
 
 "Brahmana said, 'That Mahat who was first produced is called Egoism. When
 it sprang up as I, it came to be called as the second creation. That
@@ -3045,9 +2957,7 @@ creatures) even in this way. It is that which causes all changes. It is
 that which causes all beings to move. By its own light it illuminates the
 universe likewise.'"
 
-
-
-SECTION XLII
+## SECTION XLII
 
 'Brahmana said, From Egoism were verily born the five great elements.
 They are earth, air, ether, water, and light numbering the fifth. In
@@ -3205,9 +3115,7 @@ conclaves of learned Brahmanas, deities and Asuras, and Yakshas, and
 Pisachas, the Pitris, and birds, and bands of Rakshasas, and bands of
 ghostly beings, and all the great Rishis, praise.'"
 
-
-
-SECTION XLIII
+## SECTION XLIII
 
 "Brahmana said, 'Among men, the royal Kshatriya is (endued with) the
 middle quality. Among vehicles, the elephant (is so); and among denizens
@@ -3306,9 +3214,7 @@ that is free from all pairs of opposites, that never bends his head to
 any one, that is divested of Swaha, that is immovable, and homeless, is
 the Kshetrajna. He is the Supreme Lord."'
 
-
-
-SECTION XLIV
+## SECTION XLIV
 
 "Brahmana said, 'I shall now tell you truly about all that which has a
 beginning, middle, and end, and which is endued with name and
@@ -3362,9 +3268,7 @@ Hence, one that is possessed of a tranquil soul, that has subjugated his
 senses, that is freed from the sense of meum, that is devoid of egoism,
 is released from all sins by pure knowledge.'"
 
-
-
-SECTION XLV
+## SECTION XLV
 
 "Brahmana said, 'The wheel of life moves on. It has the understanding for
 its strength; the mind for the pole (on which it rests); the group of
@@ -3436,9 +3340,7 @@ domestic mode of life and practises rigid vows, thus devoted and thus
 discharging all duties to the best of his power, succeeds in conquering
 Heaven.'"
 
-
-
-SECTION XLVI
+## SECTION XLVI
 
 "Brahmana said, 'Duly studying thus to the best of his power, in the way
 described above, and likewise living as a Brahmacharin, one that is
@@ -3592,9 +3494,7 @@ none, one attains to Emancipation. Freed from all attachments, like the
 wind in space, with his accumulations exhausted, without distress of any
 kind, he attains to his highest goal.'"
 
-
-
-SECTION XLVII
+## SECTION XLVII
 
 "Brahmana said. 'The ancients who were utterers of certain truth, say
 that Renunciation is penance. Brahmanas, dwelling in that which has
@@ -3645,9 +3545,7 @@ becomes conversant with that which is above nature, then, understanding
 the Kshetra, and endued with an intelligence that transcends all
 qualities and apprehends everything, one becomes released from all sins.'"
 
-
-
-SECTION XLVIII
+## SECTION XLVIII
 
 "Brahmana said, 'Some regard Brahman as a tree. Some regard Brahman as a
 great forest. Some regard Brahman as unmanifest. Some regard it as
@@ -3686,9 +3584,7 @@ drops on the leaf of the lotus.'"
 were the foremost of men, felt some doubts and (therefore) they once more
 questioned the Grandsire (of all creatures).'"[145]
 
-
-
-SECTION XLIX
+## SECTION XLIX
 
 "The Rishis said,--'Which among the duties is deemed to be the most
 worthy of being performed? The diverse modes of duty, we see, are
@@ -3730,9 +3626,7 @@ Brahmanas, the illustrious creator of the worlds, endued with great
 intelligence and possessed of a righteous soul, declared to them
 accurately what they asked.'"
 
-
-
-SECTION L
+## SECTION L
 
 "Brahmana said, 'Well then, I shall declare to you what you ask. Learn
 what was told by a preceptor to a disciple that came unto him. Hearing it
@@ -3866,9 +3760,7 @@ conversant with the ordinances in respect of all acts, and who
 constitutes himself the soul of all creatures, attains to the Unfading
 Soul.'"
 
-
-
-SECTION LI
+## SECTION LI
 
 "Brahmana said, 'Since the mind is the ruler of these five elements, in
 the matter of controlling and bringing them forth, the mind, therefore,
@@ -4001,9 +3893,7 @@ in reply,--We shall go to-day from this town to the city called after the
 elephant. Meeting king Yudhishthira of virtuous soul there, and informing
 him (of thy intention) thou shalt then repair to thy own city!'"
 
-
-
-SECTION LII
+## SECTION LII
 
 "Vaisampayana said, 'After this, Krishna ordered Daruka, saying--Let my
 car be yoked.--Within a very short space of time Daruka informed (his
@@ -4148,9 +4038,7 @@ proceeded to the city of the Anarttas, after having slain all his foes,
 like He of a hundred sacrifices proceeding to Heaven (after slaughtering
 all his foes).'
 
-
-
-SECTION LIII
+## SECTION LIII
 
 "Vaisampayana said, 'As he of Vrishni's race was proceeding to Dwaraka,
 those foremost princes of Bharata's race, those chastisers of foes
@@ -4216,9 +4104,7 @@ ones, I know that thou hast observed the rules of Brahmacharyya from the
 days of thy infancy. I do not, therefore, desire the loss or diminution
 of thy penances achieved with so much pain.'"
 
-
-
-SECTION LIV
+## SECTION LIV
 
 "Utanka said, 'Do thou, O Kesava, tell me that faultless Adhyatma. Having
 heard thy discourse I shall ordain what is for thy good or denounce a
@@ -4280,9 +4166,7 @@ in battle, and have, without doubt, gone to Heaven. The Pandavas also, O
 best of Brahmanas, have acquired great fame. I have thus told thee all
 that thou hadst asked me.'"
 
-
-
-SECTION LV
+## SECTION LV
 
 "Utanka said, 'I know thee, O Janarddana, to be the creator of the
 universe. Without doubt, this knowledge that I have is the result of thy
@@ -4378,9 +4262,7 @@ Utanka-clouds.' Thus addressed by Krishna, Utanka became filled with
 gladness, and to this day, O Bharata, Utanka-clouds (appear and) shower
 rain on and deserts.'"
 
-
-
-SECTION LVI
+## SECTION LVI
 
 "Janamejaya said, 'With what penances was the high-souled Utanka endued
 so that he entertained the wish to denounce a curse on Vishnu himself,
@@ -4482,9 +4364,7 @@ this task. He shall not, however, incur any danger through thy grace.
 Thus addressed by her, Gautama said,--'Let it be so!' Meanwhile, Utanka
 met king Saudasa in a deserted forest.'"
 
-
-
-SECTION LVII
+## SECTION LVII
 
 "Vaisampayana said, "Beholding the king, who had become so, of frightful
 mien, wearing a long beard smeared with the blood of human beings, the
@@ -4573,9 +4453,7 @@ in size. Even of such virtues are these ear-rings of mine. They are
 praised and honoured everywhere. Indeed, they are known over the three
 worlds. Do thou, therefore, bring me some sign (from my husband).'"
 
-
-
-SECTION LVIII
+## SECTION LVIII
 
 "Vaisampayana said, 'Utanka, coming back to king Saudasa who was always
 well-disposed towards all his friends, solicited him for some sign (to
@@ -4732,9 +4610,7 @@ preceptor's wife). Of such prowess, O chief of Bharata's race, was the
 ascetic Utanka. So austere were the penances with which he was endued. I
 have thus told thee what thou hadst asked me.'"
 
-
-
-SECTION LIX
+## SECTION LIX
 
 "Janamejaya said, 'After having conferred that boon on Utanka, O foremost
 of regenerate persons, what did the mighty-armed Govinda of great
@@ -4788,9 +4664,7 @@ dispelled his fatigue, Krishna of mighty energy, as he sat there, then
 recounted the chief incidents of the great battle in answer to the
 questions put to him by his sire.'"
 
-
-
-SECTION LX
+## SECTION LX
 
 "Vasudeva said, 'O thou of Vrishni's race, I have repeatedly heard men
 speaking of the wonderful battle (between the Kurus and the Pandavas).
@@ -4880,9 +4754,7 @@ Heaven.'
 "Vaisampayana continued, 'The Vrishnis, as they heard, O king, that
 dreadful account became filled with grief and sorrow and pain.'
 
-
-
-SECTION LXI
+## SECTION LXI
 
 "Vaisampayana said, 'After the high-souled Vasudeva of great prowess had
 finished his narration of the great battle of the Bharatas before his
@@ -4975,9 +4847,7 @@ Subhadra here. It was even thus, O giver of honours, that thy daughter's
 son met with his death. Cast off thy burning grief, O irresistible one.
 Indeed, do not set thy heart on sorrow.'
 
-
-
-SECTION LXII
+## SECTION LXII
 
 "Vaisampayana said, 'Having heard these words of his son Vasudeva, that
 descendant of Sura, of righteous soul, casting off his grief, made
@@ -5023,9 +4893,7 @@ so, he made himself invisible there and then. The intelligent king
 Yudhishthira the just, hearing the words of Vyasa, set his mind on the
 journey for bringing wealth (for the sacrifice).'"
 
-
-
-SECTION LXIII
+## SECTION LXIII
 
 "Janamejaya said, 'Having heard these words, O regenerate one, that were
 spoken by the high-souled Vyasa in respect of the horse-sacrifice, what
@@ -5084,9 +4952,7 @@ Yuyutsu, the son of Dhritarashtra, in the capital, they set out,
 worshipped by the citizens and by many Brahmanas possessed of great
 wisdom.'"
 
-
-
-SECTION LXIV
+## SECTION LXIV
 
 "Vaisampayana said, 'They then set out, with cheerful hearts, and
 accompanied by men and animals all of whom and which were equally
@@ -5135,9 +5001,7 @@ discourses of the learned Brahmanas (on diverse subjects). When the
 cloudless morning came, those foremost of Brahmanas addressed the royal
 son of Dharma (saying as follows).'
 
-
-
-SECTION LXV
+## SECTION LXV
 
 "'The Brahmanas said, 'Let offerings be made unto the high-souled
 Mahadeva of three eyes. Having duly dedicated those offerings, O king, we
@@ -5195,9 +5059,7 @@ Goyuta (4 miles). That mighty host, O king, afflicted with the weight
 they bore, returned, bearing that wealth, towards the capital, gladdening
 the hearts of all those perpetuators of the Kuru race.'"
 
-
-
-SECTION LXVI
+## SECTION LXVI
 
 "Vaisampayana said, 'Meanwhile, Vasudeva of great energy accompanied by
 the Vrishnis, came to the city called after the elephant. While leaving
@@ -5266,9 +5128,7 @@ the son of Vasudeva's nephew has been born dead.' After Kunti had said
 so, Janarddana took hold of her, O Bharata, and gently raising her from
 the Earth, comforted her as follows.'"
 
-
-
-SECTION LXVII
+## SECTION LXVII
 
 "Vaisampayana said, 'After Kunti had sat up, Subhadra, beholding her
 brother, began to weep aloud, and afflicted with excessive grief,
@@ -5313,9 +5173,7 @@ of Pandu. It behoveth thee, O mighty-armed one, to show compassion to
 this Uttara or to me, thinking that I am thy sister or even a mother that
 hath lost her son, and one that hath thrown herself upon thy protection.'"
 
-
-
-SECTION LXVIII
+## SECTION LXVIII
 
 "Vaisampayana said, 'Thus addressed, O king, (by his sister and others),
 the slayer of Kesin, exceedingly afflicted by grief, answered,--'So be
@@ -5373,9 +5231,7 @@ on the field of battle, O hero, I would follow him without any loss of
 time. I did not, however, keep my vow, cruel that I am and fond of life.
 If I repair to him now, what, indeed, will Phalguna's son say?'"
 
-
-
-SECTION LXIX
+## SECTION LXIX
 
 "Vaisampayana said, 'The helpless Uttara, desirous of getting back her
 child, having indulged in these piteous lamentations, fell down in
@@ -5430,9 +5286,7 @@ righteously slain by me, let this child revive today by that truth!'
 After these words were uttered by Vasudeva, that child, O foremost one of
 Bharata's race, became animate and began gradually to move, O monarch.'
 
-
-
-SECTION LXX
+## SECTION LXX
 
 "Vaisampayana said, 'When the Brahma-weapon was withdrawn by Krishna, at
 that time, the laying-in room was illumined by thy father with his
@@ -5481,9 +5335,7 @@ loudly proclaimed that that was to be a day of rejoicing for the entire
 kingdom as an indication of the success of the enterprise for bringing a
 profusion of gems and other valuables.'"[187]
 
-
-
-SECTION LXXI
+## SECTION LXXI
 
 Vaisampayana, said, 'Hearing that the Pandavas were near, that crusher of
 foes, viz., Vasudeva, accompanied by his ministers, went out for seeing
@@ -5552,9 +5404,7 @@ accomplish all, O sinless one, that thou mayst bid me accomplish.
 Bhimasena and Arjuna and the two sons of Madravati will be sacrificing
 when thou, O king, sacrificest.'"[188]
 
-
-
-SECTION LXXII
+## SECTION LXXII
 
 "Vaisampayana said, 'Thus addressed by Krishna, Yudhishthira, the son of
 Dharma, endued with great intelligence, saluted Vyasa and said these
@@ -5627,9 +5477,7 @@ protect the city. With the permission of king Dhritarashtra, Yudhishthira
 then set Sahadeva, that foremost of warriors, to wait upon all the
 invited guests.'"
 
-
-
-SECTION LXXIII
+## SECTION LXXIII
 
 "Vaisampayana said, 'When the hour for initiation came, all those great
 Ritwijas duly initiated the king in view of the horse-sacrifice. Having
@@ -5695,9 +5543,7 @@ came to encounter him. I shall, O sinless king, narrate to thee those
 battles only which raged with great fury and which were the principal
 ones among all he fought.'"
 
-
-
-SECTION LXXIV
+## SECTION LXXIV
 
 "Vaisampayana said. 'A battle took place between the diadem-decked
 (Arjuna) and the sons and grandsons of the Trigartas whose hostility the
@@ -5773,9 +5619,7 @@ servants. O delighter of the Kurus, we shall execute all thy commands.'
 Hearing these words expressive of their submission, Dhananjaya, said unto
 them, 'Do ye, O kings, save your lives, and accept my dominion.'"
 
-
-
-SECTION LXXV
+## SECTION LXXV
 
 "Vaisampayana said, 'That foremost of steeds then proceeded to the realm
 of Pragjyotisha and began to wander there. At this, Bhagadatta's son, who
@@ -5825,9 +5669,7 @@ of virulent poison. Pierced therewith, the mighty elephant, emitting a
 large quantity of blood, looked like a mountain of many springs
 discharging rills of water coloured with red chalk.'"
 
-
-
-SECTION LXXVI
+## SECTION LXXVI
 
 "Vaisampayana said, 'Thus waged that battle, O chief of the Bharatas, for
 three days between Arjuna and that prince like the encounter between him
@@ -5887,9 +5729,7 @@ that sacrifice of king Yudhishthira the just, for it takes place on that
 day. Thus addressed by Arjuna, the royal son of Bhagadatta, defeated by
 the son of Pandu, said,--'So be it.'"
 
-
-
-SECTION LXXVII
+## SECTION LXXVII
 
 "Vaisampayana said, 'There occurred a great battle between the
 diadem-decked Arjuna and the hundreds of Saindhavas who still lived after
@@ -5962,9 +5802,7 @@ magic (instead of any human agency). The Kaurava hero, piercing the
 hostile host with showers of arrows, looked resplendent like the autumnal
 Sun when he disperses the clouds with his powerful rays.'"
 
-
-
-SECTION LXXVIII
+## SECTION LXXVIII
 
 "Vaisampayana said, 'The irresistible wielder of Gandiva, addresst for
 battle, stood immovable on the field like Himavat himself. The Saindhava
@@ -6073,9 +5911,7 @@ feats of Arjuna. In course of time, O chief of men, the horse wandering
 at its pleasure, at last arrived within the dominions of the ruler of
 Manipura, followed by the son of Pandu.'"
 
-
-
-SECTION LXXIX
+## SECTION LXXIX
 
 "Vaisampayana said, 'The ruler of Manipura, Vabhruvahana, hearing that
 his sire Arjuna had arrived within his dominions, went out with humility,
@@ -6164,9 +6000,7 @@ agitation of mind, repaired to the field of battle. Her heart burning
 with sorrow, weeping piteously the while, and trembling all over, the
 mother of the ruler of Manipura saw her slain husband."'
 
-
-
-SECTION LXXX
+## SECTION LXXX
 
 "Vaisampayana said, 'That lady of eyes like lotus petals, having indulged
 in copious lamentations, and burning with grief, at last lost her senses
@@ -6303,9 +6137,7 @@ know what the cause is that has brought out the ladies.' The intelligent
 ruler of Manipura, thug questioned by Dhananjaya, gratified him by
 bending his head in reverence, and then said,--'Let Ulupi be questioned.'
 
-
-
-SECTION LXXXI
+## SECTION LXXXI
 
 "Arjuna said, 'What business brought thee here, O daughter (-in-law) of
 Kuru's race, and what also is the cause of the arrival on the field of
@@ -6378,9 +6210,7 @@ Place I have none wherein to rest for even a short while.' The son of the
 chastiser of Paka then, duly worshipped by his son and obtaining the
 permission of his two wives, left the spot and proceeded on his way.'"
 
-
-
-SECTION LXXXII
+## SECTION LXXXII
 
 "Vaisampayana said, 'The (sacrificial) steed, having wandered over the
 whole Earth bounded by the ocean, then ceased and turned his face towards
@@ -6453,9 +6283,7 @@ Pundras, and the Kosalas. In those realms Dhananjaya, with his bow
 Gandiva, O king, vanquished innumerable Mlechecha armies one after
 another.'"
 
-
-
-SECTION LXXXIII
+## SECTION LXXXIII
 
 "Vaisampayana said, 'Worshipped by the ruler of Magadha, Pandu's son
 having white steeds yoked unto his car, proceeded along the south,
@@ -6501,9 +6329,7 @@ the diadem-decked hero and the ruler of Gandharas, viz., the son of
 Sakuni, who had a bitter rememberance of the grudge his sire bore to the
 Pandavas.'
 
-
-
-SECTION LXXXIV
+## SECTION LXXXIV
 
 "Vaisampayana said, 'The heroic son of Sakuni, who was a mighty
 car-warrior among the Gandharas, accompanied by a large force, proceeded
@@ -6567,9 +6393,7 @@ thy understanding again go astray. Thou shouldst go to the
 Horse-sacrifice of our king which comes off on the day of full moon of
 the month of Chaitra.'
 
-
-
-SECTION LXXXV
+## SECTION LXXXV
 
 "Vaisampayana said, 'Having said these words, Partha set out, following
 the horse which wandered at its will. The sacrificial steed then turned
@@ -6672,9 +6496,7 @@ attendants of the Pandavas gave away unto the Brahmanas diverge kinds of
 food and drink which were, besides, so costly as to be worthy of being
 eaten and drunk by kings themselves.'"
 
-
-
-SECTION LXXXVI
+## SECTION LXXXVI
 
 "Vaisampayana said, 'Beholding those kings--lords of Earth--all
 conversant with the Vedas, arrive, king Yudhishthira, addressing
@@ -6719,9 +6541,7 @@ honour him duly for my sake. O puissant one. He is always attached and
 deeply devoted to me.'--Hearing these words, king Yudhishthira the just,
 approved of them and said as follows.'
 
-
-
-SECTION LXXXVII
+## SECTION LXXXVII
 
 "Yudhishthira said, 'I have heard, O Krishna, thy agreeable words. They
 are such as deserve to be spoken by thee. Gladsome and sweet as nectar
@@ -6786,9 +6606,7 @@ Kuru's race and the other kings present there, and was honoured by them
 all in return. He then entered the excellent abode of his grand-mother
 Kunti."'
 
-
-
-SECTION LXXXVIII
+## SECTION LXXXVIII
 
 "Vaisampayana said, 'Entering the palace of the Pandavas the mighty-armed
 prince saluted his grand-mother in soothing and sweet accents. Then queen
@@ -6887,9 +6705,7 @@ of the sacrificial rites, those Gandharvas, skilled in music and well
 versed in dancing, used to gladden the Brahmanas who were engaged in the
 sacrifice.'"
 
-
-
-SECTION LXXXIX
+## SECTION LXXXIX
 
 "Vaisampayana said, 'Having cooked, according to due rites, the other
 excellent animals that were sacrificed, the priests then sacrificed,
@@ -6993,9 +6809,7 @@ and jewels and gems, and drinks of various kinds, the foremost one of
 Bharata's race, cleansed of all his sins, and his purpose fulfilled,
 entered his capital. '"
 
-
-
-SECTION XC
+## SECTION XC
 
 "Janamejaya said, 'It behoveth thee to tell me of any wonderful incident
 that occurred in the sacrifice of my grandsires.'
@@ -7324,9 +7138,7 @@ penances. Abstention from injury as regards all creatures, contentment,
 conduct, sincerity, penances, self-restraint, truthfulness, and gifts are
 each equal in point of merit to sacrifice."'
 
-
-
-SECTION XCI
+## SECTION XCI
 
 "Janamejaya said, 'O puissant Rishi, kings are attached to sacrifices.
 The great Rishis are attached to penances. Learned Brahmanas are
@@ -7421,9 +7233,7 @@ Brahmanas and Kshatriyas and Vaisyas and Sudras who betake themselves to
 penances, O Bharata, and who purify themselves by gifts and other acts of
 righteousness, proceed to Heaven."
 
-
-
-SECTION XCII
+## SECTION XCII
 
 "Janamejaya said, 'If, O illustrious one, Heaven is the fruit of wealth
 acquired by lawful means, do thou discourse to me fully on it. Thou art
@@ -8605,3 +8415,6 @@ transformation of the mongoose. Truly speaking, the doctrine is noble of
 the gift of a small quantity of barley made under the circumstances being
 superior in point of merit to even a Horse-sacrifice performed by a king
 with gifts in profusion made to the Brahmanas
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

@@ -1,14 +1,8 @@
-
-
-
-
 # The Mahabharata
 
 of
 
 Krishna-Dwaipayana Vyasa
-
-BOOK 5
 
 ## UDYOGA PARVA
 
@@ -23,13 +17,11 @@ Kisari Mohan Ganguli
 Scanned at sacred-texts.com, 2004. Proofed by John Bruno Hare, October
 2004.
 
-
-
 THE MAHABHARATA
 
 UDYOGA PARAVA
 
-SECTION I
+## SECTION I
 
 OM! HAVING BOWED down to Narayana, and Nara the most exalted of male
 beings, and also to the goddess Saraswati, must the word Jaya be uttered.
@@ -108,9 +100,7 @@ for virtue and showing a pacific and impartial spirit, his elder brother
 then addressed the assembly bestowing high encomiums on the words of the
 younger brother.'"
 
-
-
-SECTION II
+## SECTION II
 
 "Baladeva said, 'You have all listened to the speech of him who is the
 elder brother of Gada, characterised as it is by a sense of virtue and
@@ -158,9 +148,7 @@ even continuing his speech, the gallant son of the race of Sini suddenly
 rose up and indignantly condemned the words of the former by these words
 of his.'
 
-
-
-SECTION III
+## SECTION III
 
 "Satyaki said, 'Even as a man's heart is, so doth he speak! Thou art
 speaking in strict conformity with the nature of thy heart. There are
@@ -217,9 +205,7 @@ kingdom resigned by Dhritarashtra! Either Yudhishthira should get back
 his kingdom this very day or all our enemies shall lie down on the earth
 slain by me!'
 
-
-
-SECTION IV
+## SECTION IV
 
 "Drupada said, 'O mighty-armed one, it will, without doubt, be even as
 thou hast said! Never will Duryodhana give up the kingdom by peaceful
@@ -268,9 +254,7 @@ learned Brahmana, be sent, O king, to Dhritarashtra. Tell him the words
 he is to say and what Duryodhana should be told; and how Bhishma is to be
 addressed, and how Drona, that best of car-warriors!"
 
-
-
-SECTION V
+## SECTION V
 
 "Krishna said, 'These worlds are worthy of the chief of the Somaka tribe,
 and are calculated to promote the interests of Pandu's son of
@@ -311,9 +295,7 @@ forests seemed to tremble beneath their tread. And the king of the
 Panchalas, having consulted the wishes of Yudhishthira, despatched to the
 Kurus his own priest, who was old both in years and understanding.'
 
-
-
-SECTION VI
+## SECTION VI
 
 "Drupada said, 'Of beings those that are endowed with life are superior.
 Of living beings those that are endowed with intelligence are superior.
@@ -363,9 +345,7 @@ elephant). And that learned man, well-versed in the principles of the
 science of politics, started with a following of disciples towards the
 Kurus for the sake of promoting the welfare of Pandu's sons.'
 
-
-
-SECTION VII
+## SECTION VII
 
 "Vaisampayana said, 'Having despatched the priest to the city called
 after the elephant they sent messengers to the kings of various
@@ -461,9 +441,7 @@ wish be fulfilled.'
 accompanied by Krishna as well as by the flower of the Dasarha race, came
 back to Yudhishthira.'
 
-
-
-SECTION VIII
+## SECTION VIII
 
 "Vaisampayana said, 'O king, having learnt the news from the messengers,
 Salya, accompanied by a large body of troops and by his sons, all of whom
@@ -590,9 +568,7 @@ suffered misfortunes. O king, O descendant of Bharata, it is narrated
 that the high-minded Indra, the chief of the celestials, had to endure
 together with his wife very great misery, indeed.'
 
-
-
-SECTION IX
+## SECTION IX
 
 "Yudhishthira said, 'O foremost of monarchs, I wish to know how it was
 that great and unparalleled misery had to be endured by the illustrious
@@ -734,9 +710,7 @@ deliberated as to what was proper to be done, and were overwhelmed with
 dread. And seated on the top of the Mandara mountain, and bent on killing
 Vritra, they only bethought themselves of Vishnu, the indestructible one.'
 
-
-
-SECTION X
+## SECTION X
 
 "Indra said, This whole indestructible universe, O gods, hath been
 pervaded by Vritra. There is nothing that can be equal to the task of
@@ -851,9 +825,7 @@ deities and the divine saints in heaven, separated from the chief of the
 gods, became terrified, and wondered who was to be their king. And nobody
 had any inclination to act as the king of the gods.'
 
-
-
-SECTION XI
+## SECTION XI
 
 "Salya said, 'Then all the Rishis and the superior gods said, "Let the
 handsome Nahusha be crowned as king of the gods. He is powerful and
@@ -905,9 +877,7 @@ Nahusha; I shall soon unite thee with Indra.' Now Nahusha came to hear
 that Indra's queen had taken refuge with Vrihaspati, the son of Angiras.
 And at this, the king became highly enraged.'
 
-
-
-SECTION XII
+## SECTION XII
 
 "Salya said, 'Seeing Nahusha enraged, the gods led by the saints spoke
 unto him, 'Who was now their king of awful mien? O king of gods, quit thy
@@ -986,9 +956,7 @@ Indra's queen, for attaining her end, went bashfully to Nahusha of awful
 mien. The vicious Nahusha also, rendered senseless by lust, saw how
 youthful and lovely she was, and became highly pleased.'
 
-
-
-SECTION XIII
+## SECTION XIII
 
 "Salya said, 'Now then Nahusha, the king of the gods, looked at her and
 said, 'O thou of sweet smiles, I am the Indra of all the three worlds. O
@@ -1046,9 +1014,7 @@ and truth she had recourse to divination.[2] And she asked, 'Show me the
 place where the king of the gods is. Let truth be verified by truth.' And
 it was thus that she addressed the goddess of Divination.'
 
-
-
-SECTION XIV
+## SECTION XIV
 
 "Salya said, 'Then the goddess of Divination stood near that chaste and
 beautiful lady. And having beheld that goddess, youthful and lovely,
@@ -1087,9 +1053,7 @@ terrible Nahusha of vicious soul. Discover thyself, O slayer of Daityas
 and Danavas. O lord, assume thy own strength and rule the celestial
 kingdom.'"
 
-
-
-SECTION XV
+## SECTION XV
 
 "Salya said, 'Thus addressed by Sachi, the illustrious god said to her
 again, 'This is not the time for putting forth valour. Nahusha is
@@ -1175,9 +1139,7 @@ priestly caste; and iron had its origin in stone. The power of these
 which can penetrate all other things, hath no operation upon the sources
 from which they spring.'"
 
-
-
-SECTION XVI
+## SECTION XVI
 
 "Vrihaspati said, 'Thou art the mouth, O Agni, of all the gods. Thou art
 the carrier of sacred offerings. Thou, like a witness, hast access to the
@@ -1271,9 +1233,7 @@ Paka, the giver of boons, bestow, after deliberation upon Kuvera the
 sovereignty over the Yakshas, and all the wealth of the world; upon Yama,
 the sovereignty over the Pitris; and upon Varuna, that over the waters.'
 
-
-
-SECTION XVII
+## SECTION XVII
 
 "Salya said, 'Now when the great Indra, the intelligent chief of the
 gods, was deliberating with the guardians of the world and other deities
@@ -1332,9 +1292,7 @@ intelligent Agastya hath killed the vicious Nahusha! How fortunate that
 the vile individual hath been turned into a snake to roam over the
 earth!'"
 
-
-
-SECTION XVIII
+## SECTION XVIII
 
 "Salya said, "Then Indra, glorified by the bands of Gandharvas and
 celestial nymphs, mounted on Airavata, the king of elephants,
@@ -1393,9 +1351,7 @@ shall do for thee anything else that I may be able to do.'
 farewell to the sons of Kunti. And that handsome man then went with his
 army to Duryodhana, O repressor of foes.'"
 
-
-
-SECTION XIX
+## SECTION XIX
 
 "Vaisampayana said, 'Then Yuyudhana, the great hero of the Satwata race,
 came to Yudhishthira with a large army of foot, and horses and cars and
@@ -1462,9 +1418,7 @@ tract--full of abundant corn and wealth, was entirely overspread with the
 army of the Kauravas. And that army, so arranged, was beheld by the
 priest who had been sent by the king of the Panchalas to the Kurus.'"
 
-
-
-SECTION XX
+## SECTION XX
 
 "Vaisampayana said, 'Then Drupada's priest, having approached the Kaurava
 chief, was honoured by Dhritarashtra as also by Bhishma and Vidura. And
@@ -1513,9 +1467,7 @@ the wisdom of Krishna? Therefore, I ask you to give back what should be
 given, as dictated by morality and compact. Do not let the opportunity
 pass!'"
 
-
-
-SECTION XXI
+## SECTION XXI
 
 "Vaisampayana said, 'Having heard his words, Bhishma, senior in wisdom,
 and endued with great effulgence, paid honours to him, and then spoke
@@ -1564,9 +1516,7 @@ honoured Drupada's priest and sent him back to the Pandavas. And
 summoning Sanjaya to the council-hall, he addressed him in the following
 words."
 
-
-
-SECTION XXII
+## SECTION XXII
 
 "Dhritarashtra said, 'They say, O Sanjaya, that the Pandavas have arrived
 at Upaplavya. Go thou and enquire after them. Thou must greet Ajatasatru
@@ -1696,9 +1646,7 @@ Bharata race, all that, O Sanjaya, thou must say in the midst of those
 kings,--everything, in sooth, that may not be unpalatable or provocative
 of war.'
 
-
-
-SECTION XXIII
+## SECTION XXIII
 
 "Vaisampayana said, 'Having beard these words of king Dhritarashtra
 Sanjaya went to Upaplavya to see the Pandavas of immeasurable strength.
@@ -1783,9 +1731,7 @@ that? It is not by a single good deed, O Sanjaya, that happiness can here
 be attained, when by all our endeavours we are unable to win over the son
 of Dhritarashtra!"
 
-
-
-SECTION XXIV
+## SECTION XXIV
 
 "Sanjaya said, 'It is even so as thou hast said, O son of Pandu! Dost
 thou enquire about the welfare of the Kurus and of the foremost ones
@@ -1822,9 +1768,7 @@ attain peace. O Yudhishthira, bear what thy sire Dhritarashtra having
 consulted with his ministers and sons, hath spoken to me. Be attentive to
 the same.'"
 
-
-
-SECTION XXV
+## SECTION XXV
 
 "Yudhishthira said, 'Here are met the Pandavas and the Srinjayas, and
 Krishna, and Yuyudhana and Virata, O son of the Suta Gavalgana, tell us
@@ -1872,9 +1816,7 @@ Therefore, I say this for the success of my mission. This is the desire
 of the king and his counsellor Bhishma, that there may be confirmed peace
 between you (and the Kurus).'"
 
-
-
-SECTION XXVI
+## SECTION XXVI
 
 "Yudhishthira said, 'What words from me, O Sanjaya, hast thou heard,
 indicative of war, that thou apprehendest war? O sire, peace is
@@ -1965,9 +1907,7 @@ seek peace, as thou counsellest me to do. Let me have Indraprastha for my
 kingdom, Let this be given to me by Duryodhana, the chief of Bharata's
 race.'"
 
-
-
-SECTION XXVII
+## SECTION XXVII
 
 "Sanjaya said, 'O Pandava, the world hath heard thy conduct being
 righteous. I see it also to be so, O son of Pritha. Life is transient,
@@ -2055,9 +1995,7 @@ counsellors desire the same, then give up (everything) to them, and run
 away. You should not fall away from this path which leads to the region
 of the gods!'"
 
-
-
-SECTION XXVIII
+## SECTION XXVIII
 
 "Yudhishthira said, 'Without doubt, O Sanjaya, it is true that righteous
 deeds are the foremost of all our acts, as thou sayest. Thou shouldst,
@@ -2115,9 +2053,7 @@ great judge of the propriety or otherwise of all acts. Krishna is dear to
 us, and is the most illustrious of men. I never disregard what Krishna
 sayeth.'"
 
-
-
-SECTION XXIX
+## SECTION XXIX
 
 "Krishna said, 'I desire, O Sanjaya, that the sons of Pandu may not be
 ruined; that they may prosper, and attain their wishes. Similarly, I pray
@@ -2300,9 +2236,7 @@ proper for him to do. The virtuous and the high-souled sons of Pandu,
 though competent to be engaged in fight, are yet now in place (with their
 cousins). O learned man, represent all this truly (to Dhritarashtra).'"
 
-
-
-SECTION XXX
+## SECTION XXX
 
 "Sanjaya said, 'I did thee farewell, O divine ruler of men. I will now
 depart, O son of Pandu. Let prosperity be thine. I hope, I have not
@@ -2467,9 +2401,7 @@ for ourselves, we will never act in such a way as to do anything that may
 be disagreeable to thee! O foremost of heroes anwng the Bharatas, either
 give me lack my own Indraprastha or fight with me!'"
 
-
-
-SECTION XXXI
+## SECTION XXXI
 
 "Yudhishthira said, 'O Sanjaya, the righteous and the unrighteous, the
 young and the old, the weak and the strong, are all under the control of
@@ -2520,9 +2452,7 @@ Bharata race, with, cheerful hearts let us make peace. O Sanjaya, I am
 equally capable of war and peace. I am prepared to acquire wealth as well
 as to earn virtue. I am fit enough for severity as for softness.'"
 
-
-
-SECTION XXXII
+## SECTION XXXII
 
 "Vaisampayana said, 'Dismissed with salutation by the Pandavas, Sanjaya
 set out for (Hastinapura) having executed all the commands of the
@@ -2632,9 +2562,7 @@ my fast journey and very much fatigued, I solicit thy permission to go to
 bed now, O lion of men, for tomorrow morning will the Kurus, assembled
 together in the council-hall, hear the words of Ajatasatru.'"
 
-
-
-SECTION XXXIII
+## SECTION XXXIII
 
 "Vaisampayana said, 'King Dhritarashtra endued with great wisdom (then)
 said to the orderly-in-waiting, 'I desire to see Vidura. Bring him here
@@ -2953,9 +2881,7 @@ them back their just share of the kingdom, O sire, filled with joy, be
 thou happy with thy sons. Then, O monarch, thou shalt inspire confidence
 in both the gods and men.'"
 
-
-
-SECTION XXXIV
+## SECTION XXXIV
 
 "Dhritarashtra said, 'Tell me what may be done by a person that is
 sleepless and burning with anxieties, for thou alone amongst us, O child,
@@ -3059,9 +2985,7 @@ Yudhishthira, that foremost of righteous men, hath, O king of kings,
 suffered much misery out of kindness and sympathy, in order to preserve
 thy reputation."
 
-
-
-SECTION XXXV
+## SECTION XXXV
 
 "Dhritarashtra said, 'O thou of great intelligence, tell me again words
 such as these, consistent with religion and profit. My thirst for hearing
@@ -3263,9 +3187,7 @@ foolish Dussasana, and on Karna, how canst thou hope for prosperity?
 Possessed of every virtue, the Pandavas, O bull of the Bharata race,
 depend on thee as their father. O, repose thou on them as on thy sons!"
 
-
-
-SECTION XXXVI
+## SECTION XXXVI
 
 "Vidura said, 'In this connection is cited the old story of the discourse
 between the son of Atri and the deities called Sadhyas is as heard by us.
@@ -3472,9 +3394,7 @@ of Pandu. Let not thy foes discover thy holes. They all, O god among men,
 are devoted to truth. O king of men, withdraw Duryodhana from his evil
 ways.'"
 
-
-
-SECTION XXXVII
+## SECTION XXXVII
 
 "Vidura said, 'O son of Vichitravirya, Manu, the son of the Self-created,
 hath, O king, spoken of the following seven and ten kinds of men, as
@@ -3671,9 +3591,7 @@ son is as a forest. O sire, know that the Pandavas are the lions of that
 forest. Without its lions the forest is doomed to destruction, and lions
 also are doomed to destruction without the forest (to shelter them).'"
 
-
-
-SECTION XXXVIII
+## SECTION XXXVIII
 
 "Vidura said, 'The heart of a young man, when an aged and venerable
 person cometh to his house (as a guest), soareth aloft. By advancing
@@ -3802,9 +3720,7 @@ devolved on Duryodhana, the cares of a mighty empire. Thou shalt,
 therefore, soon see that swelling affluence fall off, like Vali fallen
 off from the three worlds.'"
 
-
-
-SECTION XXXIX
+## SECTION XXXIX
 
 "Dhritarashtra said, 'Man is not the disposer of either his prosperity or
 adversity. He is like a wooden doll moved by strings. Indeed, the Creator
@@ -4023,9 +3939,7 @@ that are wise never grieve for want of universal dominion. O king, I
 again tell thee, adopt an equal conduct towards thy children, i.e.,
 towards the sons of Pandu and thy own sons.'"
 
-
-
-SECTION XL
+## SECTION XL
 
 "Vidura said, 'Worshipped by the good and abandoning pride, that good man
 who pursueth his objects without outstepping the limits of his power,
@@ -4124,9 +4038,7 @@ turneth off in a different way. No creature is able to avert fate.
 Indeed, Destiny, I think, is certain to take its course; individual
 exertion is futile.'"
 
-
-
-SECTION XLI
+## SECTION XLI
 
 (Sanat-sujata Parva)
 
@@ -4167,9 +4079,7 @@ death, fright and jealously, hunger and thirst, pride and prosperity,
 dislike, sleep, lust and wrath, and decrease and increase may all be
 borne by him!'"
 
-
-
-SECTION XLII
+## SECTION XLII
 
 "Vaisampayana said, 'Then the illustrious and wise king Dhritarashtra,
 having applauded the words spoken by Vidura, questioned Sanat-sujata in
@@ -4354,9 +4264,7 @@ uprightness, modesty, self-control, purity of mind and conduct and
 knowledge (of the Vedas). These six are destructive of vanity and
 ignorance.'"
 
-
-
-SECTION XLIII
+## SECTION XLIII
 
 "Dhritarashtra said, 'What is the object of asceticism (mauna)? Of the
 two kinds of mauna (viz., the restraining of speech and meditation),
@@ -4585,9 +4493,7 @@ practises such virtues, may behold Brahman. He may also attain to that
 high state by ascending step by step, according to what is indicated in
 the Vedas. Knowing it for certain, I tell thee this.'"
 
-
-
-SECTION XLIV
+## SECTION XLIV
 
 "Dhritarashtra said, 'Excellent, O Sanat-sujata, as this thy discourse
 is, treating of the attainment of Brahman and the origin of the universe.
@@ -4708,9 +4614,7 @@ is without any change, except in the language used to describe it. They
 are emancipated that are acquainted with That in which this universe is
 established.'"
 
-
-
-SECTION XLV
+## SECTION XLV
 
 "Sanat-sujata said, 'Sorrow, anger, covetousness, lust, ignorance,
 laziness, malice, self-importance, continuous desire of gain, affection,
@@ -4781,9 +4685,7 @@ Kshatriya, by conducting himself in this way according to the successive
 steps indicated in the Vedas, one may, even here, attain to Brahman.
 This, O learned one, is all that I tell thee.'"
 
-
-
-SECTION XLVI
+## SECTION XLVI
 
 "Sanat-sujata said, 'The primary Seed (of the universe), called
 Mahayasas, is destitute of accidents, is pure Knowledge, and blazeth with
@@ -4935,9 +4837,7 @@ both the past and the future, Brahman is awake in every creature. They
 that knows Him know that Universal Father dwelleth in the heart of every
 created thing!'"
 
-
-
-SECTION XLVII
+## SECTION XLVII
 
 "Vaisampayana said, 'Thus conversing with Sanat-sujata and the learned
 Vidura, the king passed that night. And after the night had passed away,
@@ -4977,9 +4877,7 @@ are younger, just as each should, according to his years, be saluted.
 Listen, ye kings, to what I, instructed before by Dhritarashtra, said to
 the Pandavas, having gone to them from this place.'
 
-
-
-SECTION XLVIII
+## SECTION XLVIII
 
 "Dhritarashtra said, "I ask thee, O Sanjaya, in the presence of my boy
 and of these kings, what words were said by the illustrious Dhananjaya of
@@ -5317,9 +5215,7 @@ warring! But so let it be even as the aged Bhishma, the son of Santanu,
 and Kripa, and Drona with his son, and Vidura endued with great wisdom,
 are saying, 'May the Kauravas all live long!"
 
-
-
-SECTION XLIX
+## SECTION XLIX
 
 "Vaisampayana said, 'In the midst, O Bharata, of all those assembled
 kings, Bhishma, the son of Santanu, then said these words unto
@@ -5428,9 +5324,7 @@ king again asked Sanjaya about the Pandavas. From that moment, when the
 king returned not a proper answer to Bhishma and Drona, the Kauravas gave
 up all hopes of life.'"
 
-
-
-SECTION L
+## SECTION L
 
 "Dhritarashtra said, 'What did that Pandava king, the son of Dharma, say,
 O Sanjaya, after hearing that a large force hath been assembled here for
@@ -5549,9 +5443,7 @@ his life, is resolved to fight for the Pandavas. Relying upon these and
 other kings by hundreds, of both the eastern and northern countries, king
 Yudhishthira the just, is prepared for battle.'"
 
-
-
-SECTION LI
+## SECTION LI
 
 "Dhritarashtra said, 'All these named by thee are, indeed, endued with
 great courage, but all of them together are equal to Bhima singly. My
@@ -5688,9 +5580,7 @@ will all be slain. Oh, how may death come upon me? As a blazing fire in
 the summer season., when urged by the wind, consumeth dry grass, so will
 Bhima, mace in hand, and united with Arjuna, slay all on my side!'"
 
-
-
-SECTION LII
+## SECTION LII
 
 "Dhritarashtra said, 'He whom we have never heard to speak a falsehood,
 he who hath Dhananjaya to fight for him, may have the sovereignty of even
@@ -5740,9 +5630,7 @@ diverse kinds happening in the homes of the Kurus. and around them and on
 the field of battle, then will destruction, without doubt, overtake the
 Bharats.'"
 
-
-
-SECTION LIII
+## SECTION LIII
 
 "Dhritarashtra said, 'Endued with great prowess and eager for victory,
 even as the sons themselves of Pandu are, so are their followers, who are
@@ -5782,9 +5670,7 @@ with them doth not seem beneficial to you, then we will strive to bring
 about peace. Yudhishthira will never be indifferent when he sees us
 distressed, for he censures me only as the cause of this unjust war.'"
 
-
-
-SECTION LIV
+## SECTION LIV
 
 "Sanjaya said, It is even so, O great king, as thou, O Bharata, sayest.
 On the event of battle, the destruction of the Kshatriyas by means of
@@ -5835,9 +5721,7 @@ wise Vidura at the time of the gambling match at dice. These thy
 lamentations in connection with the Pandavas, as if thou wert a helpless
 person, are, O king, all useless.'"
 
-
-
-SECTION LV
+## SECTION LV
 
 "Duryodhana said, 'Fear not, O king. Nor shouldest thou grieve for us. O
 monarch, O lord, we are quite able to vanquish the foe in battle. When
@@ -5989,9 +5873,7 @@ inferiority of the Pandavas, it behoveth thee not to lose thy senses.
 Duryodhana, asked Sanjaya again, anxious to known more about the doings
 of the Pandavas.'"
 
-
-
-SECTION LVI
+## SECTION LVI
 
 "Duryodhana said, 'Having obtained, O Sanjaya, an army numbering seven
 Akshauhinis, what is Yudhishthira, the son of Kunti, with the other kings
@@ -6045,9 +5927,7 @@ themselves in years and strength, endued with great swiftness and of
 handsome make, and all presented by the celestials, carry those youthful
 princes, the sons of Subhadra and Draupadi.'"
 
-
-
-SECTION LVII
+## SECTION LVII
 
 "Dhritarashtra said, 'Whom hast thou, O Sanjaya, seen to have, from
 affection, arrived there, and who will, on behalf of the Pandavas, fight
@@ -6187,9 +6067,7 @@ incapable of being baffled. The celestial car of the holder of Gandiva is
 protected by the very gods. He is incapable of being vanquished by human
 beings. Do not, therefore, bend your mind to war!'"
 
-
-
-SECTION LVIII
+## SECTION LVIII
 
 "Dhritarashtra said, Yudhishthira the son of Pandu is endued with
 Kshatriya energy and leadeth the Brahmacharya mode of life from his very
@@ -6260,9 +6138,7 @@ thou remember these my words.'
 "Vaisampayana continued, 'Having said this unto all those rulers of the
 earth, the king addressing Sanjaya again, asked him as follows.'"
 
-
-
-SECTION LIX
+## SECTION LIX
 
 Dhritarashtra said, 'Tell me, O thou of great wisdom, what high-souled
 Vasudeva and Dhananjaya said. I am anxious to hear from thee all about
@@ -6331,9 +6207,7 @@ Partha by his words and roaring like rain-charged clouds in the
 firmament. Having heard these words of Kesava, the diadem-decked Arjuna,
 of white steeds, also spoke to the same effect.'"
 
-
-
-SECTION LX
+## SECTION LX
 
 "Vaisampayana said, 'Having heard these words of Sanjaya, the monarch
 endued with the eye of wisdom, took that speech into his consideration as
@@ -6384,9 +6258,7 @@ destruction is about to overtake the Kurus, if there is nothing but Peace
 for ending this quarrel. I am for peace with the Parthas and not for war.
 O child, I always deem the Pandavas mightier than the Kurus.'"
 
-
-
-SECTION LXI
+## SECTION LXI
 
 "Vaisampayana said, 'Hearing these words of his father, the passionate
 son of Dhritarashtra inflamed with great wrath, again said these words,
@@ -6449,9 +6321,7 @@ well.
 again asked Sanjaya, in order to ascertain the proceedings of
 Yudhishthira bent upon war.'"
 
-
-
-SECTION LXII
+## SECTION LXII
 
 "Vaisampayana said, 'Without much minding Dhritarashtra, the son of
 Vichitravirya who was about to ask of Partha, Karna said unto
@@ -6509,9 +6379,7 @@ king of kings, when Bhishma said this after Karna had gone away giving up
 his weapons, Duryodhana, that foolish son of Vichitravirya's son,
 addressed Santanu's son in these words.'"
 
-
-
-SECTION LXIII
+## SECTION LXIII
 
 "Duryodhana said, 'The son of Pritha are all as other men, and are, in
 fact, of earthly birth as other men. Why then dost thou think that they
@@ -6572,9 +6440,7 @@ world he that betaketh himself, in pursuit of emancipation, to the
 Sannyasa mode of life, hath bright and eternal regions assigned to him in
 heaven.'"
 
-
-
-SECTION LXIV
+## SECTION LXIV
 
 "Vidura said, 'We have heard, O sire, from old men, that once on a time a
 fowler spread his net on the ground for catching feathery denizens of the
@@ -6635,9 +6501,7 @@ fire urged by the wind, leave no remnant (of thy army). O Dhritarashtra,
 take king Yudhishthira on thy lap since both parties can, under no
 circumstances, have victory when thy will be engaged in battle.'"
 
-
-
-SECTION LXV
+## SECTION LXV
 
 "Dhritarashtra said, 'Consider, O Duryodhana, O dear son, what I tell
 thee. Like an ignorant traveller thou thinkest, the wrong path to be the
@@ -6676,9 +6540,7 @@ achieves all that, what will not the Pandavas achieve when united
 together? Take them by the hands as thy brothers, and cherish them with a
 share of the kingdom.'"
 
-
-
-SECTION LXVI
+## SECTION LXVI
 
 "Vaisampayana said, 'Having addressed Suyodhana thus, the highly blessed
 and wise Dhritarashtra again asked Sanjaya, saying, 'Tell me, O Sanjaya,
@@ -6720,9 +6582,7 @@ bowing unto them both, I have with great speed come hither to convey
 those words of grave import to thee, O thou that art endued with
 effulgence equal that of the very gods.'
 
-
-
-SECTION LXVII
+## SECTION LXVII
 
 "Vaisampayana said, 'When Duryodhana, the son of Dhritarashtra, showed
 little regard for the words spoken by Sanjaya, and when the rest remained
@@ -6755,9 +6615,7 @@ Sanjaya and his son, Krishna-Dwaipayana endued with great wisdom said,
 desireth to know. Tell him truly all that thou knowest about Vasudeva and
 Arjuna.'"
 
-
-
-SECTION LXVIII
+## SECTION LXVIII
 
 "Sanjaya said, 'Those adorable bowmen, Arjuna and Vasudeva, who are
 perfectly equal unto each other in respect of their godlike nature, have
@@ -6794,9 +6652,7 @@ labourer that tilleth the fields. Indeed, Kesava beguileth all by the aid
 of His illusion. Those men, however, that have attained to Him are not
 deceived.'"
 
-
-
-SECTION LXIX
+## SECTION LXIX
 
 "Dhritarashtra said, 'How hast thou, O Sanjaya, been able to know Madhava
 as the Supreme Lord of the universe? And how is it that I am unable to
@@ -6869,9 +6725,7 @@ king, Kesava is not obtainable by men who have not subdued their senses.
 He that hath subdued his senses, desireth spiritual knowledge, awakened
 by the knowledge of scriptures and the pleasure of Yaga-absorption.'
 
-
-
-SECTION LXX
+## SECTION LXX
 
 "Dhritarashtra said, 'I request thee, O Sanjaya, to tell me again of the
 lotus-eyed Krishna; for, by being acquainted with the import of his
@@ -6921,9 +6775,7 @@ devoted to righteousness, and endued with divinity, the slayer of Madhu,
 that mighty-armed one incapable of decay, will come hither for preventing
 the slaughter of the Kurus.'"
 
-
-
-SECTION LXXI
+## SECTION LXXI
 
 "Dhritarashtra said, 'O Sanjaya, I envy those gifted with sight, who will
 behold before them that Vasudeva whose body endued with great beauty
@@ -6949,9 +6801,7 @@ highest of the high, that Creator of the three worlds, that Author of
 gods, Asuras, Nagas, and Rakshasas, that foremost of all learned persons
 and rulers of men, that younger brother of Indra.'"
 
-
-
-SECTION LXXII
+## SECTION LXXII
 
 (Bhagwat Yana Parva)
 
@@ -7176,9 +7026,7 @@ Suyodhana such words as are for our benefit. Whether peace is to be
 established by (apparent) sin or by any other means, O Kesava, speak such
 words as may prove beneficial to us.'
 
-
-
-SECTION LXXIII
+## SECTION LXXIII
 
 "The holy one said, 'I have heard Sanjaya's words and now I have heard
 thine. I know all about his purposes as also of thyself. Thy heart
@@ -7264,9 +7112,7 @@ Duryodhana will, by no means, be able to give back unto thee. O king,
 that kingdom of thine which, abounding in prosperity, have before been
 taken by him at dice!'"
 
-
-
-SECTION LXXIV
+## SECTION LXXIV
 
 "Bhima said, 'Speak thou, O slayer of Madhu, in such a strain that there
 may be peace with the Kurus. Do not threaten them with war. Resenting
@@ -7317,9 +7163,7 @@ between brothers and to pacify the son of Dhritarashtra. Even this is
 what I say. King Yudhishthira also approveth of this, and Arjuna too is
 averse to war, for there is great compassion in him.'"
 
-
-
-SECTION LXXV
+## SECTION LXXV
 
 "Vaisampayana said, 'Hearing these words from Bhima, that were fraught
 with such mildness and that were, as unexpected as if the hills had lost
@@ -7371,9 +7215,7 @@ arise, O Bharata, yield not, to grief, O hero, and be firm. Such langour,
 O repressor of foes, is not worthy of thee, for a Kshatriya never
 enjoyeth that which he doth not acquire through prowess.'"
 
-
-
-SECTION LXXVI
+## SECTION LXXVI
 
 "Vaisampayana said, 'Thus addressed by Vasudeva, the ever-wrathful Bhima,
 incapable of bearing insults, was immediately awakened like a steed of
@@ -7417,9 +7259,7 @@ for the sake of compassion, O slayer of Madhu, that I am for displaying
 goodwill to the foe. I am far quietly bearing all our injuries, lest the
 Bharata race be extirpated.'"
 
-
-
-SECTION LXXVII
+## SECTION LXXVII
 
 "The holy one said, It was only through affection that I said all this,
 desiring to know thy mind, and not from the desire of reproaching thee,
@@ -7470,9 +7310,7 @@ Dhananjaya's wish and not that I myself am not desirous of fighting. It
 is for this that, hearing thee utter thy intention, I rekindled that thy
 energy, O Vrikodara.'"
 
-
-
-SECTION LXXVIII
+## SECTION LXXVIII
 
 "Arjuna said, 'O Janardana, Yudhishthira hath already said what should be
 said. But, O chastiser of foes, hearing what thou hast said, it seemeth
@@ -7517,9 +7355,7 @@ counsels will be lost on him like seed sown in a barren soil. Therefore,
 do without delay what thou, O thou of Vrishni race, thinkest to be proper
 and beneficial for the Pandavas, or what, indeed, should next be done.'"
 
-
-
-SECTION LXXIX
+## SECTION LXXIX
 
 "The holy one said, 'It shall be, O thou of mighty arms, what thou, O
 Pandavas, sayest, I will strive to bring about that which would be
@@ -7569,9 +7405,7 @@ shortest period of time. As regards myself, I am ever obedient to the
 commands of Yudhishthira, and, therefore, the sinful acts of that wicked
 wretch must have again to be revolved in my mind!'"
 
-
-
-SECTION LXXX
+## SECTION LXXX
 
 "Nakula said, 'Much hath been said, O Madhava, by king Yudhishthira the
 just who is conversant with morality and endued with liberality, and thou
@@ -7612,9 +7446,7 @@ to act according to the advice. When thou, O Janardana, art the speaker
 and Vidura the listener, what subject is there that cannot be rendered
 smooth and plain?'"
 
-
-
-SECTION LXXXI
+## SECTION LXXXI
 
 "Sahadeva said, 'What hath been said by the king is, indeed, eternal
 virtue, but thou, O chastiser of foes, shouldst act, in such a way that
@@ -7640,9 +7472,7 @@ heroes, highly applauding those words of Satyaki, praised him, saying,
 'Excellent! Excellent!' And anxious to fight, they all began to express
 their joy.'"
 
-
-
-SECTION LXXXII
+## SECTION LXXXII
 
 "Vaisampayana said, 'Hearing the peaceful words of the king that were
 fraught with both virtue and profit, king Drupada's daughter Krishna, of
@@ -7750,9 +7580,7 @@ stars might fall down, still my words can never be futile. Stop thy
 tears, I swear to thee, O Krishna, soon wilt thou see thy husbands, with
 their enemies slain, and with prosperity crowning them.'"
 
-
-
-SECTION LXXXIII
+## SECTION LXXXIII
 
 "Arjuna said, 'Thou art now, O Kesava, the best friend of all the Kurus.
 Related with both the parties, thou art the dear friend of both. It
@@ -7919,9 +7747,7 @@ our purpose, O thou of mighty arms. We will meet thee again. Go thither
 safely, O hero. We hope to see thee in the midst of the conclave, seated
 on an excellent seat mustering all thy energy and might.'"
 
-
-
-SECTION LXXXIV
+## SECTION LXXXIV
 
 "Vaisampayana said, 'O smiter of foes, when Devaki's son of mighty arms
 set out (for Hastinapura), ten mighty car-warriors, capable of slaying
@@ -7992,9 +7818,7 @@ he returned in their company to his own (tent). And feeding all the
 Brahmanas with sweet-meats and himself taking his meals with them, Kesava
 passed the night happily there.'"
 
-
-
-SECTION LXXXV
+## SECTION LXXXV
 
 "Vaisampayana said, 'Meanwhile, understanding from his spies that the
 slayer of Madhu had set out, Dhritarashtra, with his hair standing erect,
@@ -8034,9 +7858,7 @@ Dhritarashtra of the same. Kesava, however, of Dasarha's race, arrived at
 the capital of the Kurus, without casting a single glance at all those
 pavilions and all those gems of diverse kinds.'"
 
-
-
-SECTION LXXXVI
+## SECTION LXXXVI
 
 "Dhritarashtra said, 'O Vidura, Janardana hath set out from Upaplavya. He
 is now staying at Vrikasthala and will come here tomorrow. Janardana is
@@ -8079,9 +7901,7 @@ delightful, and abounds with the wealth of all seasons. It is in that
 abode that all my wealth, as also Duryodhana's, are deposited. Let all
 that scion of the Vrishni race deserves be given unto him.'"
 
-
-
-SECTION LXXXVII
+## SECTION LXXXVII
 
 "Vidura said, 'O monarch, O best of men, thou art respected by three
 worlds. Thou, O Bharata, art loved and regarded by every body. Venerable
@@ -8123,9 +7943,7 @@ father, O king, and the Pandavas are thy sons. Thou art old, and they are
 children to thee in years, behave as father towards them, that are
 disposed to pay thee filial regard."
 
-
-
-SECTION LXXXVIII
+## SECTION LXXXVIII
 
 "Duryodhana said, 'All that Vidura hath said about Krishna, hath indeed,
 been truly said; for Janardana is greatly devoted to the Pandavas and can
@@ -8182,9 +8000,7 @@ wicked wretch that hath abandoned all virtue.'
 'Having said this, that aged chief of the Bharata race, Bhishma of
 unbaffled prowess, inflamed with rage rose and left that place.'"
 
-
-
-SECTION LXXXIX
+## SECTION LXXXIX
 
 "Vaisampayana said, 'Rising up (from his bed) at day-dawn, Krishna went
 through his morning rites, and taking leave of the Bharatas, set out for
@@ -8242,9 +8058,7 @@ and firm in morality, and honest, and harbouring no wrath (against the
 Pandavas), and wise, began to tell him everything in detail about the
 doings of the sons of Pandu.'"
 
-
-
-SECTION XC
+## SECTION XC
 
 "Vaisampayana said, 'Janardana, the chastiser of foes, after his meeting
 with Vidura, went then in the afternoon to his paternal aunt, Pritha. And
@@ -8507,9 +8321,7 @@ on thee. What, therefore, thou hast said must be true.'
 round her, the mighty-armed Govinda then departed for Duryodhana's
 mansion.'"
 
-
-
-SECTION XCI
+## SECTION XCI
 
 "Vaisampayana said, 'With Pritha's leave and having walked round her, the
 chastiser of foes, Govinda, also called Sauri, went to Duryodhana's
@@ -8611,9 +8423,7 @@ of Brahmanas conversant with the Vedas, and then with his attendants,
 like Vasava in the midst of the Marutas, he dined on what remained of the
 clean and savoury food supplied by Vidura.'"
 
-
-
-SECTION XCII
+## SECTION XCII
 
 "Vaisampayana said, 'After Kesava had dined and been refreshed, Vidura
 said unto him during the night, 'O Kesava, this advent of thine hath not
@@ -8693,9 +8503,7 @@ expressing to thee the delight that has been mine at sight of thy
 persons, for, thou, O thou of eyes like lotus, art the inner Soul of all
 embodied creatures.'"
 
-
-
-SECTION XCIII
+## SECTION XCIII
 
 "The holy one said, 'That, indeed, which should be said by a person of
 great wisdom: that, indeed, which should be said by one possessed of
@@ -8757,9 +8565,7 @@ herd of deer incapable of standing before an enraged lion.'
 Vrishni race and delighter of Yadavas, then laid himself down on his soft
 bed for sleep.'"
 
-
-
-SECTION XCIV
+## SECTION XCIV
 
 "Vaisampayana said, 'In such conversation between those two distinguished
 persons, both of whom were endued with great intelligence, that night,
@@ -8876,9 +8682,7 @@ complexion of the Atasi flower, sat in the midst of that assembly like a
 sapphire mounted on gold. And after Govinda had taken his seat, a perfect
 silence ensued, for none present there spoke a single word.'"
 
-
-
-SECTION XCV
+## SECTION XCV
 
 "Vaisampayana said, 'And after all the kings had been seated and perfect
 silence had ensued, Krishna possessing fine teeth and having a voice deep
@@ -9031,9 +8835,7 @@ do thou adopt!'
 applauded these words of Kesava within their hearts, but none of them
 ventured to say anything in the presence of Duryodhana.'
 
-
-
-SECTION XCVI
+## SECTION XCVI
 
 "Vaisampayana said, 'Hearing these words uttered by the high-souled
 Kesava, all the persons who sat in that assembly remained silent, their
@@ -9155,9 +8957,7 @@ battle. O thou, that are foremost of Kuru's line, the race to which thou
 belongest is highly regarded on earth. Let that regard continue to be
 paid to it. Blessed be thou, think of what conduces to thy own welfare.'"
 
-
-
-SECTION XCVII
+## SECTION XCVII
 
 "Vaisampayana said, 'Having listened to the words of Jamadagnya, the
 illustrious Rishi Kanwa also said these words unto Duryodhana in that
@@ -9211,9 +9011,7 @@ beauty, for my Gunakesi. Surely, one may be found amongst the Nagas.' And
 saying this, he took his wife's leave and sniffing the head of his
 daughter, Matali entered the nether regions.'"
 
-
-
-SECTION XCVIII
+## SECTION XCVIII
 
 "Kanwa said, 'When Matali was wending his way, he saw the great Rishi
 Narada proceeding at his pleasure to pay a visit to Varuna (the god of
@@ -9275,9 +9073,7 @@ be seen by anybody. There, in these regions, O Matali, innumerable are
 the wonders to be seen. Your business, however, will suffer if we spend
 more time here. We will, therefore, leave this region soon.'"
 
-
-
-SECTION XCIX
+## SECTION XCIX
 
 "Narada continued, 'Here in the very centre of the world of the Nagas is
 situated the city known by the name of Patalam. Celebrated over all the
@@ -9329,9 +9125,7 @@ mobile and immobile objects.' Hearing those words of Narada, Matali
 answered him, saying, 'No one here seems to me to be eligible. Let us go
 hence, therefore, without delay!'"
 
-
-
-SECTION C
+## SECTION C
 
 "Narada continued, 'Here is that spacious and celebrated city of cities,
 called Hiranyapura, belonging to the Daityas and Danavas, possessing a
@@ -9378,9 +9172,7 @@ those that are our enemies? Let us repair, therefore, to some other
 place. It behoveth me not to search among the Danavas. As regards
 thyself, I know thy heart is ever set on fomenting quarrels.'"
 
-
-
-SECTION CI
+## SECTION CI
 
 "Narada said, 'This region belongeth to the birds, all of whom possess
 excellent feathers. They all subsist on snakes. They never feel any
@@ -9415,9 +9207,7 @@ achievements. If thou likest none here, come, we will go hence, O Matali.
 I will take thee to another region where thou mayest find an eligible
 husband for thy daughter.'"
 
-
-
-SECTION CII
+## SECTION CII
 
 "Narada said, 'The region where we now are is called Rasatala and is the
 seventh stratum below the Earth. Here dwelleth Surabhi, the mother of all
@@ -9456,9 +9246,7 @@ the persons of learning. That couplet is this,--Neither in the region of
 the Nagas, nor in Swarga, nor in Vimana, nor in Tripishtapa is residence
 so happy as in Rasatala!'"
 
-
-
-SECTION CIII
+## SECTION CIII
 
 "Narada said, 'This foremost of cities that thou beholdest and which
 resembles the Amaravati of the chief of the celestials himself, is known
@@ -9512,9 +9300,7 @@ for a son-in-law. Make an endeavour to secure him, for I am highly
 pleased at the thought of bestowing on this Naga, O Muni, my dear
 daughter.'"
 
-
-
-SECTION CIV
+## SECTION CIV
 
 "Narada then said, 'This one is the charioteer of the name of Matali. He
 is besides a dear friend of Sakra. Pure in conduct, he hath an excellent
@@ -9591,9 +9377,7 @@ daughter, he cheerfully returned home. And Narada and Aryaka also filled
 with delight at the success of their object, went away, after having
 worshipped the glorious chief of the celestials.'"
 
-
-
-SECTION CV
+## SECTION CV
 
 "Kanwa said, 'Meanwhile, O Bharata, the mighty Garuda heard what had
 happened, viz., the bestowal by Sakra of length of days on the Naga
@@ -9694,9 +9478,7 @@ What is to be, must be. What also hath been ordained in my case must
 happen, I cannot act otherwise. What can these senseless declamations,
 therefore, avail?'"
 
-
-
-SECTION CVI
+## SECTION CVI
 
 "Janamejaya said, 'Interminably wedded to evil, blinded by avarice,
 addicted to wicked courses, resolved upon bringing destruction on his
@@ -9763,9 +9545,7 @@ anger and at last said, 'Give me eight hundred steeds, every one of which
 should be as white as the rays of the moon, and every one of which should
 have one ear black. Go now, O Galava, and tarry not.'"
 
-
-
-SECTION CVII
+## SECTION CVII
 
 "Narada said, 'Thus addressed by Viswamitra of great intelligence Galava
 was filled with such anxiety that he could not sit or lie down, or take
@@ -9812,9 +9592,7 @@ behalf and he hath been pleased to grant my wishes. Come now, we will go
 together. I will bear thee comfortably to the other shore of the ocean,
 or to the furthest extremity of the earth. Come, O Galava, do not tarry.'"
 
-
-
-SECTION CVIII
+## SECTION CVIII
 
 "Garuda said, 'O Galava, commanded I have been by God, who is the cause
 of all knowledge. I ask thee, towards which quarter shall I first take
@@ -9857,9 +9635,7 @@ always do what is agreeable to him who is my friend. Tell me, O Galava,
 if any other quarter pleaseth thee, for we will then go there. Listen now
 to what I say of another quarter.'"
 
-
-
-SECTION CIX
+## SECTION CIX
 
 "Garuda continued, 'In days of yore, Vivaswat, having performed a
 sacrifice, gave this quarter away as a present (Dakshina) unto his
@@ -9911,9 +9687,7 @@ himself or by Agni. Worthy of worship as thou art, even thou shalt have
 to pass this road. Tell me now if thou wishest to sojourn towards this
 direction. Else, I listen to an account of the western direction.'"
 
-
-
-SECTION CX
+## SECTION CX
 
 "Garuda said, 'This quarter is the favourite one of king Varuna, the
 ruler of the ocean. Indeed, the lord of the waters had his origin here,
@@ -9962,9 +9736,7 @@ The western quarter is thus narrated to thee in course of telling thee of
 the different points. Tell me now, O Galava, towards which side, O best
 of regenerate persons, shall we go?'"
 
-
-
-SECTION CXI
+## SECTION CXI
 
 "Garuda said, 'O Brahmanas, since this quarter saveth from sin, and since
 one attaineth to salvation here, it is for this saying (Uttarana) power
@@ -10042,9 +9814,7 @@ in details. Towards which quarter then dost thou desire to go? I am
 ready, O foremost of Brahmanas, to show thee all the quarters of the
 earth!'"
 
-
-
-SECTION CXII
+## SECTION CXII
 
 "Galava said, 'O Garuda, O slayer of foremost snakes, O thou of beautiful
 feathers, O son of Vinata, carry me, O Tarkhya, to the east where the two
@@ -10097,9 +9867,7 @@ means by which all this may be accomplished. Here is this mountain called
 Rishabha on the seaside. Resting here for some time and refreshing
 ourselves with food, I will, O Galava, return.'"
 
-
-
-SECTION CXIII
+## SECTION CXIII
 
 "Narada said, 'Alighting then on the peak of the Rishabha, the Brahmana
 and the Bird beheld a Brahmana lady of the name of Sandili, engaged there
@@ -10158,9 +9926,7 @@ O Galava, best of Brahmanas, we will deliberate on the matter. Without
 giving thy preceptor the whole of the wealth (promised by thee), thou
 canst not even sit down.'
 
-
-
-SECTION CXIV
+## SECTION CXIV
 
 "Narada said, 'Garuda then, that foremost of winged beings, addressed the
 cheerless Galava and said, 'Because it is created by Agni, in the bowels
@@ -10215,9 +9981,7 @@ This one is as fit to accept a gift as thou art to make a gift. Let
 therefore, thy gift in this instance be like milk deposited in a
 conch-shell.'"
 
-
-
-SECTION CXV
+## SECTION CXV
 
 "Narada said, 'Thus addressed by Suparna in excellent words fraught with
 truth, that performer of thousand sacrifices, that foremost of givers,
@@ -10268,9 +10032,7 @@ her from me, O Haryyaswa, as thy wife, by giving me a dower. I will tell
 thee what dower thou shalt have to give. Hearing it, settle what thou
 shalt do.'"
 
-
-
-SECTION CXVI
+## SECTION CXVI
 
 "Narada said, 'That best of monarchs, king Haryyaswa, after reflecting
 for a long while and breathing a long and hot sigh about the birth of a
@@ -10322,9 +10084,7 @@ becoming a maiden, followed the footsteps of Galava. And Galava too,
 saying, 'Let the steeds remain with thee' then went, accompanied by the
 maiden, to king Divodasa.'"
 
-
-
-SECTION CXVII
+## SECTION CXVII
 
 "Narada said, 'Galava then, addressing Madhavi, said, The ruler of the
 Kasis is an illustrious king known by the name of Divodasa. He is the son
@@ -10367,9 +10127,7 @@ elsewhere, O ruler of Earth, for dower.' Thus addressed, the virtuous
 king Divodasa, who was devoted to truth, thereupon, gave back the maiden
 to Galava at the appointed time.'"
 
-
-
-SECTION CXVIII
+## SECTION CXVIII
 
 "Narada said, 'The illustrious Madhavi, faithful to her promise,
 abandoning that prosperity and once more becoming a maiden, followed the
@@ -10416,9 +10174,7 @@ celebrated by the name Sivi. And after the birth of that son, the
 Brahmana Galava came to Usinara, and taking back from him the maiden
 went, O king, to see the son of Vinata.'"
 
-
-
-SECTION CXIX
+## SECTION CXIX
 
 "Narada said, 'Seeing Galava, Vinata's son smilingly addressed him,
 saying, 'By good luck it is, O Brahmana, that I behold thee successful.'
@@ -10473,9 +10229,7 @@ slender waist.' Saying this, Galava dismissed Garuda that devourer of
 snakes, and returning the maiden unto her father himself went into the
 woods.'"
 
-
-
-SECTION CXX
+## SECTION CXX
 
 "Narada said, 'King Yayati then, desirous again of disposing of his
 daughter in Swayamvara, went to a hermitage on the confluence of the
@@ -10525,9 +10279,7 @@ him.' And the minds of all were temporarily clouded, so that none
 recognised the king and thereupon the monarch was soon divested of his
 splendour.'"
 
-
-
-SECTION CXXI
+## SECTION CXXI
 
 "Narada said, 'Removed from his place and pushed away from his seat with
 heart trembling in fear, and consumed by burning remorse, with his
@@ -10602,9 +10354,7 @@ fallen down from heaven. And at that time Galava also came there, and
 addressing Yayati, said, 'Accepting an eighth part of my ascetic
 austerities, ascend thou to heaven again.'"
 
-
-
-SECTION CXXII
+## SECTION CXXII
 
 "Narada said, 'As soon as that bull among men, king Yayati was recognised
 by those virtuous persons, he rose again to heaven, without having had to
@@ -10647,9 +10397,7 @@ And those monarchs jointly said, 'Endued with the attributes of royalty
 and possessed of every virtue, we are, O king, thy daughter's sons! (By
 virtue of our good deeds) ascend thou to heaven.'"
 
-
-
-SECTION CXXIII
+## SECTION CXXIII
 
 "Narada said, 'Sent back to heaven by those righteous kings,
 distinguished by the liberality of their sacrificial presents, Yayati
@@ -10711,9 +10459,7 @@ by various references to scriptures and reason, obtaineth a knowledge of
 virtue and profit and desire, and enjoyeth the sovereignty of the whole
 world!'"
 
-
-
-SECTION CXXIV
+## SECTION CXXIV
 
 "Dhritarashtra said, 'O holy one, it is even so as thou, O Narada,
 sayest. My wish also is precisely such, but, O holy one, I have no power
@@ -10869,9 +10615,7 @@ the Pandavas and acting according to the counsels of thy friends, and
 rejoicing with them, thou art sure to obtain what is for thy good for
 ever and ever.'"
 
-
-
-SECTION CXXV
+## SECTION CXXV
 
 "Vaisampayana said, 'Hearing, O bull of Bharata's race, these words of
 Kesava, Bhishma, the son of Santanu, then said unto vindictive
@@ -10938,9 +10682,7 @@ not let the opportunity pass away. If, however, thou disregardest Kesava,
 who from a desire of achieving what is for good, is soliciting thee to
 make peace, then victory will never be thine.'"
 
-
-
-SECTION CXXVI
+## SECTION CXXVI
 
 "Vaisampayana said, 'Hearing these words of Dhritarashtra, both Bhishma
 and Drona who sympathised with the old king, again addressed disobedient
@@ -10983,9 +10725,7 @@ all the kings. Let the Earth be ruled by thee with feelings of brotherly
 affection (in thy bosom), and let thy heart be freed from the fever (of
 jealousy and wrath).'"
 
-
-
-SECTION CXXVII
+## SECTION CXXVII
 
 "Vaisampayana said, 'Hearing in that assembly of the Kurus these words
 that were disagreeable to him, Duryodhana replied unto the mighty-armed
@@ -11043,9 +10783,7 @@ the Pandavas. At present, O Kesava of mighty arms, as long as I live,
 even that much of our land which may be covered by the point of a sharp
 needle shall not, O Madhava, be given by us unto the Pandavas.'"
 
-
-
-SECTION CXXVIII
+## SECTION CXXVIII
 
 "Vaisampayana said, 'Reflecting (for a moment), with eyes red in anger,
 he, of Dasarha's race, addressing Duryodhana in that assembly of the
@@ -11164,9 +10902,7 @@ be sacrificed. O monarch, binding Duryodhana fast, make peace with the
 Pandavas. O bull among Kshatriyas, let not the whole Kshatriya race be
 slaughtered on thy account.'"
 
-
-
-SECTION CXXIX
+## SECTION CXXIX
 
 "Vaisampayana said, 'Hearing these words of Krishna, king Dhritarashtra
 lost no time in addressing Vidura, who was conversant with all dictates
@@ -11300,9 +11036,7 @@ glances upon king Yudhishthira. It is never seen in this world that men
 acquire wealth by avarice. Give up thy avarice then, O son, and desist, O
 bull of Bharat's race.'"
 
-
-
-SECTION CXXX
+## SECTION CXXX
 
 "Vaisampayana said, 'Disregarding these words of grave import, spoken by
 his mother, Duryodhana went away, in anger, from that place to the
@@ -11423,9 +11157,7 @@ never-ending source of energy. In seeking to use violence towards
 Krishna, endued with mighty arms and unwearied by exertion, thou wilt,
 with all thy followers, perish like an insect failing into fire.'"
 
-
-
-SECTION CXXXI
+## SECTION CXXXI
 
 "Vaisampayana said, 'After Vidura had said this, Kesava, that slayer of
 hostile divisions, endued with great energy, addressed Dhritarashtra's
@@ -11505,9 +11237,7 @@ Yuyutsu, all began to follow him. And Kesava, on his large white car,
 furnished with rows of tinkling bells, proceeded then, in the very sight
 of the Kurus, to the abode of his paternal aunt (Kunti).'"
 
-
-
-SECTION CXXXII
+## SECTION CXXXII
 
 "Vaisampayana said, 'Entering her abode and worshipping her feet, Kesava
 represented to her briefly all that had transpired in the assembly of the
@@ -11589,9 +11319,7 @@ according to the practices of kings. Do not sink thy ancestors (in
 infamy). With thy merit worn out, do not, with thy younger brothers,
 obtain a sinful end.'"
 
-
-
-SECTION CXXXIII
+## SECTION CXXXIII
 
 "Kunti said, 'In this connection, O chastiser of foes, is cited an old
 story of the conversation between Vidula and her son. It behoveth thee to
@@ -11700,9 +11428,7 @@ through the prowess of Sakra. That man who liveth in greatness depending
 on the prowess of his own arms, succeedeth in winning fame in this world
 and blessed state in the next!'"
 
-
-
-SECTION CXXXIV
+## SECTION CXXXIV
 
 "Vidula said, 'If, having fallen into such a plight, thou wishest to give
 up manliness, thou shalt then have, in no time, to tread the path that is
@@ -11797,9 +11523,7 @@ down unto Brahmanas only, for the sake of virtue. He should rule over all
 other orders, destroying all evil-doers. Possessed of allies, or
 destitute of them, he should be so as long as he liveth.'"
 
-
-
-SECTION CXXXV
+## SECTION CXXXV
 
 "Kunti said, 'Hearing these words of his mother the son said, O ruthless
 and wrathful mother, O thou that thinkest highly of martial heroism, thy
@@ -11906,9 +11630,7 @@ friends and relatives, and more than that mistrusted and even despised by
 them. It is perfectly impossible for him to ever regain his kingdom, who,
 having united himself with his foe, liveth confidently.'"
 
-
-
-SECTION CXXXVI
+## SECTION CXXXVI
 
 "The mother said, 'Into whatever calamity a king may fail, he should not
 still betray it. Beholding the king afflicted with fright, the whole
@@ -11968,9 +11690,7 @@ car-warrior, possessed of great intelligence, irresistible (in battle),
 ever victorious, invincible, a chastiser of the wicked and a protector of
 all practisers of virtue.'"
 
-
-
-SECTION CXXXVII
+## SECTION CXXXVII
 
 "Kunti said, 'Say unto Arjuna, these words, when thou wert brought forth
 in the lying-in room and when I was sitting in the hermitage surrounded
@@ -12042,9 +11762,7 @@ of the tempest of the mind, went on as if drinking the skies. And quickly
 traversing a long way like fleet hawks, they reached Upaplavya very soon,
 bearing the wielder of Saranga.'"
 
-
-
-SECTION CXXXVIII
+## SECTION CXXXVIII
 
 "Vaisampayana said, 'Hearing the words of Kunti, the mighty car-warriors,
 Bhishma and Drona, then spoke these words unto the disobedient
@@ -12108,9 +11826,7 @@ Hearing in battle the terrible yells uttered by the mighty Bhima and the
 twang of Gandiva, thou wilt remember our these words. Indeed, if what we
 say appears unacceptable to thee, then it will be as we say.'"
 
-
-
-SECTION CXXXIX
+## SECTION CXXXIX
 
 "Vaisampayana said, 'Thus addressed by them, Duryodhana, contracting the
 space between his eye-brows, became cheerless, and with face bent down
@@ -12171,9 +11887,7 @@ thee, there is no necessity for war. Make peace with those heroes for the
 sake of prosperity to the Kurus. Do not court defeat, with thy sons,
 counsellors, and the army!'"
 
-
-
-SECTION CXL
+## SECTION CXL
 
 "Dhritarashtra said, 'O Sanjaya, in the midst of all the princes and the
 servants, the slayer of Madhu took Karna upon his car and went out (of
@@ -12240,9 +11954,7 @@ Kunti herself. Let thy friends rejoice, and thy enemies grieve. Let there
 be, this day, a brotherly union between thee and thy brothers, the sons
 of Pandu."
 
-
-
-SECTION CXLI
+## SECTION CXLI
 
 "Karna said, 'Without doubt, O Kesava, thou hast said these words from
 thy love, affection, and friendship for me, as also in consequence of thy
@@ -12373,9 +12085,7 @@ Kshatriyas own. O Kesava, bring Kunti's son (Arjuna) before me for
 battle, keeping for ever this our discourse a secret, O chastiser of
 foes.'"
 
-
-
-SECTION CXLII
+## SECTION CXLII
 
 "Sanjaya said, 'Hearing these words of Karna, Kesava, that slayer of
 hostile heroes, spoke unto him these words smilingly, 'Do not the means
@@ -12423,9 +12133,7 @@ cherished by them. Indeed, all the kings and princes that are obedient to
 the orders of Duryodhana, obtaining death by weapons, will attain to an
 excellent state.'"
 
-
-
-SECTION CXLIII
+## SECTION CXLIII
 
 "Sanjaya said, 'Hearing these beneficial and auspicious words of Kesava,
 Karna worshipped Krishna, the slayer of Madhu, and said these words,
@@ -12535,9 +12243,7 @@ to his bosom. Dismissed by Kesava, he then descended from the car. And
 riding on his own car decked with gold, Radha's son greatly dejected,
 came back with us!'"
 
-
-
-SECTION CXLIV
+## SECTION CXLIV
 
 "Vaisampayana said, 'Upon the failure of Krishna's solicitations (for
 peace), and after he had started for the Pandavas from the Kurus, Kshatri
@@ -12613,9 +12319,7 @@ palms that foremost of virtuous persons, endued with great energy and
 pride, viz., Vrisha, the son of Vikartana, bowed to her and said (the
 following words)."'
 
-
-
-SECTION CXLV
+## SECTION CXLV
 
 "Karna said, 'I am Karna, son of Radha and Adhiratha. For what, O lady,
 hast thou come here? Tell me what I am to do for thee?'
@@ -12647,9 +12351,7 @@ sacrifice. Endued with every virtue, thou art the first of all my
 relations. Let not the epithet Suta's son attach to thee. Thou art a
 Partha, endued with great energy.'"
 
-
-
-SECTION CXLVI
+## SECTION CXLVI
 
 "Vaisampayana said (After Kunti had said this), Karna heard an
 affectionate voice issued out of the solar circle. Coming from a great
@@ -12717,9 +12419,7 @@ addressed Karna, saying, 'Blessed be thou, and let health be thine.' And
 Karna replied unto her, saying, 'Be it so!' And they then left the spot,
 wending in different directions.'"
 
-
-
-SECTION CXLVII
+## SECTION CXLVII
 
 "Vaisampayana said, 'Coming back to Upaplavya from Hastinapura, that
 chastiser of foes, Kesava, represented unto the Pandavas all that had
@@ -12822,9 +12522,7 @@ father, of Gandhari, and also of Vidura. The words of those that are old
 should always be listened to. Do not disregard these words of mine. Do
 not destroy all thou hast and the earth also.'"
 
-
-
-SECTION CXLVIII
+## SECTION CXLVIII
 
 "Vasudeva said, 'After Bhishma had said these words, Drona, always
 competent to speak, then addressed Duryodhana in the midst of the
@@ -12917,9 +12615,7 @@ Even that is an act that should be done by those that are well-wishers
 Dharma, guided by king Dhritarashtra and urged by Santanu's son, rule for
 many long years this kingdom of the Kurus lawfully obtainable by him.'"
 
-
-
-SECTION CXLIX
+## SECTION CXLIX
 
 "Vasudeva said, 'After Gandhari had said this, that ruler of men,
 Dhritarashtra, then said these words to Duryodhana in the midst of the
@@ -13002,9 +12698,7 @@ lawfully belongeth to others? Dispelling this delusion, give half the
 kingdom with (a share of the) animals and other possessions. Then, O
 king, mayest thou hope to live for some time with thy younger brothers.'"
 
-
-
-SECTION CXLX
+## SECTION CXLX
 
 "Vasudeva said, 'Though thus addressed by Bhishma, and Drona, and Vidura,
 and Gandhari, and Dhritarashtra, that wicked wight could not yet be
@@ -13051,9 +12745,7 @@ that had happened in the assembly of the Kurus. They will not, O son of
 Pandu, give thee thy kingdom without battle. With death waiting before
 them, they have all become the cause of a universal destruction.'"
 
-
-
-SECTION CLI
+## SECTION CLI
 
 "Vaisampayana said, 'Hearing these words of Janardana, king Yudhishthira
 the Just, of virtuous soul, addressed his brothers in the presence of
@@ -13173,9 +12865,7 @@ and incapable of being withstood. Without doubt, it will slay the
 Dhartarashtra host. As regards our leader, I would name that chastiser of
 foes, Dhrishtadyumna.'"
 
-
-
-SECTION CLII
+## SECTION CLII
 
 "Vaisampayana said, 'When Krishna had said this, all the monarchs there
 were filled with joy. And the shout sent forth by those delighted kings
@@ -13228,9 +12918,7 @@ roars of those warriors, endued with lightness of hand and speed of
 motion, mingling with the blare of conchs and beat of Drums, made the
 whole earth, the welkin, and the oceans resound therewith.'"
 
-
-
-SECTION CLIII
+## SECTION CLIII
 
 "Vaisampayana said, 'King Yudhishthira then caused his troops to encamp
 on a part of the field that was level, cool, and abounding with grass and
@@ -13271,9 +12959,7 @@ thither. And many kings who had practised Brahmacharya vows, drunk
 (consecrated) Soma and had made large presents to Brahmanas at
 sacrifices, came there for the success of the sons of Pandu.'"
 
-
-
-SECTION CLIV
+## SECTION CLIV
 
 "Janamejaya said, 'Hearing that Yudhishthira had, with his troops marched
 from the desire of battle and encamped on Kurukshetra, protected by
@@ -13336,9 +13022,7 @@ treasure-chests, its jewels and gems; the diverse kinds of ornaments and
 armour its waves; the bright weapons its white foam; the rows of houses
 the mountains on its beach; and the roads and shops, like lakes!'"
 
-
-
-SECTION CLV
+## SECTION CLV
 
 "Vaisampayana said, 'Recollecting the words spoken by Vasudeva,
 Yudhishthira once more addressed that scion of Vrishni's race, saying,
@@ -13405,9 +13089,7 @@ is even so (as thou hast said). The sons of Pandu then, O great king,
 made up their minds for war, and passed that night with their soldiers in
 great happiness.'"
 
-
-
-SECTION CLVI
+## SECTION CLVI
 
 "Vaisampayana said, 'After that night had passed away, king Duryodhana, O
 Bharata, distributed (in proper order) his eleven Akshauhinis of troops.
@@ -13498,9 +13180,7 @@ hours, and speak to them. And he repeatedly offered them worship before
 his very eyes. And thus appointed, all warriors, with all their
 followers, became desirous of doing what was most agreeable to the king.'"
 
-
-
-SECTION CLVII
+## SECTION CLVII
 
 "Vaisampayana said, Dhritarashtra's son, accompanied by all the kings,
 then addressed Bhishma, son of Santanu, and with joined hands said these
@@ -13580,9 +13260,7 @@ company, caused his camp to be measured out on a level part, O monarch,
 of that plain. And the camp, pitched on a delightful and fertile spot
 abounding with grass and fuel, shone like Hastinapura itself.'"
 
-
-
-SECTION CLVIII
+## SECTION CLVIII
 
 "Janamejaya said, 'When Yudhishthira heard that Bhishma, the high-souled
 son of Ganga, the foremost of all wielders of weapons, the grandsire of
@@ -13668,9 +13346,7 @@ with indifference the destruction of the Kauravas.
 Pandavas, and making the slayer of Madhu desist (from following him
 farther), set out on his journey for the sacred waters.'"
 
-
-
-SECTION CLIX
+## SECTION CLIX
 
 "Vaisampayana said, 'About this time, there came into the Pandava camp
 Bhishmaka's son, foremost among all persons of truthful resolution, and
@@ -13762,9 +13438,7 @@ another. And that conclave presided over by king Yudhishthira the Just,
 abounding with numerous monarchs, blazed forth like the firmament
 bespangled with lesser luminaries with the moon in their midst.'"
 
-
-
-SECTION CLX
+## SECTION CLX
 
 "Janamejaya said, 'After the soldiers had been arrayed thus in order of
 battle (on the field of Kurukshetra), what, O bull among Brahmanas, did
@@ -13808,9 +13482,7 @@ others say that our acts are the result of those of our past lives.
 Listen then, therefore, with patience, to the evil that hath come upon
 us.'"
 
-
-
-SECTION CLXI
+## SECTION CLXI
 
 (Uluka Dutagamana Parva)
 
@@ -14107,9 +13779,7 @@ ruling the earth, like the heart of a person of impure deeds turning away
 from (hope of) heaven. Indeed, for thee to win a kingdom to rule is as
 impossible as for one not possessed of ascetic merit to obtain heaven!'"
 
-
-
-SECTION CLXII
+## SECTION CLXII
 
 "Sanjaya said, 'Having reached the Pandava camp, the gambler's son
 (Uluka) presented himself before the Pandavas, and addressing
@@ -14214,9 +13884,7 @@ earth like the heart of a person of impure deeds turning away from (hope
 of) heaven. Indeed, for thee to win a kingdom to rule is as impossible as
 for one not possessed of ascetic merit to obtain heaven!'"
 
-
-
-SECTION CLXIII
+## SECTION CLXIII
 
 "Sanjaya said, 'O monarch, provoking Arjuna still further who was like a
 snake of virulent poison, by means of those wordy strokes of his Uluka
@@ -14360,9 +14028,7 @@ thou hast uttered such cross and perverse words, yet neither Partha, nor
 king Yudhishthira, nor Bhimasena, nor any of the twins, regardeth thee as
 straw!'"
 
-
-
-SECTION CLXIV
+## SECTION CLXIV
 
 "Sanjaya said, 'Having heard those words of Duryodhana, Gudakesha of
 great fame looked at the gambler's son with eyes exceedingly red. And
@@ -14498,9 +14164,7 @@ with great fleetness, quickly rode through the encampment. And at Karna's
 command they promulgated the order--Array (yourselves) before sunrise
 tomorrow!'"
 
-
-
-SECTION CLXV
+## SECTION CLXV
 
 'Sanjaya said, 'Having listened to Uluka's words, Yudhishthira, the son
 of Kunti, moved his army headed by Dhrishtadyumna and others. And that
@@ -14530,9 +14194,7 @@ firm heart. And having arrayed the combatants, as indicated above, of the
 Pandavas, he waited, with collected mind, on the field for securing
 victory to the sons of Pandu.'"
 
-
-
-SECTION CLXVI
+## SECTION CLXVI
 
 "Dhritarashtra said, After Falguni had vowed the slaughter of Bhishma in
 battle, what did my wicked sons headed by Duryodhana do? Alas, I already
@@ -14616,9 +14278,7 @@ battle. That tiger among car-warriors, therefore, remembering his old
 hostility, will, O sire, fight with the Pandavas in battle, reckless of
 his very life which is so difficult to lay down.'"
 
-
-
-SECTION CLXVII
+## SECTION CLXVII
 
 "Bhishma said, 'Sudhakshina, the ruler of the Kamvojas, is in my
 judgment, equal to a single Ratha. Desiring the success of thy object, he
@@ -14668,9 +14328,7 @@ invincible like Kartikeya himself. Consuming untold warriors armed with
 various weapons and bows, he will, O sire, roam forth on the field of
 battle like a blazing fire.'"
 
-
-
-SECTION CLXVIII
+## SECTION CLXVIII
 
 "Bhishma said, 'This thy maternal uncle Sakuni is, O king, equal to a
 single Ratha. Having caused the (present) hostilities (to break out) with
@@ -14758,9 +14416,7 @@ high-souled Pandava. Skilled in fight from the elephant's neck, this king
 will fight in battle, like Vasava among the celestials, fighting from his
 Airavata.'"
 
-
-
-SECTION CLXIX
+## SECTION CLXIX
 
 "Bhishma said, 'Both the brothers Achala and Vrisha are Rathas.
 Invincible (in battle) they will slay thy foes. Endued with great
@@ -14857,9 +14513,7 @@ are leaders of car-division. O Kaurava, I desire to hear of the strength
 and weakness of my foes, since when this night will dawn, our great
 battle will take place.'"
 
-
-
-SECTION CLXX
+## SECTION CLXX
 
 "Bhishma said, 'I have now, O king, indicated who thy Rathas are and who
 thy Atirathas and half Rathas. Listen now to the tale of Rathas and
@@ -14925,9 +14579,7 @@ Pandu and thinking of it, as if it were present before their eyes, the
 massive arms of kings, decked with bracelets and smeared with
 sandal-paste, seemed to hang down divested of might.'"
 
-
-
-SECTION CLXXI
+## SECTION CLXXI
 
 "Bhishma said, 'All the five sons of Draupadi, O monarch, are Maharathas.
 Virata's son Uttara is, in my judgment, one of the foremost of Rathas.
@@ -14964,9 +14616,7 @@ of their respective Akshauhinis, achieve great feats, justifying their
 relationship and the confidence that is reposed on them (by the
 Pandavas).'"
 
-
-
-SECTION CLXXII
+## SECTION CLXXII
 
 "Bhishma said, 'That subjugator of hostile cities, Sikhandin, the son of
 the king of the Panchalas, is, O king, in my judgment, one of the
@@ -15027,9 +14677,7 @@ bowman Dhridadhanwan is another Maharatha of the Pandavas. O subjugator
 of hostile cities, that foremost of Kurus, viz., Srenimat and king
 Vasudeva are both, in my judgment, Atirathas.'"
 
-
-
-SECTION CLXXIII
+## SECTION CLXXIII
 
 "Bhishma said, 'O great king, Rochamana is another Maharatha of the
 Pandavas. He will, O Bharata, contend in battle against hostile warriors,
@@ -15082,9 +14730,7 @@ not, O Bharata, fight against him. I shall certainly smite all other
 kings, O bull of Bharata's race, whom I may encounter in battle. I will
 not, however, O king, be able to slay the sons of Kunti!'"
 
-
-
-SECTION CLXXIV
+## SECTION CLXXIV
 
 "Duryodhana said, 'For what reason, O chief of the Bharatas, wilt thou
 not slay Sikhandin even if thou beholdest him approach thee as a foe with
@@ -15136,9 +14782,7 @@ all those rulers of the earth, I came back to Hastinapura, I then, O thou
 of mighty arms, made over those maidens, intending them for my brothers
 to Satyavati and represented unto her everything I had done.'"
 
-
-
-SECTION CLXXV
+## SECTION CLXXV
 
 "Bhishma said, 'Then, O chief of the Bharatas, approaching my mother,
 that daughter of the Dasa clan, and saluting that parent of heroes, I
@@ -15163,9 +14807,7 @@ therefore, O best of the Kurus' to permit me to depart. O mighty-armed
 one, be merciful to me, O foremost of righteous persons! Thou, O hero,
 art devoted to truth, it is well-known all over the earth!'"
 
-
-
-SECTION CLXXVI
+## SECTION CLXXVI
 
 "Bhishma said, 'I then placed the matter before (my mother) Kali,
 otherwise called Gandhavati, as also all our counsellors, and also before
@@ -15226,9 +14868,7 @@ art Bhishma's capture! Thus addressed by Salwa destitute of foresight,
 that maiden issued out of his city sorrowfully and wailing like a
 she-osprey.'"
 
-
-
-SECTION CLXXVII
+## SECTION CLXXVII
 
 "Bhishma said, 'Issuing out of the city, Amva reflected sorrowfully in
 this strain. 'There is not in the whole world a young woman in such a
@@ -15276,9 +14916,7 @@ comforted the maiden by examples and reasons borrowed from the
 scriptures. And having consoled her thus, he promised, with the other
 Brahmanas, to do what she desired.'"
 
-
-
-SECTION CLXXVIII
+## SECTION CLXXVIII
 
 "Bhishma said, 'Those virtuous ascetics then set themselves about their
 usual avocations, thinking all the while as to what they should do for
@@ -15413,9 +15051,7 @@ even this is what hath been my determination, viz., that that would be my
 highest duty which the holy Rama, O best of Brahmanas, might point out to
 me!'"
 
-
-
-SECTION CLXXIX
+## SECTION CLXXIX
 
 "Akritavrana said, 'Of these two afflictions of thine, for which, O
 blessed lady, dost thou seek a remedy? Tell me this. Is it thy wish that
@@ -15514,9 +15150,7 @@ cause that hero of great vows to be slain. Therefore, O sinless Rama,
 gratify this desire of mine! O thou of mighty arms, slay Bhishma, even as
 Purandara slew Vritra.'"
 
-
-
-SECTION CLXXX
+## SECTION CLXXX
 
 "Bhishma said, 'O lord, repeatedly urged by that maiden to slay Bhishma,
 Rama replied unto that weeping girl, saying, 'O daughter of Kasi, O thou
@@ -15578,9 +15212,7 @@ maiden, O Bharata, in their company. And those high-souled ascetics, with
 that foremost one of Bhrigu's race at head, having arrived on the banks
 of the stream of Saraswati, quartered themselves there.'"
 
-
-
-SECTION CLXXXI
+## SECTION CLXXXI
 
 "Bhishma said, 'After he had quartered there, on third day, O king,
 Jamadagni's son of high vows, sent a message to me, saying, 'I have come
@@ -15754,9 +15386,7 @@ anger, refused to do her bidding. Just at this time, the mighty ascetic
 Rama, that foremost one of Bhrigu's race, appeared in Bhishma's sight. An
 then that best of the twice-born ones challenged him to the encounter.'"
 
-
-
-SECTION CLXXXII
+## SECTION CLXXXII
 
 "Bhishma said, 'I then smilingly addressed Rama stationed for battle,
 saying,--Myself on my car, I do not wish to fight with thee that art on
@@ -15847,9 +15477,7 @@ any more. At this time, the thousand-rayed luminary, having heated the
 earth with his rays, proceeded at the close of day to his chambers in the
 west and the battle also between us ceased.'"
 
-
-
-SECTION CLXXXIII
+## SECTION CLXXXIII
 
 "Bhishma said, 'After the battle had ceased, my charioteer, well-skilled
 in such operations, drew out from his own body, from the bodies of my
@@ -15934,9 +15562,7 @@ them to fall down on the earth like snakes cut into pieces. And it was
 thus, O best of the Bharatas, that combat took place. When, however, the
 shades of evening approached, my preceptor withdrew from the fight.'"
 
-
-
-SECTION CLXXXIV
+## SECTION CLXXXIV
 
 "Bhishma said, 'The next day, O bull of Bharata's race, frightful again
 was the combat that wok place between me and Rama when I encountered him
@@ -15985,9 +15611,7 @@ Indeed, like Rama afflicted with my clouds of arrows, I too was densely
 pierced with his arrows. When at last in the evening, the sun set behind
 the western hills, our combat came to an end.'"
 
-
-
-SECTION CLXXXV
+## SECTION CLXXXV
 
 "Bhishma said, 'Next morning, O king, when the sun rose brightly, the
 combat between myself and him of Bhrigu's race, again, commenced. Then
@@ -16055,9 +15679,7 @@ from the fight. In this way, O king, when evening came the fierce battle
 ceased, and (next day) with the re-appearance of the sun it commenced
 again. And it lasted for three and twenty days together.'"
 
-
-
-SECTION CLXXXVI
+## SECTION CLXXXVI
 
 "Bhishma said, 'Then, O great king, during the night, having bowed unto
 the Brahmanas, the Rishis, the gods, and all those creatures that wander
@@ -16096,9 +15718,7 @@ happily thought of!--Having said this, O king, those foremost of
 Brahmanas, eight in number and resembling one another in form, and
 possessed of effulgent bodies, all vanished from my sight!'"
 
-
-
-SECTION CLXXXVII
+## SECTION CLXXXVII
 
 "Bhishma said, 'After the night had passed away, I awoke, O Bharata, and
 thinking of my dream I was filled with great joy. Then, O Bharata, the
@@ -16147,9 +15767,7 @@ speedily shooting the Praswapa weapon at the command of those utterers of
 Brahma (that had appeared to me in my dream)! The Mantras also for
 invoking excellent weapon suddenly came to my mind!'"
 
-
-
-SECTION CLXXXVIII
+## SECTION CLXXXVIII
 
 "Bhishma said, 'When I had formed this resolution, O king, a din of
 tumultuous voices arose in the sky. And it said,--O son of Kuru's race,
@@ -16227,9 +15845,7 @@ in this combat thou hast pleased me highly'! Summoning then in my
 presence that maiden (the daughter of Kasi), Bhargava sorrowfully said
 unto her these words in the midst of all those high-souled persons.'"
 
-
-
-SECTION CLXXXIX
+## SECTION CLXXXIX
 
 "Rama said, 'O damsel, in the very sight of all these persons, I have
 fought according to the best of my power and displayed my prowess! By
@@ -16322,9 +15938,7 @@ destitute of easy access to her water. And, O king, in consequence of her
 ascetic merit only half her body became such a river in Vatsabhumi, while
 with the other half, she remained a maiden as before!'
 
-
-
-SECTION CXC
+## SECTION CXC
 
 "Bhishma said, 'Then all those ascetics (that dwell in Vatsabhumi),
 beholding the princess of Kasi firmly resolved on ascetic austerities,
@@ -16371,9 +15985,7 @@ pyre on the banks of the Yamuna, and having set fire to it herself,
 entered that blazing fire, O great king, with a heart burning with wrath,
 and uttering, O king, the words,--(I do so) for Bhishma's destruction!'"
 
-
-
-SECTION CXCI
+## SECTION CXCI
 
 "Duryodhana said, 'Tell me, O grandsire, how Sikhandin, O Ganga's son,
 having before been born a daughter, afterwards became a man, O foremost
@@ -16418,9 +16030,7 @@ Sikhandin on her. I alone, through my spies and from Narada's words, knew
 the truth, informed as I previously was of the words of the god and of
 the ascetic austerities of Amva!'"
 
-
-
-SECTION CXCII
+## SECTION CXCII
 
 "Bhishma said, 'Drupada, O chastiser of foes, bestowed great attention on
 everything in connection with that daughter of his, teaching her writing
@@ -16471,9 +16081,7 @@ solicited my daughter for thy daughter! O wicked one, reap now the
 consequence of that act of deception' I will now slay thee with all thy
 relatives and advisers! Wait a little!'"
 
-
-
-SECTION CXCIII
+## SECTION CXCIII
 
 "Bhishma said, 'Thus addressed, O king, by that messenger, king Drupada,
 like a thief caught (in the act), could not speak. He exerted himself
@@ -16522,9 +16130,7 @@ everything, yet he addressed his wife in the presence of others in this
 way, to proclaim his own innocence before others. His queen then answered
 him in the following words.'"
 
-
-
-SECTION CXCIV
+## SECTION CXCIV
 
 "Bhishma said. 'Then, O mighty-armed king, Sikhandin's mother represented
 unto her lord the truth about her daughter, Sikhandin. And she said,
@@ -16593,9 +16199,7 @@ grace, O Yaksha, I would become a perfect man! As long as that king may
 not depart from my city, so long, O great Yaksha, show me grace, O
 Guhyaka!'"
 
-
-
-SECTION CXCV
+## SECTION CXCV
 
 "Bhishma said, 'Hearing, O bull of Bharata's race, those words of
 Sikhandini, afflicted by destiny, that Yaksha, said after reflecting in
@@ -16753,9 +16357,7 @@ will not, therefore, slay him even if I behold him waiting for battle!'
 Kuru's race, reflecting for a moment, thought even that behaviour was
 proper for Bhishma.'"
 
-
-
-SECTION CXCVI
+## SECTION CXCVI
 
 "Sanjaya said, 'When the night passed away and morning came, thy sons
 once more, in the midst of all the troops, asked their grandsire, saying,
@@ -16810,9 +16412,7 @@ Partha with his arrows, conch, and bows and rushing to the combat on his
 car with Vasudeva in his company, so long mayest thou think so! Why, thou
 art capable of saying anything, even what thou pleasest!'"
 
-
-
-SECTION CXCVII
+## SECTION CXCVII
 
 "Vaisampayana said, 'Hearing these words (of the leaders of the Kuru
 army), Kunti's son Yudhishthira, summoning all his brothers, said unto
@@ -16864,9 +16464,7 @@ effulgence equal unto that of Sakra himself, I know it, O Kaurava, for it
 is manifest, that that man upon whom thou mayest cast thy eyes in anger
 is sure to be annihilated!'"
 
-
-
-SECTION CXCVIII
+## SECTION CXCVIII
 
 "Vaisampayana said, 'Next morning, under a cloudless sky, all the kings,
 urged by Dhritarashtra's son, Duryodhana,--set out against the Pandavas.
@@ -16912,9 +16510,7 @@ singers, and panegyrists devoted to his cause, and vendors and traders,
 and prostitutes, and spies, and persons who had come to witness the
 battle, the Kuru king made due provision for all of them.'"
 
-
-
-SECTION CXCIX
+## SECTION CXCIX
 
 "Vaisampayana said, 'Like Duryodhana, king Yudhishthira also, the son of
 Kunti and Dharma, ordered out, O Bharata, his heroic warriors headed by
@@ -16994,8 +16590,6 @@ thousands and ten thousands, filled with joy, beat their drums by
 thousands and blew conchs by tens of thousands!'"
 
 The End of Udyoga Parva
-
-
 
 FOOTNOTES
 
@@ -17161,3 +16755,6 @@ sastras.
 vanquisher of Ravana, the chief of Haihaya clan of Kshatriyas having his
 capital at Mahishmati on the banks of the Narmada (Nerbuda), was slain by
 Rama
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

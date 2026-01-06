@@ -1,18 +1,10 @@
-
-
-
-
 # The Mahabharata
 
 of
 
 Krishna-Dwaipayana Vyasa
 
-BOOK 16
-
 ## Mausala-parva
-
-
 
 Translated into English Prose from the Original Sanskrit Text
 
@@ -24,8 +16,6 @@ Kisari Mohan Ganguli
 
 Scanned and Proofed by Mantra Caitanya. Additional proofing and
 formatting at sacred-texts.com, by J. B. Hare, October 2003.
-
-
 
 1
 
@@ -111,8 +101,6 @@ that it was the command of Rama also of unimpeachable deeds, all the
 citizens bound themselves by a rule and abstained from manufacturing
 wines and spirits."
 
-
-
 2
 
 Vaishampayana said: "While the Vrishnis and the Andhakas were thus
@@ -170,8 +158,6 @@ the Vrishnis to make a pilgrimage to some sacred water. The messengers
 forthwith proclaimed at the command of Keshava that the Vrishnis should
 make a journey to the sea-coast for bathing in the sacred waters of the
 ocean."
-
-
 
 3
 
@@ -290,8 +276,6 @@ energy and Daruka then said to Krishna, O holy one, a very large number
 of men has been slain by thee. Turn now to where Rama has gone. We wish
 to go there where he has proceeded."
 
-
-
 4
 
 Vaishampayana said: "Then Daruka and Keshava and Vabhru left that spot,
@@ -387,8 +371,6 @@ many foremost of Munis and Rishis worshipped him who was the Lord of all.
 The Gandharvas waited on him, hymning his praises, and Indra also
 joyfully praised him."
 
-
-
 5
 
 Vaishampayana said: "Meanwhile Daruka, going to the Kurus and seeing
@@ -428,8 +410,6 @@ caused him to be seated on a golden seat. The ladies sat around that
 high-souled one, giving expression to their feelings. Praising Govinda
 and talking with the ladies, the son of Pandu comforted them and then
 proceeded to see his maternal uncle."
-
-
 
 6
 
@@ -492,8 +472,6 @@ thou meetest me, O son of Pandu. Do thou accomplish all, O Partha, that
 Krishna has said. This kingdom, with all these women, and all the wealth
 here, is thine now, O son of Pritha. As regards myself, O slayer of foes,
 I shall cast off my life-breaths dear though they be."
-
-
 
 7
 
@@ -663,8 +641,6 @@ done all these acts suited to the occasion, Arjuna, with eyes bathed in
 tears, then entered the retreat of Vyasa. There he beheld the Island-born
 Rishi seated at his ease."
 
-
-
 8
 
 Vaishampayana said: "As Arjuna entered the asylum of the truthful Rishi,
@@ -766,3 +742,6 @@ approached Yudhishthira and informed him of all that had taken place with
 reference to the Vrishnis."
 
 The end of Mausala-parv
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

@@ -1,30 +1,6 @@
+# Ashramavasika Parva
 
-
-
-
-# The Mahabharata
-
-of
-
-Krishna-Dwaipayana Vyasa
-
-BOOK 15
-
-## ASRAMAVASIKA PARVA
-
-Translated into English Prose from the Original Sanskrit Text
-
-by
-
-Kisari Mohan Ganguli
-
-[1883-1896]
-
-Scanned at sacred-texts.com, 2003. Proofed by John Bruno Hare.
-
-
-
-SECTION I
+## SECTION I
 
 (Asramavasa Parva)
 
@@ -92,9 +68,7 @@ that match at dice which had been brought about by the wicked
 understanding of Dhritarashtra, did not disappear from the heart of that
 hero. (He remembered those incidents still)."'
 
-
-
-SECTION II
+## SECTION II
 
 "Vaisampayana said, 'Thus worshipped by the Pandavas, the royal soil of
 Amvika passed his time happily as before, waited upon and honoured by the
@@ -165,9 +139,7 @@ his uncle. Bhima, however, at the sight of Dhritarashtra, became very
 cheerless. That slayer of foes, seeing Dharma's son reverencing the old
 king, reverenced him outwardly with a very unwilling heart."'
 
-
-
-SECTION III
+## SECTION III
 
 "Vaisampayana said, 'The people who lived in the Kuru kingdom failed to
 notice any variance in the cordiality that subsisted between king
@@ -370,9 +342,7 @@ to take some food, with thy permission.' When Dhritarashtra said these
 words to Yudhishthira, Satyavati's son Vyasa came there and said as
 follows.`
 
-
-
-SECTION IV
+## SECTION IV
 
 "Vyasa said, 'O mighty-armed Yudhishthira, do without any scruple what
 Dhritarashtra of Kuru's race hag said. This king is old. He has, again,
@@ -426,9 +396,7 @@ all of them are well-wishers of our race. This, however, O king, I beg of
 thee by bending my head. Do thou first eat and afterwards go to thy
 forest retreat.'"
 
-
-
-SECTION V
+## SECTION V
 
 "Vaisampayana said, 'Having received the king's permission, king
 Dhritarashtra of great energy then proceeded to his own palace, followed
@@ -539,9 +507,7 @@ ruler of men, should always see that the accomplishments of his
 accomplished subjects might be kept up. They would then be firmly devoted
 to thee, seeing that they did not fall away from their skill.'"
 
-
-
-SECTION VI
+## SECTION VI
 
 "Dhritarashtra said, Thou shouldst always ascertain the Mandalas that
 belong to thee, to thy foes, to neutrals, and to those that are disposed
@@ -603,9 +569,7 @@ battling with the foe becomes hopeless, then he should fall, sacrificing
 his resources one after another. Casting off his life in this way, he
 will attain to liberation from all sorrow.'"
 
-
-
-SECTION VII
+## SECTION VII
 
 "Dhritarashtra said, 'O best of kings, thou shouldst also reflect
 properly on war and peace. Each is of two kinds. The means are various,
@@ -671,9 +635,7 @@ become dear to thy subjects and attain to felicity in Heaven. That king
 who adores the deities in a hundred horse-sacrifices, and he who rules
 his subjects righteously, acquire merit that is equal.'"
 
-
-
-SECTION VIII
+## SECTION VIII
 
 "Yudhishthira said, 'O lord of Earth, I shall do as thou biddest me. O
 foremost of kings, I should be further instructed by thee. Bhishma has
@@ -733,9 +695,7 @@ Bharatas, with voices choked with tears. Desirous of telling those
 grief-stricken people something more, Dhritarashtra of great energy, once
 more addressed them and said as follows.'"
 
-
-
-SECTION IX
+## SECTION IX
 
 "Dhritarashtra said, 'Santanu duly ruled this Earth. Similarly,
 Vichitraviryya also, protected by Bhishma, ruled you. Without doubt, all
@@ -778,9 +738,7 @@ prompted.' Thus addressed by the old monarch, all those citizens and
 inhabitants of the provinces, filled with tears, said nothing but only
 looked at one another."'
 
-
-
-SECTION X
+## SECTION X
 
 "Vaisampayana said, 'Thus addressed, O thou of Kuru's race, by the old
 king, the citizens and the inhabitants of the provinces stood sometime
@@ -905,9 +863,7 @@ hands and honoured them all in return. He then entered his own mansion
 with Gandhari. Listen now to what he did after that night had passed
 away."'
 
-
-
-SECTION XI
+## SECTION XI
 
 "Vaisampayana said, 'After that night had passed away, Dhritarashtra, the
 son of Amvika, despatched Vidura to Yudhishthira's mansion. Endued with
@@ -967,9 +923,7 @@ going on,--'What has been won?' Hearing thus far, king Yudhishthira, the
 son of Kunti, endued with great intelligence, rebuked him and told him to
 be silent."'
 
-
-
-SECTION XII
+## SECTION XII
 
 "Arjuna said, 'O Bhima, thou art my elder brother and, therefore, my
 senior and preceptor. I dare not say anything more than what I have
@@ -1004,9 +958,7 @@ himself from the debt he owes to his sons and well-wishers. Let him be
 told besides,--O Monarch, this very body of mine is at thy disposal and
 all the wealth I have. Know this, and let there be no doubt in this.
 
-
-
-SECTION XIII
+## SECTION XIII
 
 "Vaisampayana said, 'Thus addressed by king Yudhishthira, Vidura, that
 foremost of all intelligent persons, returned to Dhritarashtra and said
@@ -1044,9 +996,7 @@ next. After Vidura had said these words, O Janamejaya, Dhritarashtra his
 satisfaction at them and set his heart upon making large presents on the
 day of full moon in the month of Kartika."'
 
-
-
-SECTION XIV
+## SECTION XIV
 
 "Vaisampayana said,--'Thus addressed by Vidura, king Dhritarashtra became
 highly pleased, O monarch, with the act of Yudhishthira and Jishnu.
@@ -1093,9 +1043,7 @@ away in large quantities. Making gifts in this way for ten days, the
 royal son of Amvika, O chief of Bharata's race, became freed from the
 debts he owed to his sons and grandsons."'
 
-
-
-SECTION XV
+## SECTION XV
 
 "Vaisampayana said,--'The royal son of Amvika, viz., Dhritarashtra,
 having settled the hour of his departure for the woods, summoned those
@@ -1136,9 +1084,7 @@ match at dice. Ladies that had never seen the sun or the moon, came out
 into the streets on the occasion, in great grief, when king Dhritarashtra
 proceeded towards the great forest."'
 
-
-
-SECTION XVI
+## SECTION XVI
 
 "Vaisampayana said, 'Great was the uproar, at that time, O king, of both
 men and women standing on the terraces of mansions or on the Earth.
@@ -1218,9 +1164,7 @@ children. The Pandavas, with all their wives and servitors, continued to
 follow her. Restraining then her tears, she addressed her children in
 these words.'"
 
-
-
-SECTION XVII
+## SECTION XVII
 
 "Kunti said, 'It is even so, O mighty-armed son of Pandu, as thou sayest.
 Ye kings, formerly when ye were cheerless, it was even in this way that I
@@ -1274,9 +1218,7 @@ follow me, O foremost one of Kuru's race, along with Bhima and others.
 Let thy understanding be always devoted to righteousness. Let thy mind be
 always great.'"
 
-
-
-SECTION XVIII
+## SECTION XVIII
 
 "Vaisampayana said, 'Hearing these words of Kunti, the sinless Pandavas,
 O best of kings, became ashamed. They, therefore, desisted, along with
@@ -1334,9 +1276,7 @@ sacred fire, they continued their journey. Their first day's experience
 of the forest proved very painful to them on account of the grieving
 inhabitants of both the city and the provinces of the Kuru kingdom."
 
-
-
-SECTION XIX
+## SECTION XIX
 
 "Vaisampayana said. 'Following the advice of Vidura, the king took up his
 abode on the banks of the Bhagirathi which were sacred and deserved to be
@@ -1380,9 +1320,7 @@ waited upon the old king with his wife. Both of them with souls under
 subjection, Vidura and Sanjaya also reduced themselves, and wore barks
 and rags."'
 
-
-
-SECTION XX
+## SECTION XX
 
 "Vaisampayana said, 'Those foremost of ascetics, viz. Narada and Parvata
 and Devala of austere penances, came there to see king Dhritarashtra. The
@@ -1476,9 +1414,7 @@ became greatly cheered and highly pleased. Having cheered Dhritarashtra
 of great wisdom with such talk, they left the spot, wending away by the
 path that belongs to those who are crowned with success."'
 
-
-
-SECTION XXI
+## SECTION XXI
 
 " Vaisampayana said, 'Upon the retirement of the chief of the Kurus into
 the forest, the Pandavas, O king, afflicted besides by grief on account
@@ -1514,9 +1450,7 @@ hearts and grieved exceedingly. Beholding, however, the son of Virata's
 daughter, viz., thy sire Parikshit, thy grandsires somehow held their
 life-breaths.'
 
-
-
-SECTION XXII
+## SECTION XXII
 
 "Vaisampayana said, 'Those foremost of men, the heroic Pandavas,--those
 delighters of their mother--became exceedingly afflicted with grief. They
@@ -1577,9 +1511,7 @@ and old men. Going out of his city, king Yudhishthira waited five days
 for such citizens as might accompany him, and then proceeded towards the
 forest."'
 
-
-
-SECTION XXIII
+## SECTION XXIII
 
 "Vaisampayana said. 'That foremost one of Bharata's race, then ordered
 his troops, which were protected by heroes that were headed by Arjuna and
@@ -1620,9 +1552,7 @@ the royal sage of great wisdom and of Dhritarashtra. Then all the men
 became filled with joy and quickly entered the forest, filling it with
 loud sounds of glee, O chief of Bharata's race."'
 
-
-
-SECTION XXIV
+## SECTION XXIV
 
 "Vaisampayana said, 'The Pandavas alighted, at a distance, from their
 cars and proceeded on foot to the retreat of the king, bending themselves
@@ -1666,9 +1596,7 @@ reached his forest-retreat that was applauded by Siddhas and Charanas,
 and that then teemed with vast crowds of men all desirous of beholding
 him, like the firmament teeming with innumerable stars."
 
-
-
-SECTION XXV
+## SECTION XXV
 
 "Vaisampayana said, 'The king, O chief of Bharata's race, with those
 foremost of men, viz., his brothers, who were all possessed of eyes that
@@ -1736,9 +1664,7 @@ animals they rode. Indeed, after all the crowd, viz., the ladies, the old
 men, and the children, had been seated, the old king duly addressed them,
 making the usual enquiries of politeness."'
 
-
-
-SECTION XXVI
+## SECTION XXVI
 
 "Dhritarashtra said. 'O Yudhishthira, art thou in peace and happiness,
 with all thy brothers and the inhabitants of the city and the provinces?
@@ -1835,9 +1761,7 @@ king ate the fruits and roots which the monarch gave him. Then they all
 spread their beds under a tree and passed that night thus, having eaten
 fruits and roots and drunk the water that the old king had given them."'
 
-
-
-SECTION XXVII
+## SECTION XXVII
 
 "Vaisampayana said, 'They passed that night which was characterised by
 auspicious constellations even thus, O king, in that retreat of righteous
@@ -1899,9 +1823,7 @@ that seat for him. After Vyasa had been seated, all those foremost of
 regenerate persons, endued with abundant energy, sat themselves down,
 having received the permission of the Island-born sage."
 
-
-
-SECTION XXVIII
+## SECTION XXVIII
 
 "Vaisampayana said, 'After the high-souled Pandavas had all been seated,
 Satyavati's son Vyasa said,--O Dhritarashtra of mighty arms, hast thou
@@ -1960,9 +1882,7 @@ penances,--I shall show thee. What object is that, O king, whose
 accomplishment thou desirest from me? Tell me what is that which thou
 wishest to see or ask or hear? O sinless one, I shall accomplish it.'
 
-
-
-SECTION XXIX
+## SECTION XXIX
 
 (Putradarsana Parva)
 
@@ -2084,9 +2004,7 @@ wishest to say. At this, Kunti, bending her head unto her father-in-law,
 and overcome with bashfulness, said these words unto him, relating to the
 occurrences of the past.'"
 
-
-
-SECTION XXX
+## SECTION XXX
 
 "Kunti said, 'O holy one, thou art my father-in-law and therefore, my
 deity of deities. Verily, thou art my god of gods. Hear my words of
@@ -2144,9 +2062,7 @@ For those that are mighty, everything is becoming. 'For those that are
 mighty, everything is pure. For those that are mighty, everything is
 meritorious. For those that are mighty, everything is their own.'"
 
-
-
-SECTION XXXI.
+## SECTION XXXI.
 
 "Vyasa said, 'Blessed be thou, O Gandhari, thou shalt behold thy sons and
 brothers and friends and kinsmen along with thy sires this night like men
@@ -2203,9 +2119,7 @@ when they would behold the deceased princes. The Sun then reached the
 sacred mountain in the west and all those persons, having bathed in the
 sacred stream, finished their evening rites."'
 
-
-
-SECTION XXXII
+## SECTION XXXII
 
 "Vaisampayana said, 'When night came, all those persons, having finished
 their evening rites, approached Vyasa. Dhritarashtra of righteous soul,
@@ -2253,9 +2167,7 @@ painted on the canvas. Dhritarashtra, beholding all those heroes, with
 his celestial vision obtained through the grace of that sage, became full
 of joy, O chief of Bharata's race."'
 
-
-
-SECTION XXXIII
+## SECTION XXXIII
 
 "Vaisampayana said. 'Then those foremost of men divested of wrath and
 jealousy, and cleansed of every sin, met with one another, agreeably to
@@ -2331,9 +2243,7 @@ falsehood and the desire of injuring others, adorned with faith, belief
 in the scriptures, and intelligence, listen to this wonderful parvan,
 surely attain to the highest goal hereafter."
 
-
-
-SECTION XXXIV
+## SECTION XXXIV
 
 "Sauti said, 'Hearing this story of the re-appearance and departure of
 his forefathers, king Janamejaya of great intelligence became highly
@@ -2393,9 +2303,7 @@ in which he does them. If the act be a mental one, its consequences are
 enjoyed or endured mentally; if it be done with the body, its
 consequences are to be enjoyed or endured in the body.'"[58]
 
-
-
-SECTION XXXV
+## SECTION XXXV
 
 "Vaisampayana said, 'King Dhritarashtra had never beheld his own sons.
 Obtaining eye-sight through the grace of the Rishi, he beheld, for the
@@ -2450,9 +2358,7 @@ every way. Conversant with all duties he then asked the Rishi
 Vaisampayana of unfading glory about the sequel, O best of ascetics, of
 king Dhritarashtra's residence in the woods.'"
 
-
-
-SECTION XXXVI
+## SECTION XXXVI
 
 "Janamejaya said, 'Having seen his sons and grandsons with all their
 friends and followers, what, indeed, did that ruler of men, viz.,
@@ -2579,9 +2485,7 @@ yoke,'--as also of camels that grunted aloud and of steeds that neighed
 briskly. King Yudhishthira, with his wives and troops and all his
 kinsmen, set out for Hastinapura."'
 
-
-
-SECTION XXXVII
+## SECTION XXXVII
 
 (Naradagamana Parva)
 
@@ -2683,9 +2587,7 @@ helpless Gandhari too had shared his fate. When those sounds of wailing
 ceased for a while, king Yudhishthira the just, stopping his tears by
 summoning all his patience, said these words."'
 
-
-
-SECTION XXXVIII
+## SECTION XXXVIII
 
 "Yudhishthira said, 'When such a fate overtook that high-souled monarch
 who was engaged in austere penances, notwithstanding the fact of his
@@ -2737,9 +2639,7 @@ universe. The sound of lamentations uttered by those weeping heroes,
 filling the spacious chambers of the palace, escaped therefrom and
 penetrated the very welkin."'
 
-
-
-SECTION XXXIX
+## SECTION XXXIX
 
 "Narada said, 'The king has not been burnt to death by an unsanctified
 fire. I have heard this there. I tell thee, O Bharata, such has not been
@@ -3100,3 +3000,6 @@ snanapanat understood after it.
 
 62. The verb anvacat from root sas can govern two objectives. Here the
 two objectives are purushan and krityani
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

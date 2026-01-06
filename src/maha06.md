@@ -1,34 +1,10 @@
-
-
-
-
-# The Mahabharata
-
-of
-
-Krishna-Dwaipayana Vyasa
-
-BOOK 6
-
-## BHISHMA PARVA
-
-Translated into English Prose from the Original Sanskrit Text
-
-by
-
-Kisari Mohan Ganguli
-
-[1883-1896]
-
-Scanned at sacred-texts.com, January, 2004. Proofed by John Bruno Hare.
-
-
+# Bhishma Parva
 
 THE MAHABHARATA
 
 BHISHMA PARVA
 
-SECTION I
+## SECTION I
 
 (Jamvu-khanda Nirmana Parva)
 
@@ -110,9 +86,7 @@ gazing at each other. And having stationed (their forces thus), those
 bulls among men, those high-souled ones, with their troops, became glad
 at heart, their joy being reflected on their countenances."
 
-
-
-SECTION II
+## SECTION II
 
 Vaisampayana said,--"Seeing then the two armies (standing) on the east
 and the west for the fierce battle that was impending, the holy Rishi
@@ -189,9 +163,7 @@ hath deviated from its usual position. A great terror is indicated. Even
 though the sky is cloudless, a terrible roar is heard there. The animals
 are all weeping and their tears are falling fast.'"
 
-
-
-SECTION III
+## SECTION III
 
 "Vyasa said,--'Asses are taking births in kine. Some are having sexual
 pleasure with mothers. The trees in the forests are exhibiting
@@ -409,9 +381,7 @@ an army is not always the cause of victory. Victory is uncertain. It
 depends on chance. Even they that become victorious have to sustain
 loss.'"
 
-
-
-SECTION IV
+## SECTION IV
 
 Vaisampayana said,--"Having said these words unto Dhritarashtra, Vyasa
 took his departure. And Dhritarashtra also, having heard those words,
@@ -464,9 +434,7 @@ that hath the Earth, hath the entire universe with its mobile and
 immobile population. It is for this that longing for (the possession of
 the) Earth, kings slay one another.'"
 
-
-
-SECTION V
+## SECTION V
 
 "Dhritarashtra said,--'The names of rivers and mountains, O Sanjaya, as
 also of provinces, and all other things resting on the earth, and their
@@ -514,9 +482,7 @@ of every kind of deciduous plants. Besides these portions, the rest is
 all water. What remains I will describe to thee shortly. The rest I will
 speak of afterwards. Listen now to this that I describe in brief.[35]"
 
-
-
-SECTION VI
+## SECTION VI
 
 "Dhritarashtra said.---"Thou art intelligent, O Sanjaya, and acquainted
 with the truth (about everything). Thou hast duly given a description of
@@ -652,9 +618,7 @@ beautiful mountains of Maleya, O king, having rocks like plates of
 copper, form another (prominent) part of Jamvudwipa that having its shape
 resembling a hare.'"
 
-
-
-SECTION VII
+## SECTION VII
 
 "Dhritarashtra said,--'Tell me, O Sanjaya, thou of great intelligence, of
 the regions to the north and the east side of Meru, as also of the
@@ -729,9 +693,7 @@ Numbering sixty-six thousand, they proceed in advance of Aruna,
 surrounding the sun. Heated with the sun's rays for sixty-six thousand
 years, they then enter the lunar disc.'"
 
-
-
-SECTION VIII
+## SECTION VIII
 
 "Dhritarashtra said,--'Tell me truly, O Sanjaya, the names of all the
 Varshas, and of all the mountains, and also of all those that dwell on
@@ -786,9 +748,7 @@ destroyeth all creatures.[57] The gods speak of him as Vaikuntha (of
 immeasurable puissance), while men call him Vishnu (one that pervadeth
 the Universe)!'"
 
-
-
-SECTION IX
+## SECTION IX
 
 "Dhritarashtra said,--'Tell me truly (O Sanjaya) of this Varsha that is
 called after Bharata, where this senseless force hath been collected, in
@@ -933,9 +893,7 @@ disunion, gift, and battle, O Bharata. If Earth be well looked after, it
 becometh the father, mother, children, firmament and heaven, of all
 creatures, O bull among men.'"
 
-
-
-SECTION X
+## SECTION X
 
 "Dhritarashtra said,--'Tell me, O Sanjaya, of the period of life, the
 strength, the good and bad things, the future, past and present, of the
@@ -973,9 +931,7 @@ king, of this the Dwapara age, is small, O ruler of men. The Varsha known
 as Haimavat is superior to Bharatavarsha, while Harivarsha is superior to
 Hainavatvarsha, in respect of all qualities.'
 
-
-
-SECTION XI
+## SECTION XI
 
 (Bhumi Parva)
 
@@ -1079,9 +1035,7 @@ duties and protect one another. This much is capable of being said of the
 island called Saka. This much also should be listened to about that
 island endued with great energy."[68]
 
-
-
-SECTION XII
+## SECTION XII
 
 "Sanjaya said, 'O Kauravya, that which is heard about the islands in the
 north, I will recount to thee, O Great king. Listen to me now. (Thither
@@ -1200,9 +1154,7 @@ energy, all enhanced. His (deceased) sires and grandsires become
 gratified. Thou hast now heard of all the merits that flow from this
 Varsha of Bharata where we now are!'"
 
-
-
-SECTION XIII
+## SECTION XIII
 
 (Bhagavat-Gita Parva)
 
@@ -1240,9 +1192,7 @@ though he deserveth it not, on the bare ground like a (mighty) tree
 broken by the wind, in consequence, O king, of thy evil counsels, O
 Bharata.'"
 
-
-
-SECTION XIV
+## SECTION XIV
 
 "Dhritarashtra said,--'How hath Bhishma, that bull among the Kurus, been
 slain by Sikhandin? How did my father, who resembled Vasava himself, fall
@@ -1427,9 +1377,7 @@ desirous of victory,--by that warrior accomplished in arms,--tell me all
 fully and in detail. How, in fact, the battle took place between the
 armies of the Kurus and the manner in which each happened.'"
 
-
-
-SECTION XV
+## SECTION XV
 
 Sanjaya said,--"Deserving as thou art, this question is, indeed, worthy
 of thee, O great king. It behoveth thee not, however, to impute this
@@ -1477,9 +1425,7 @@ wheel of Phalguni. Protected by those two, Phalguni himself protects
 Sikhandin. O Dussasana, act in such a way that Sikhandin who is protected
 by Phalguni and whom Bhishma will renounce, may not slay Ganga's son."
 
-
-
-SECTION XVI
+## SECTION XVI
 
 Sanjaya said,--"When the night had passed away, loud became the noise
 made by the kings, all exclaiming, Array! Array! 'With the blare of
@@ -1536,9 +1482,7 @@ at the end of the Yuga agitated by fierce Makaras, and abounding with
 huge crocodiles. Never before, O king, did we see or hear of two such
 armies encountering each other like these of the Kauravas.'
 
-
-
-SECTION XVII
+## SECTION XVII
 
 Sanjaya said,--"Just as the holy Krishna-Dwaipayana Vyasa had said, in
 that very manner the kings of the Earth, mustered together, came to the
@@ -1623,9 +1567,7 @@ divisions of cars was such that the elephants formed its body; the kings,
 its head; and the steeds, its wings. With face towards all sides, that
 fierce Vyuha seemed to smile and ready to spring (upon the foe)."
 
-
-
-SECTION XVIII
+## SECTION XVIII
 
 Sanjaya said,--"Soon after, O king, a loud uproar, causing the heart to
 tremble was heard, made by the combatants ready for the fight. Indeed,
@@ -1665,9 +1607,7 @@ also using their nails and bearded darts. And the ten and one Akshauhinis
 of thy son, O Bharata, looked, O mighty king, like Ganga separated from
 Yamuna.[102]"
 
-
-
-SECTION XIX
+## SECTION XIX
 
 Dhritarashtra said,--"Beholding our ten and one Akshauhinis arrayed in
 order of battle, how did Yudhishthira, the son of Pandu, make his
@@ -1774,9 +1714,7 @@ against the army of thy son, and sucking as it were, the marrow, O bull
 of Bharata's race, of our warriors, and casting their eyes on Bhimasena
 stationed at their head, mace in hand."
 
-
-
-SECTION XX
+## SECTION XX
 
 Dhritarashtra said,--"When the Sun rose, O Sanjaya, of my army led by
 Bhishma and the Pandava army led by Bhima, which first cheerfully
@@ -1841,9 +1779,7 @@ men, it looked terrible; but the army of the Pandavas, although it was
 not such (in number), yet seemed to me to be very large and invincible
 since Kesava and Arjuna were its leader."
 
-
-
-SECTION XXI
+## SECTION XXI
 
 Sanjaya said,--"Beholding the vast Dhartarashtra army ready for battle,
 king Yudhisthira, the son of Kunti, gave way to grief. Seeing that
@@ -1884,9 +1820,7 @@ headed by Sakra. I do not, therefore, behold the slightest cause of
 sorrow in thee, thee that hast the Sovereign of the Universe and the Lord
 himself of the celestials for wishing victory to thyself."
 
-
-
-SECTION XXII
+## SECTION XXII
 
 Sanjaya said,--"Then, O bull of Bharata's race, king Yudhishthira,
 disposing his own troops in counter array against the divisions of
@@ -1936,9 +1870,7 @@ him on all sides great warriors like the clouds shrouding the bright
 luminary. O foremost of men, slaying yon troops, seek battle with yonder
 bull of Bharata's race."
 
-
-
-SECTION XXIII
+## SECTION XXIII
 
 Sanjaya said,--"Beholding the Dhartarashtra army approach for fight,
 Krishna said these words for Arjuna's benefit."
@@ -2024,9 +1956,7 @@ righteousness is, there are glory and beauty. There where modesty is,
 there are prosperity and intelligence. There where righteousness is,
 there is Krishna; and there where Krishna is, there is victory."
 
-
-
-SECTION XXIV
+## SECTION XXIV
 
 Dhritarashtra said,--"There (on the field of battle) O Sanjaya, the
 warriors of which side first advanced to battle cheerfully? Whose hearts
@@ -2048,9 +1978,7 @@ collision caused by the encounter of the combatants of both armies,
 filled with joy and staring at one another, and the elephants uttering
 obstreperous grunts."
 
-
-
-SECTION XXV
+## SECTION XXV
  [(Bhagavad Gita Chapter I)]
 
 ([This where is the Bhagavad Gita proper starts. I have added the chapter
@@ -2163,9 +2091,7 @@ religion, the knowledge of Brahma, and the system of Yoga, comprised
 within the Bhishma Parva of the Mahabharata of Vyasa containing one
 hundred thousand verses.]
 
-
-
-SECTION XXVI
+## SECTION XXVI
  [(Bhagavad Gita Chapter II)]
 
 Sanjaya said,--"Unto him thus possessed with pity, his eyes filled and
@@ -2349,9 +2275,7 @@ affection and no pride, attaineth to peace (of mind). This, O Partha, is
 the divine state. Attaining to it, one is never deluded. Abiding in it
 one obtains, on death, absorption into the Supreme Self.'
 
-
-
-SECTION XXVII
+## SECTION XXVII
  [(Bhagavad Gita Chapter III)]
 
 "Arjuna said,--'If devotion, O Janardana, is regarded by thee as superior
@@ -2453,9 +2377,7 @@ that which is superior to knowledge and restraining (thy) self by self,
 slay, O mighty-armed one, the enemy in the shape of desire which is
 difficult to conquer.'"
 
-
-
-SECTION XXVIII
+## SECTION XXVIII
  [(Bhagavad Gita Chapter IV)]
 
 "The Holy One said,--'This imperishable (system of) devotion I declared
@@ -2562,9 +2484,7 @@ sword of knowledge, this doubt of thine that is born of ignorance and
 that dwelleth in thy mind, betake to devotion, (and) arise, O son of
 Bharata.'
 
-
-
-SECTION XXIX
+## SECTION XXIX
  [(Bhagavad Gita Chapter V)]
 
 "Arjuna said,--'Thou applaudest, O Krishna, the abandonment of actions,
@@ -2642,9 +2562,7 @@ emancipated, indeed. Knowing me to be enjoyer of all sacrifices and
 ascetic austerities, the great Lord of all the worlds, and friend of all
 creatures, such a one obtaineth tranquillity.'
 
-
-
-SECTION XXX
+## SECTION XXX
  [(Bhagavad Gita Chapter VI)]
 
 "The Holy One said,--'Regardless of fruit of action, he that performs the
@@ -2767,9 +2685,7 @@ those that are engaged in action. Therefore, become a devotee, O Arjuna.
 Even amongst all the devotees, he who, full of faith and with inner self
 resting on me, worshippeth me, is regarded by me to be the most devout."
 
-
-
-SECTION XXXI
+## SECTION XXXI
  [(Bhagavad Gita Chapter VII)]
 
 "The Holy One said, 'Listen, O son of Pritha, how, without doubt, thou
@@ -2840,9 +2756,7 @@ Adhyatma, and action.[211] And they who know me with the Adhibhuta, the
 Adhidaiva, and the Adhiyajna, having minds fixed on abstraction, know me
 at the time of their departure (from this world).[212]
 
-
-
-SECTION XXXII
+## SECTION XXXII
  [(Bhagavad Gita Chapter VIII)]
 
 "Arjuna said, 'What is that Brahman, what is Adhyatma, what is action, O
@@ -2914,9 +2828,7 @@ for sacrifices, for ascetic austerities and for gifts, a devotee knowing
 all this (that hath been said here), attaineth to it all, and (also)
 attaineth the Supreme and Primeval seat.'
 
-
-
-SECTION XXXIII
+## SECTION XXXIII
  [(Bhagavad Gita Chapter IX)]
 
 "The Holy One said, 'Now I will tell thee that art without envy that most
@@ -2998,9 +2910,7 @@ miserable world, be engaged in my worship.[228] Fix thy mind on me; be my
 devotee, my worshipper; bow to me; and thus making me thy refuge and
 applying thy self to abstraction, thou wilt certainly come to me.'
 
-
-
-SECTION XXXIV
+## SECTION XXXIV
  [(Bhagavad Gita Chapter X)]
 
 "The Holy One said, 'Once more still, O mighty-armed one, listen to my
@@ -3097,9 +3007,7 @@ of my energy. Or rather, what hast thou to do, by knowing all this in
 detail, O Arjuna? Supporting this entire universe with only a portion (of
 myself), I stand.[246]"
 
-
-
-SECTION XXXV
+## SECTION XXXV
  [(Bhagavad Gita Chapter XI)]
 
 "Arjuna said,--'This discourse about the supreme mystery, called
@@ -3261,9 +3169,7 @@ chastiser of foes. He who doth everything for me, who hath me for his
 supreme object, who is freed from attachment, who is without enmity
 towards all beings, even he, O Arjuna, cometh to me.'
 
-
-
-SECTION XXXVI
+## SECTION XXXVI
  [(Bhagavad Gita Chapter XII)]
 
 "Arjuna said, 'Of those worshippers who, constantly devoted, adore thee,
@@ -3315,9 +3221,7 @@ righteousness (leading to) immortality which hath been (already)
 declared,--those devotees full of faith and regarding me as the highest
 object (of their acquisition) are the dearest to me.'
 
-
-
-SECTION XXXVII
+## SECTION XXXVII
  [(Bhagavad Gita, Chapter XIII)]
 
 "The Holy One said, 'This body, O son of Kunti, is called Kshetra. Him
@@ -3390,9 +3294,7 @@ entire (sphere of) matters. They that, by the eye of knowledge, know the
 distinction between matter and spirit, and the deliverance from the
 nature of all entities, attain to the Supreme.[272]
 
-
-
-SECTION XXXVIII
+## SECTION XXXVIII
  [(Bhagavad Gita Chapter XIV)]
 
 "The Holy One said, 'I will again declare (to thee) that supernal science
@@ -3460,9 +3362,7 @@ admission into the nature of Brahma. For I am the stay of Brahma, of
 immortality, of undestructibility, of eternal piety, and of unbroken
 felicity.'[278]
 
-
-
-SECTION XXXIX
+## SECTION XXXIX
  [(Bhagavad Gita Chapter XV)]
 
 "The Holy One said, 'They say that the Aswattha, having its roots above
@@ -3517,9 +3417,7 @@ this knowledge, forming the greatest of mysteries, been declared by Me
 (to thee). Knowing this, O Bharata, one will become gifted with
 intelligence, and will have done all he needs do.'
 
-
-
-SECTION XL
+## SECTION XL
  [(Bhagavad Gita Chapter XVI)]
 
 "The Holy One said, 'Fearlessness, purity of heart, perseverance in (the
@@ -3575,9 +3473,7 @@ scriptures should be thy authority in determining what should be done and
 what should not be done. It behoveth thee to do work here, having
 ascertained what hath been declared by the ordinances of the scriptures.'"
 
-
-
-SECTION XLI
+## SECTION XLI
  [(Bhagavad Gita, Chapter XVII)]
 
 "Arjuna said, 'What is the state, O Krishna, of those who abandoning the
@@ -3651,9 +3547,7 @@ away, whatever penance is performed, whatever is done, without faith, is,
 O son of Pritha, said to be the opposite of SAT; and that is nought both
 here and hereafter.[292]'
 
-
-
-SECTION XLII
+## SECTION XLII
  [(Bhagavad Gita, Chapter XVIII)]
 
 "Arjuna said, 'Of renunciation, O thou of mighty arms, I desire to know
@@ -3842,9 +3736,7 @@ justice[308]'"
 
 [End of the Bhagavad Gita]
 
-
-
-SECTION XLIII
+## SECTION XLIII
 
 Sanjaya said,--"Beholding Dhananjaya then to take up once again (his)
 arrows and Gandiva, the mighty car-warriors (of the Pandava party)
@@ -4125,9 +4017,7 @@ with choked voices. And those warriors then, endued with great energy,
 caused large drums and Pushkaras by hundreds upon hundreds to be sounded
 and also blew their conches all white as the milk of cows.'"
 
-
-
-SECTION XLIV
+## SECTION XLIV
 
 Dhritarashtra said, 'When the divisions of both my side and the foe were
 thus arrayed, who struck first, the Kurus or the Pandavas?'
@@ -4201,9 +4091,7 @@ battling, or retreating in broken array or rallying again to the fight.
 In that terrific and awful battle, thy father (Bhishma) shone,
 transcending that countless host.
 
-
-
-SECTION XLV
+## SECTION XLV
 
 Sanjaya said, "On the forenoon of that awful day, O king, the terrible
 battle that mangled the bodies of (so many) kings commenced. And the loud
@@ -4385,9 +4273,7 @@ bodies of infantry, O sire, seemed to alter their character.[327] And, O
 tiger among men, it was seen that cars and elephants and steeds and
 infantry fought with each other repeatedly on the same places.[328]
 
-
-
-SECTION XLVI
+## SECTION XLVI
 
 Sanjaya said,--"O king, I will now describe to thee the combats of
 hundreds and thousands of foot-soldiers. O Bharata, in utter
@@ -4493,9 +4379,7 @@ O king, with his standard which was made of silver and graced with the
 device of the palmyra with five stars, setting upon his great car, shone
 like the lunar orb under the peak of Meru."
 
-
-
-SECTION XLVII
+## SECTION XLVII
 
 Sanjaya said,--"After the great part of the forenoon of that awful day
 had worn out, in that terrific engagement, O king, that was (so)
@@ -4638,9 +4522,7 @@ Bhimasena, and that mighty car-warrior Satyaki, and upon the ruler of the
 Kekayas, and Virata, and Dhrishtadyumna of Prishatas' race, and upon the
 Chedi troops, the old Kuru grandsire poured showers of arrows.[338]
 
-
-
-SECTION XLVIII
+## SECTION XLVIII
 
 Dhritarashtra said,--"When that great bowman Sweta proceeded towards
 Salya's car, what did the Kauravas and the Pandavas do, O Sanjaya? And
@@ -4884,9 +4766,7 @@ mighty car-warriors of the Parthas entered (their quarters) cheerlessly,
 thinking, O chastiser of foes, of that awful slaughter in single combat
 (of their commander)."
 
-
-
-SECTION XLIX
+## SECTION XLIX
 
 Dhritarashtra said, "When the generalissimo Sweta, O son, was slain in
 battle by the enemy, what did those mighty bowmen, the Panchalas with the
@@ -4988,9 +4868,7 @@ field, the sun set and nothing could be seen. And then beholding Bhishma,
 O bull of Bharata's race, proudly standing in battle, the Parthas
 withdrew their forces (for nightly rest)."
 
-
-
-SECTION L
+## SECTION L
 
 Sanjaya said, "When the troops, O bull of Bharata's race, were withdrawn
 on the first day, and when Duryodhana was filled with delight upon
@@ -5114,9 +4992,7 @@ array thus, the Pandavas, expectant of sunrise, waited for battle, all
 cased in armour. And their white umbrellas, clean and costly, and
 brilliant as the sun, shone resplendent on their elephants and cars."[358]
 
-
-
-SECTION LI
+## SECTION LI
 
 Sanjaya said, "Beholding the mighty and terrible array called Krauncha
 formed by Pandu's son of immeasurable energy, thy son, approaching the
@@ -5176,9 +5052,7 @@ O great king, the Kurus and the Pandavas, both filled with delight,
 advanced against each other for battling again, and scorching each other
 thus."
 
-
-
-SECTION LII
+## SECTION LII
 
 Dhritarashtra said, "When mine and the hostile hosts were thus formed
 into battle array, how did the foremost of smiters begin to strike?"
@@ -5329,9 +5203,7 @@ while that terrible and murderous conflict lasted. And the encounter
 also, O king, that took place between Drona and the prince of the
 Panchalas, was awful."
 
-
-
-SECTION LIII
+## SECTION LIII
 
 Dhritarashtra said, "Tell me, O Sanjaya, how that great bowman Drona and
 the Panchala prince of Prishata's race encounter each other in battle,
@@ -5416,9 +5288,7 @@ in battle. And then commenced a fierce battle, making the hair stand on
 end, between the Kalingas and the high-souled Bhima, a battle that was
 destructive of the universe, terrific, and awful."
 
-
-
-SECTION LIV
+## SECTION LIV
 
 Dhritarashtra said, "How did the ruler of the Kalingas, that commander of
 a large division, urged by my son, and supported by his troops, fight in
@@ -5666,9 +5536,7 @@ embraced the son of Pandu. And then that mighty car-warrior, coming back
 to his own car, began to slay thy troops excited with rage and
 strengthening (the hands of) Bhima.
 
-
-
-SECTION LV
+## SECTION LV
 
 Sanjaya said, "When the forenoon of that day had passed away, O Bharata,
 and when the destruction of cars, elephants, steeds, foot-soldiers and
@@ -5755,9 +5623,7 @@ Drona that best of preceptors, Bhishma, that mighty car-warrior, caused
 thy army to be withdrawn. And then when the sun set, the withdrawal of
 both thy army and theirs took place, O sire, and twilight set in."
 
-
-
-SECTION LVI
+## SECTION LVI
 
 Sanjaya said,--"When the night having passed away, the dawn came,
 Santanu's son Bhishma, that chastiser of foes, gave the order for the
@@ -5805,9 +5671,7 @@ a loud uproar, mingling with the beat of drums. And the shouts of the
 heroic combatants belonging to thy army and theirs, O Bharata, slaying
 one another in that fierce encounter, reached the very heavens."
 
-
-
-SECTION LVII
+## SECTION LVII
 
 Sanjaya said, "After the ranks of thy army and theirs had been disposed
 in battle-array, that mighty car-warrior, Dhananjaya, felling in that
@@ -5883,9 +5747,7 @@ of Suvala's son. And then commenced once more a fearful battle, making
 the hair to stand on end, between thine and the enemy's troops both
 desirous of vanquishing each other."
 
-
-
-SECTION LVIII
+## SECTION LVIII
 
 Sanjaya said, "Then those kings, excited with rage, beholding Phalguni in
 battle, surrounded him on all sides with many thousands of cars. And
@@ -5979,9 +5841,7 @@ conches to be blown and drums to be beaten. And the Pandavas also, O
 king, hearing that loud uproar, blew their conches, and caused their
 drums and cymbals to be played upon."
 
-
-
-SECTION LIX
+## SECTION LIX
 
 Dhritarashtra said, "After that dreadful vow had been made in battle by
 Bhishma enraged by the words of my son, what, O Sanjaya, did Bhishma do
@@ -6343,9 +6203,7 @@ the field of battle. And all the combatants of the Kuru army frightened
 by Kiritin, then entered their tents illumined by thousands of torches,
 and beautified by innumerable lamps.
 
-
-
-SECTION LX
+## SECTION LX
 
 Sanjaya said,--"When the night passed away, O Bharata, the high-souled
 Bhishma, with wrath engendered, supported by a large force, and stationed
@@ -6440,9 +6298,7 @@ there, beheld that single combat between those two foremost of men, viz.,
 Bhishma and Dhananjaya, proceeding thus steadily and thus distinguished
 by the terrible twang of the bows of both."
 
-
-
-SECTION LXI
+## SECTION LXI
 
 Sanjaya said, "And Drona's son, and Bhurisravas, and Chitrasena, O sire,
 and the son of Samyamani also, all fought with Subhadra's son. And while
@@ -6518,9 +6374,7 @@ elephant with hooks. And so Salya also, that ornament of assemblies,
 excited with wrath, struck the heroic son of Prishata on his breast. And
 then commenced (another) battle (there)."
 
-
-
-SECTION LXII
+## SECTION LXII
 
 Dhritarashtra said,--"I regard destiny to be superior to exertion, O
 Sanjaya, inasmuch as the army of my son is continually slaughtered by the
@@ -6653,9 +6507,7 @@ the cars of thy own army. Then driving away those elephants from the
 field like a mighty wind driving away masses of clouds, Bhima stood there
 like wielder of the trident on a crematorium."
 
-
-
-SECTION LXIII
+## SECTION LXIII
 
 Sanjaya said, "When that elephant division was exterminated, thy son
 Duryodhana urged his entire army, commanding the warriors to slay
@@ -6729,9 +6581,7 @@ Bhurisravas, the son of Somadatta, O Bharata, beholding the car-warriors
 of his own side driven away, rushed against Satyaki from desire of
 battle, taking up his bow of fierce impetus."
 
-
-
-SECTION LXIV
+## SECTION LXIV
 
 Sanjaya said, "Then, O king, Bhurisravas, excited with great wrath,
 pierced Satyaki with nine arrows like the conductor of an elephant
@@ -6898,9 +6748,7 @@ the arrangements for his camp according to the rules (of military
 science), he began to pass the hours in meditation, scorched with grief
 and afflicted with sorrow on account of his (slain) brothers."
 
-
-
-SECTION LXV
+## SECTION LXV
 
 Dhritarashtra said, 'Hearing of those feats of the sons of Pandu which
 are incapable of being achieved by the gods themselves, my heart, O
@@ -7088,9 +6936,7 @@ refuge in Thee, thou giver of boons. The regenerate ones sing Thee as the
 world's bridge, having no beginning, middle and end, and as possessed of
 unlimited Yoga.'"
 
-
-
-SECTION LXVI
+## SECTION LXVI
 
 "Bhishma said, 'Then that illustrious Deity, the Lord of the worlds,
 replied unto Brahma in a soft deep voice, saying,--'Through Yoga, O sire,
@@ -7181,9 +7027,7 @@ Vasudeva that createth, Yuga after Yuga, the worlds of the gods and the
 mortals, all cities girt by the sea, and the region of human
 habitation.--"
 
-
-
-SECTION LXVII
+## SECTION LXVII
 
 "Duryodhana said, 'In all the worlds Vasudeva is spoken of as the Supreme
 Being. I desire, O Grandsire, to know his origin and glory."
@@ -7234,9 +7078,7 @@ terrors. Knowing this truly, O Bharata, Yudhishthira, with his whole
 soul, O king, hath sought the shelter of the highly blessed Kesava, the
 Lord of Yoga, and the Lord of the Earth."
 
-
-
-SECTION LXVIII
+## SECTION LXVIII
 
 "Bhishma said, 'Hear from me, O king, this hymn that was uttered by
 Brahman himself. This hymn was in days of old communicated by regenerate
@@ -7284,9 +7126,7 @@ having worshipped the illustrious grandsire. And then, O bull of
 Bharata's race, he laid himself down on his white bed for passing the
 night in sleep."
 
-
-
-SECTION LXIX
+## SECTION LXIX
 
 Sanjaya said, "After the night had passed away and the sun had risen, the
 two armies, O king, approached each other for battle. Beholding each
@@ -7358,9 +7198,7 @@ victory, and the battle then that took place between the combatants of
 both armies desirous of victory and fame, was fierce and highly
 wonderful, resembling that (in days of yore) between the gods and Danavas.
 
-
-
-SECTION LXX
+## SECTION LXX
 
 Sanjaya said, "Then Bhishma the son of Santanu fought fiercely,[394]
 desirous of protecting the sons from the fear of Bhimasena. And the
@@ -7421,9 +7259,7 @@ division of Kalingas, and placing Bhishma ahead, rushed towards the
 Pandavas. And so the Pandava combatants also, supporting Vrikodara, and
 owning fleet animals, rushed, excited with rage, against Bhishma."
 
-
-
-SECTION LXXI
+## SECTION LXXI
 
 Sanjaya said, "Beholding his brothers and the other kings engaged in
 battle with Bhishma, Dhananjaya, with weapons upraised, rushed against
@@ -7519,9 +7355,7 @@ like others of their species dragging lotus-stalks growing in lakes. And
 thus was that vast field of battle strewn over with cavalry soldiers and
 foot-soldiers and great car-warriors and standards."
 
-
-
-SECTION LXXII
+## SECTION LXXII
 
 Sanjaya said, "Sikhandin with Virata king of the Matsyas speedily
 approached Bhishma that invincible and mighty bowman. And Dhananjaya
@@ -7594,9 +7428,7 @@ battle. And so also, O king, the warriors of thy army, headed by Bhishma
 and Drona, impetuously rushed towards their foes. And thereupon another
 battle took place."
 
-
-
-SECTION LXXIII
+## SECTION LXXIII
 
 Sanjaya said, "King Virata then pierced that mighty car-warrior, viz.,
 Bhishma, with three shafts. And that great car-warrior pierced his
@@ -7688,9 +7520,7 @@ slew with his celestial weapons the troops of the high-souled Pandavas.
 And the earth became covered with the fallen bodies of elephants deprived
 of their guides of men and steeds and car-warriors and cavalry-soldiers."
 
-
-
-SECTION LXXIV
+## SECTION LXXIV
 
 Sanjaya said, "Then, O king, the mighty-armed Satyaki invincible in
 battle, drawing in that conflict an excellent bow capable of bearing a
@@ -7769,9 +7599,7 @@ encounter, proceeded to their respective camps, the Pandavas with the
 Srinjayas and the Kauravas also rested for the night agreeably to the
 rules (of military science)."
 
-
-
-SECTION LXXV
+## SECTION LXXV
 
 Sanjaya said, "Having rested for a while, O king, both the Kurus and the
 Pandavas, after the night had passed away, once more went out for battle.
@@ -7849,9 +7677,7 @@ one another regardless of their lives.[403] And the Pandavas and the
 Kauravas, O king, in that conflict, fought with one another counteracting
 one another's weapons."
 
-
-
-SECTION LXXVI
+## SECTION LXXVI
 
 Dhritarashtra said, "Our army is possessed of many excellencies,
 consisting of diverse forces, its efficiency is great. It is again
@@ -7907,9 +7733,7 @@ counsel he gave.[404] Or, O Sanjaya, all these, in all its details, had
 been pre-arranged by Him, for that which is ordained by the Creator must
 happen as ordained and cannot be otherwise."
 
-
-
-SECTION LXXVII
+## SECTION LXXVII
 
 Sanjaya said, "Thou hast, O king, in consequence of thy own fault, been
 overtaken by this calamity. O bull of Bharata's race, the faults which
@@ -8085,9 +7909,7 @@ troops were filled with delight. And seeing the preceptor excited with
 rage and thus consuming the ranks of the foe, all thy warriors, O
 Bharata, set up loud shouts and uttered exclamations in praise of Drona."
 
-
-
-SECTION LXXVIII
+## SECTION LXXVIII
 
 Sanjaya said, "Then king Duryodhana, regaining his senses, once more
 began to resist Bhima with showers of arrows. And once more those mighty
@@ -8122,9 +7944,7 @@ that dreadful conflict with ornaments of gold,--thy mighty sons abandoned
 Bhima (with whom they had been fighting). The sons of Kunti, however,
 could not bear the sight of their abandoning the conflict alive."
 
-
-
-SECTION LXXIX
+## SECTION LXXIX
 
 Sanjaya said, "Then Abhimanyu, accompanied by Bhimasena pursuing thy
 sons, afflicted them all. Then the mighty car-warriors of thy army,
@@ -8168,9 +7988,7 @@ nor in thine was a single person that was unwilling to fight. And thus, O
 monarch, did those brave warriors, of both thy army and the Pandavas,
 fight, seeking glory and desirous of victory."
 
-
-
-SECTION LXXX
+## SECTION LXXX
 
 Sanjaya said, "Then when the sun assumed a red hue, king Duryodhana,
 desirous of battle, rushed towards Bhima from desire of slaying him.
@@ -8303,9 +8121,7 @@ king, to his encampment. And king Yudhishthira also, beholding both
 Dhrishtadyumna and Vrikodara, smelt their heads, and filled with joy,
 retired to his tents."
 
-
-
-SECTION LXXXI
+## SECTION LXXXI
 
 Sanjaya said, "Then those heroes, O king, who cherished feelings of
 hostility towards one another, retired to their tents, their persons
@@ -8363,9 +8179,7 @@ consisting of (combatants of) diverse hues and shapes, shouting so
 fiercely, and capable of slaying hostile warriors, then looked like those
 masses of clouds that appear at the end of the Yuga.[409]'"
 
-
-
-SECTION LXXXII
+## SECTION LXXXII
 
 Sanjaya said, "O chief of the Bharatas, Ganga's son, once more addressing
 thy son who was plunged in thought, told him these delightful words,
@@ -8463,9 +8277,7 @@ were like men sinking in the fathomless deep. And in consequence of those
 warriors thus flying away and mixing with thy troops, thy broken ranks, O
 king, were agitated like the vast deep with a tempest."
 
-
-
-SECTION LXXXIII
+## SECTION LXXXIII
 
 Sanjaya said, "And when the battle was thus raging and after Susarman had
 ceased fighting, and the (other) heroic warriors (of the Kuru army) had
@@ -8608,9 +8420,7 @@ king, of both Salya and thy son. And Bhimasena. excited with rage, began
 to afflict thy troops. Goaded to fury, he began to slay them, like the
 destroyer himself armed with his club."
 
-
-
-SECTION LXXXIV
+## SECTION LXXXIV
 
 Dhritarashtra said, "Many and wonderful, O Sanjaya, were the single
 combats I hear thee speak of between the Pandavas and my warriors. Thou
@@ -8740,9 +8550,7 @@ their conches and uttered leonine roars. And then they rushed joyfully, O
 king, towards thy forces like the gods Indra and Upendra, O monarch,
 towards the Daitya host."
 
-
-
-SECTION LXXXV
+## SECTION LXXXV
 
 Sanjaya said, "Then when the sun attained the meridian, king
 Yudhishthira, beholding Srutayush, urged on his steeds. And the king
@@ -8856,9 +8664,7 @@ like the clouds covering the maker of day. Then, O Bharata, a dreadful
 battle took place between thy army and the Pandavas, in which blood ran
 like water."
 
-
-
-SECTION LXXXVI
+## SECTION LXXXVI
 
 Sanjaya said, "Then the mighty Dhananjaya, struck with those shafts and
 drawing long breaths like a trodden snake, cut off, with great force, by
@@ -8971,9 +8777,7 @@ troops, O Bharata, beholding that highly wonderful feat became filled
 with joy, and all of them together set up a loud shout over the field of
 battle. And the warriors all applauded thy son (for what they witnessed)."
 
-
-
-SECTION LXXXVII
+## SECTION LXXXVII
 
 Sanjaya said,--"Approaching then thy son Chitrasena of great energy who
 had thus been deprived of his car, thy son Vikarna caused him to mount on
@@ -9094,9 +8898,7 @@ itself. And those bulls among men for a while spoke not of battle. And
 when both armies abounding with tired men and elephants and steeds slept
 there, they became, O monarch, beautiful to behold."
 
-
-
-SECTION LXXXVIII
+## SECTION LXXXVIII
 
 Sanjaya said, "Having passed the night in sound steep, those rulers of
 men, the Kauravas and the Pandavas, once more proceeded to battle. And
@@ -9180,9 +8982,7 @@ Bharata, a battle between the infantry, car-warriors, and elephants, of
 theirs and thine, in which the combatants became all entangled with one
 another."
 
-
-
-SECTION LXXXIX
+## SECTION LXXXIX
 
 Sanjaya said, "The Pandavas were incapable of even looking at Bhishma
 excited with rage in battle and scorching every side like the Sun himself
@@ -9273,9 +9073,7 @@ regards the Pandavas, they are incapable of being vanquished by the very
 gods with Vasava (at their head). Therefore, setting thy heart firmly on
 battle, fight, O Bharata.--'"
 
-
-
-SECTION XC
+## SECTION XC
 
 Dhritarashtra said, "Beholding my sons, so many in number, O Sanjaya,
 slain by a single person, what did Bhishma and Drona and Kripa do in
@@ -9360,9 +9158,7 @@ and Aswatthaman, and Kripa, and Kritavarman, were inflamed with wrath.
 And similarly thy army also suffered the same kind of destruction when
 the other side, viz., the Pandava heroes were excited with rage."
 
-
-
-SECTION XCI
+## SECTION XCI
 
 Sanjaya said, "During the progress, O king, of that fierce battle fraught
 with the slaughter of great heroes, Sakuni the glorious son of Suvala,
@@ -9563,9 +9359,7 @@ they were possessed of by the Rakshasas and demons. Indeed, he did not
 see any one in the battle which was so destructive of lives and which was
 considered as a battle of the demons, to take of life."
 
-
-
-SECTION XCII
+## SECTION XCII
 
 Dhritarashtra said, "Tell me, O Sanjaya, all that the mighty Partha did
 in battle when they heard that Iravat had been slain."
@@ -9633,9 +9427,7 @@ teeth, and licking the corners of his mouth, covered Duryodhana with a
 profuse shower, like a mass of clouds covering the mountain-breast with
 torrents of rain in the rainy season."
 
-
-
-SECTION XCIII
+## SECTION XCIII
 
 Sanjaya said,--"That arrowy shower, difficult of being borne by even the
 Danavas, king Duryodhana, however, (quietly) bore in that battle, like a
@@ -9724,9 +9516,7 @@ wrath and seated on his car, the prince of the Rakshasas then shot many
 bright arrows of keen points that resembled snakes of virulent poison.
 These, O king, succeeded in piercing Salya accomplished in battle."
 
-
-
-SECTION XCIV
+## SECTION XCIV
 
 Sanjaya said, "Having in that battle made all those warriors (of thy
 army) turn their faces from the field, the Rakshasa then, O chief of the
@@ -9824,9 +9614,7 @@ another in that awful press, as if in a marriage by self-choice. During
 however, that dreadful battle making the hair stand on end, the
 Dhartarashtra troops generally were made to run their backs on the field."
 
-
-
-SECTION XCV
+## SECTION XCV
 
 Sanjaya said, "Beholding his own troops slain, king Duryodhana then
 excited with wrath, rushed towards Bhimasena, that chastiser of foes.
@@ -9933,9 +9721,7 @@ their shouts mingled with the blare of their conches and the beat of
 their drums. It was thus that thy whole army, routed by the wicked
 Ghatotkacha, towards the hour of sunset, fled away in all directions.'"
 
-
-
-SECTION XCVI
+## SECTION XCVI
 
 Sanjaya said, "After that great battle, king Duryodhana, approaching
 Ganga's son and saluting him with humility, began to narrate to him all
@@ -10113,9 +9899,7 @@ the Kekayas, with upraised weapons. Then Bhimasena, in that battle told
 both Kesava and Arjuna in detail about the slaughter of Iravat as it had
 occurred."
 
-
-
-SECTION XCVII
+## SECTION XCVII
 
 Sanjaya said, "Hearing that his son Iravat had been slain, Dhananjaya was
 filled with great grief and sighed like a snake. And addressing Vasava in
@@ -10277,9 +10061,7 @@ withdrew their armies, when that awful night of pitchy darkness came. And
 having withdrawn their troops, both the Kurus and the Pandavas took rest
 for the night, retiring to their respective tents.
 
-
-
-SECTION XCVIII
+## SECTION XCVIII
 
 Sanjaya said, "Then king Duryodhana, and Sakuni the son of Suvala, and
 thy son Dussasana, and the invincible Suta's son (Karna) meeting
@@ -10367,9 +10149,7 @@ battle the Parthas with all their friends and kinsmen. The king, thy son
 Duryodhana having said this, shut his lips without saying anything more
 to Bhishma of terrible prowess."
 
-
-
-SECTION XCIX
+## SECTION XCIX
 
 Sanjaya said, "The high-souled Bhishma, deeply pierced with wordy daggers
 by thy son, became filled with great grief. But he said not a single
@@ -10480,9 +10260,7 @@ of cars), Arjuna, that foremost of car-warriors, addressed Dhrishtadyumna
 and said, 'O prince, place that tiger among men, Sikhandin, today in
 front of Bhishma, I myself will be his protector, O prince of Panchala."
 
-
-
-SECTION C
+## SECTION C
 
 Sanjaya said, "Then Bhishma, the son of Santanu, went out with the
 troops. And he disposed his own troops in mighty array called
@@ -10549,9 +10327,7 @@ tempest. And the noise made by the two armies, both of which abounded
 with kings, elephants, and steeds, and which encountered each other in an
 evil hour, resembled the noise made by oceans tossed by the tempest."
 
-
-
-SECTION CI
+## SECTION CI
 
 Sanjaya said, "Then the noble Abhimanyu of great energy, borne by his
 steeds of a tawny hue, rushed at the mighty host of Duryodhana,
@@ -10662,9 +10438,7 @@ the Yuga fire. And that engagement between them became fierce and awful
 like that between Sakra and Samvara in days of old in the battle between
 the gods and Asuras."
 
-
-
-SECTION CII
+## SECTION CII
 
 Dhritarashtra said, "How, O Sanjaya, did Alamvusha resist in combat the
 heroic son of Arjuna smiting many of our mighty car-warriors in battle?
@@ -10786,9 +10560,7 @@ wrath, rushed in that battle against Drona. Then Drona and Partha
 encountered each other in fierce combat like the planets Budha and Sukra,
 O king, in the firmament.[467]
 
-
-
-SECTION CIII
+## SECTION CIII
 
 Dhritarashtra said, "How did those bulls among men, viz., that great
 bowman Drona, and Dhananjaya the son of Pandu, encounter each other in
@@ -10870,9 +10642,7 @@ And in consequence of those huge elephants fleeing away on all sides,
 Duryodhana's troops once more, O bull of Bharata's race, fled away from
 the field."
 
-
-
-SECTION CIV
+## SECTION CIV
 
 Sanjaya said, "At mid-day, O king, happened a fierce battle, fraught with
 great carnage, between Bhishma and the Somakas. That foremost of
@@ -10975,9 +10745,7 @@ in battle. For this reason, O tiger among men, a dreadful destruction of
 kinsmen is taking place, caused either by Destiny or by thy evil policy,
 O king."
 
-
-
-SECTION CV
+## SECTION CV
 
 Sanjaya said, "O tiger among men, Arjuna sent those Kshatriyas that
 followed Susarman to the abode of the King of the Dead by means of his
@@ -11054,9 +10822,7 @@ him of Madhu's race. Then commenced again a fierce battle, making the
 hair to stand on end, between the Pandavas and the Kurus both of whom
 were desirous of victory."
 
-
-
-SECTION CVI
+## SECTION CVI
 
 "Sanjaya said, 'Beholding Bhishma excited with wrath in battle,
 surrounded on all sides by the Pandavas like the Sun in the firmament. O
@@ -11127,9 +10893,7 @@ Yudhishthira's side. Then when the Sun, having passed the meridian, was
 sinking, there commenced a fierce and terrible battle (on that part of
 the field).
 
-
-
-SECTION CVII
+## SECTION CVII
 
 Sanjaya said, "Then thy sire, excited with wrath, began to strike the
 Parthas and their troops all round, with excellent shafts of great
@@ -11311,9 +11075,7 @@ thousand-rayed maker of day repaired to the setting hills, and the
 troops, worn with fatigue, set their hearts on withdrawal (from the
 field)."
 
-
-
-SECTION CVIII
+## SECTION CVIII
 
 Sanjaya said, "While they were battling, the Sun set, O Bharata, aid
 there came the dreadful hour of twilight and the battle could no longer
@@ -11557,9 +11319,7 @@ Sanjaya continued, "Having settled this with Bhishma's permission, the
 Pandavas, along with Madhava, went away with rejoicing hearts. And then
 those bulls among men retired to their respective beds."
 
-
-
-SECTION CIX
+## SECTION CIX
 
 Dhritarashtra said, "How did Sikhandin advance against the son of Ganga
 in battle, and how did Bhishma also advance against the Pandavas? Say all
@@ -11686,9 +11446,7 @@ continent resisting the surging sea. Indeed, I will hold in check all the
 mighty warriors of the Kuru army assembled together and battling with us.
 Do thou slay the grandsire.'
 
-
-
-SECTION CX
+## SECTION CX
 
 Dhritarashtra said, "How did Sikhandin the prince of the Panchalas,
 excited with wrath, rushed in battle against the grandsire, viz., Ganga's
@@ -11775,9 +11533,7 @@ clouds. Thy sons, however, stood, surrounding Bhishma on all sides with a
 large force (for protecting him). Then commenced a fierce battle (between
 the Kurus and the Pandavas)."
 
-
-
-SECTION CXI
+## SECTION CXI
 
 Sanjaya said, "Arjuna then, O king, beholding the prowess of Bhishma in
 battle, addressed Sikhandin saying, 'Proceed towards the grandsire. Thou
@@ -11872,9 +11628,7 @@ once more began to resist Partha with sharp arrows like Purandara
 resisting (the Asura) Vritra. Of huge form, thy son began to pierce
 Arjuna, but the latter was scarcely pained (at all this)."
 
-
-
-SECTION CXII
+## SECTION CXII
 
 Sanjaya said, "The mighty bowman (Alamvusha) the son of Rishyasringa, in
 that battle, resisted Satyaki clad in mail and proceeding towards
@@ -11995,9 +11749,7 @@ wishing, O Bharata, to protect Bhishma. The army of thy son, O Bharata,
 undergoing such slaughter, began to be agitated here and there by many
 foremost car-warriors (of the Pandava)."
 
-
-
-SECTION CXIII
+## SECTION CXIII
 
 Sanjaya said, "The heroic Drona, that great bowman endued with the
 prowess of an infuriate elephant, that foremost of men possessed of great
@@ -12083,9 +11835,7 @@ Kshatriya, however, before me, I am engaging thee (to this task). So
 Bhishma also, in this battle, is consuming the mighty host of the
 Pandavas. O son, he is, in battle, equal to Yama or Varuna himself.'"
 
-
-
-SECTION CXIV
+## SECTION CXIV
 
 Sanjaya said, "Hearing these words of the high-souled Drona, Bhagadatta
 and Kripa and Salya and Kritavarman, and Vinda and Anuvinda of Avanti,
@@ -12192,9 +11942,7 @@ rushed in battle upon those two bowmen, viz., Bhima and Dhananjaya, and
 surrounded them both by many thousands of cars. Then commenced a fierce
 battle between Arjuna and the foe."
 
-
-
-SECTION CXV
+## SECTION CXV
 
 Sanjaya said, "Arjuna covered with his straight shafts the mighty
 car-warrior Salya who was struggling vigorously in battle. And he pierced
@@ -12286,9 +12034,7 @@ in that dreadful battle. Bhishma then, that foremost of car-warriors,
 received that large host rushing towards him, like the continent
 receiving the surging sea."
 
-
-
-SECTION CXVI
+## SECTION CXVI
 
 Dhritarashtra said, "How, O Sanjaya, did Santanu's son Bhishma of mighty
 energy fight on the tenth day of battle, with the Pandavas and the
@@ -12379,9 +12125,7 @@ extreme, like that between two hawks for a piece of flesh. Engaged in
 battle, that encounter between those combatants desirous of slaughtering
 and vanquishing one another, was extremely dreadful."
 
-
-
-SECTION CXVII
+## SECTION CXVII
 
 Sanjaya said, "Abhimanyu, O king, displaying his prowess for the sake of
 Bhishma, fought with thy son who was supported by a large force. Then
@@ -12556,9 +12300,7 @@ except the heroic Arjuna having white steeds (yoked unto his car) and
 owning Krishna for his charioteer, and Sikhandin, the prince of Panchala,
 of immeasurable energy."
 
-
-
-SECTION CXVIII
+## SECTION CXVIII
 
 Sanjaya said,--Sikhandin, O bull among men, approaching Bhishma in
 battle, struck him in the centre of the chest with ten broad-headed
@@ -12688,9 +12430,7 @@ withdrew that weapon resembling fire (in effulgence and energy).
 Meanwhile Kunti's son owning white steeds slaughtered thy troops,
 confounding the grandsire.[484]"
 
-
-
-SECTION CXIX
+## SECTION CXIX
 
 Sanjaya said, "When the combatants of both armies, strong in number, were
 thus disposed in battle array, all those unretreating heroes, O Bharata,
@@ -12800,9 +12540,7 @@ resembled the battle between the gods and the Asuras in days of old, the
 diadem-decked (Arjuna), placing Sikhandin before him, pierced Bhishma
 (repeatedly).'
 
-
-
-SECTION CXX
+## SECTION CXX
 
 Sanjaya said, "Thus all the Pandavas, placing Sikhandin before them
 pierced Bhishma in that battle repeatedly surrounding him on all sides.
@@ -13057,9 +12795,7 @@ of Santanu, having recourse to that Yoga which is taught in the great
 Upanishads and engaged in mental prayers, remained quiet, expectant of
 his hour."
 
-
-
-SECTION CXXI
+## SECTION CXXI
 
 Dhritarashtra said, 'Alas, what was the state of (my) warriors, O
 Sanjaya, when they were deprived of the mighty and god-like Bhishma who
@@ -13141,9 +12877,7 @@ the mighty-armed Dhananjaya the son of Pandu, he said,--O Dhananjaya, O
 thou of mighty arms, my head hangeth down, O sire! Give me a pillow such
 as thou regardest to be fit!--'"
 
-
-
-SECTION CXXII
+## SECTION CXXII
 
 "Sanjaya said,--'Stringing then his large bow and reverentially saluting
 the grandsire, Arjuna, with eyes filled with tears, said these words, O
@@ -13221,9 +12955,7 @@ got Thee for our refuge, I do not regard anything as wonderful! Thus
 addressed by him, Janardana answered with a smile,--O best of kings,
 these words can come from thee alone!"
 
-
-
-SECTION CXXIII
+## SECTION CXXIII
 
 "Sanjaya said,--'After the night had passed away, O monarch, all the
 kings, the Pandavas and the Dhartarashtras, repaired to the grandsire,
@@ -13348,9 +13080,7 @@ yet, prevailing over his agonies, he applied himself to yoga.
 fraught with both virtue and profit, thy son, however, accepted them not,
 like a dying man refusing medicine."
 
-
-
-SECTION CXXIV
+## SECTION CXXIV
 
 "Sanjaya said,--'After Santanu's son Bhishma, O monarch, had become
 silent, all those rulers of earth, there present, then returned to their
@@ -15322,3 +15052,6 @@ second line is "the destruction of the Kuru king was inferred."
 
 491. By bravery on the field of battle, which, according to the Hindu
 scriptures, is always thus rewarded
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

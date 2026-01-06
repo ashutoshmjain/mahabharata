@@ -1,18 +1,10 @@
-
-
-
-
 # The Mahabharata
 
 of
 
 Krishna-Dwaipayana Vyasa
 
-BOOK 8
-
 ## Karna-parva
-
-
 
 Translated into English Prose from the Original Sanskrit Text
 
@@ -24,10 +16,6 @@ Kisari Mohan Ganguli
 
 Scanned and Proofed by Mantra Caitanya. Additional proofing and
 formatting at sacred-texts.com, by J. B. Hare, October 2003.
-
-
-
-
 
 1
 
@@ -89,8 +77,6 @@ grandsons, I think, O regenerate one, that the act of yielding up one's
 life is exceedingly difficult! Tell me all these in detail and as they
 actually happened! I am not satiated with hearing the high achievements
 of my ancestors!"
-
-
 
 2
 
@@ -156,8 +142,6 @@ objects cherished by him.
 "Dhritarashtra said, 'I do not feel great pain, O Sanjaya! I regard all
 this to be the result of Destiny! Tell me all that thou wishest!'"
 
-
-
 3
 
 "Sanjaya said, 'Upon the fall of the great bowman Drona, thy sons, those
@@ -204,8 +188,6 @@ behind the wings of another, like flights of bees. Having afflicted the
 Pancalas and the Pandavas endued with great activity, and slain thousands
 of warriors, he was at last slain by Arjuna!"
 
-
-
 4
 
 Vaishampayana said, "Hearing this intelligence, O monarch, Dhritarashtra
@@ -244,8 +226,6 @@ been slain with his sons and brothers, and other Suta warriors, all of
 whom were mighty bowmen ready to lay down their lives in battle!
 Duhshasana also hath been slain by the renowned son of Pandu. Indeed, his
 blood also hath been, from wrath, drunk by Bhimasena in battle!'"
-
-
 
 5
 
@@ -377,8 +357,6 @@ now come! Thou, O king wishing them well, hast heaped those evils on the
 heads of thy covetous sons! The fruit of those evils is now manifesting
 itself!'"
 
-
-
 6
 
 "Dhritarashtra said, 'Thou hast, O son, mentioned the names of those of
@@ -468,8 +446,6 @@ other mighty car-warriors of the Pandavas have been slain by Drona
 exerting himself with great energy. I have now told them all that thou
 hadst asked me.'"
 
-
-
 7
 
 "Dhritarashtra said, 'When all the foremost of my warriors, O Sanjaya
@@ -552,8 +528,6 @@ greatly agitated. My senses are being stupefied, and my limbs are about
 to be paralysed!' Having said these words, Dhritarashtra the son of
 Ambika, that lord of earth, lost his senses and fell down on the earth."
 
-
-
 8
 
 Janamejaya said, "Having heard of Karna's fall and the slaughter of his
@@ -627,8 +601,6 @@ relatives and allies, who else in the world, O Suta, save my wretched
 self, would not yield up his life? I desire to have poison or fire or a
 fall from the summit of a mountain, I am unable, O Sanjaya, to bear this
 heavy load of grief!'"
-
-
 
 9
 
@@ -838,8 +810,6 @@ the Kauravas and their foes, after the death of Drona! Tell me also how
 the sons of Kunti fought the battle with Karna, and how that slayer of
 foes received his quietus in the fight!'"
 
-
-
 10
 
 "Sanjaya said, 'After the fall of the mighty bowman Drona on that day, O
@@ -970,8 +940,6 @@ the rise of the Sun. Surrounded by thy sons, O Bharata, Karna looked
 resplendent like Skanda surrounded by the celestials, in the battle
 having Saraka for its evil root.'"
 
-
-
 11
 
 "Dhritarashtra said, 'After having obtained the command of the army, and
@@ -1064,8 +1032,6 @@ other, seemed to dance (in joy). From the wings and the side-wings of
 both, warriors desirous of battle came forth. Then commenced the battle,
 O monarch, of men, elephants, steeds, and cars, engaged in destroying one
 another.'"
-
-
 
 12
 
@@ -1169,8 +1135,6 @@ struck down by thunder beside a thunder-riven hill. Beholding the
 celebrated king of the Kulutas slain, thy troops, O bull of Bharata's
 race exceedingly distressed, fled away.'"
 
-
-
 13
 
 "Sanjaya said, 'Then the mighty and heroic bowman Karna began to smite
@@ -1252,8 +1216,6 @@ shafts the large force of the Kaikeyas. The vast army of the Kaikeyas,
 thus slaughtered in battle, leaving that foe of theirs fled away on all
 sides.'"
 
-
-
 14
 
 "Sanjaya said, 'Srutakarman then, O king, filled with wrath, struck that
@@ -1333,8 +1295,6 @@ was thus flying away, only Drona's son singly rushed with speed against
 the mighty Bhimasena. All at once a fierce encounter ensued between them
 like to what had taken place between Vritra and Vasava in the battle
 between the gods and the Asuras (of old).'"
-
-
 
 15
 
@@ -1432,8 +1392,6 @@ bore him away from the battle-field, O king, in the sight of all the
 troops. Similarly, O king, Bhima's driver bore away from the battle-field
 on his car, the son of Pandu, that scorcher of foes, who was repeatedly
 falling into a swoon.'"
-
-
 
 16
 
@@ -1562,8 +1520,6 @@ the samsaptakas then the son of Pandu rushed towards Drona's son like a
 donor abandoning unworthy guests, for proceeding towards one that is
 worthy."
 
-
-
 17
 
 "Sanjaya said, 'Then occurred that battle between Arjuna and Ashvatthama
@@ -1650,8 +1606,6 @@ incantations and medicines and means, Keshava and Arjuna proceeded
 towards the samsaptakas, on their car whose rattle resembled the roar of
 the clouds and whose banner waved on the wind.'"
 
-
-
 18
 
 "Sanjaya said, 'Meanwhile towards the northern part of the Pandava army,
@@ -1735,8 +1689,6 @@ delight which we now feel at their death, O slayer of enemies." Hearing
 these and other words uttered by friends and allies, Arjuna, with a
 cheerful heart, worshipped those men, each according to his deserts, and
 proceeded once more against the samsaptakas.'"
-
-
 
 19
 
@@ -1877,8 +1829,6 @@ and steeds and men with sharp shafts, that foremost of smiters overthrew
 and deprived them of life. Cutting off with his own shafts the diverse
 weapons hurled at him by many foremost of foes, Pandya slew his enemies
 like Sakra (Indra) destroying the Danavas.'"
-
-
 
 20
 
@@ -2029,8 +1979,6 @@ worshipped with great respect that warrior who is a complete master of
 the science of arms, after indeed, he had completed the task he had
 undertaken."
 
-
-
 21
 
 "Dhritarashtra said, 'When Pandya had been slain and when that foremost
@@ -2123,8 +2071,6 @@ wreaths. The beautiful forms of elephants and steeds and human beings, O
 king, then resembled cloths foul with dirt, and became exceedingly
 repulsive to look at.'"
 
-
-
 22
 
 "Sanjaya said, 'Many elephant-warriors riding on their beasts, urged by
@@ -2203,8 +2149,6 @@ time resembled a river whose continents had been washed away. Those
 warriors of Pandu's son, having thus agitated that army of thine,
 agitated it once more, and then rushed against Karna.'"
 
-
-
 23
 
 "Sanjaya said, 'While Sahadeva, filled with rage, was thus blasting thy
@@ -2249,8 +2193,6 @@ the son of Pandu, beholding Duryodhana's division, began to crush it on
 all sides. Indeed, O king, as a man excited with wrath crushes swarm of
 ants, even so, O Bharata did that son of Pandu begin to crush the Kaurava
 host.'"
-
-
 
 24
 
@@ -2418,8 +2360,6 @@ destitute of standards. Indeed, the Suta's son, possessed of great might,
 continued to scorch them with his shafts, like the dispeller of darkness
 scorching all creatures when he attains to the meridian.'"
 
-
-
 25
 
 "Sanjaya said, 'Against Yuyutsu who was employed in routing the vast army
@@ -2512,8 +2452,6 @@ divisions bristling with arms, routed by the illustrious son of Subala.
 Even as the chief of the celestials crushed the Daitya army, the son of
 Subala destroyed that army of the Pandavas.'"
 
-
-
 26
 
 "Sanjaya said, 'Kripa, O king, resisted Dhrishtadyumna in battle, like a
@@ -2594,8 +2532,6 @@ bore him away from the fight. Scorched with the shaft of Hridika's son he
 drew breath upon breath repeatedly. After the defeat of the heroic son of
 Drupada, O lord, the Pandava army, slaughtered on all sides, fled away
 from the field."
-
-
 
 27
 
@@ -2680,8 +2616,6 @@ Pandu's son armed with the bow, that host fled away almost entirely,
 without leaving even a remnant, O Bharata, contending with the foe.
 Having vanquished large numbers of the samsaptakas in battle, Pritha's
 son Jishnu looked resplendent, like a blazing fire without smoke.'"
-
-
 
 28
 
@@ -2791,8 +2725,6 @@ Kurus and the Pandavas, both parties having been actuated by the desire
 of winning great fame, at that hour when the Sun had passed the
 meridian.'"
 
-
-
 29
 
 "Dhritarashtra said, 'I have heard from thee, O Sanjaya, of many poignant
@@ -2868,8 +2800,6 @@ flaxen chords, rushed impetuously towards Kritavarma in that battle. Thus
 occurred the battle between thy troops and the foe on that afternoon, O
 monarch, every one of the combatants being inspired with the desire of
 victory.'"
-
-
 
 30
 
@@ -2986,8 +2916,6 @@ sinless men, the Pandavas, became very glad, and proceeding to their
 tents rested there for the night. Then rakshasas and pishacas, and
 carnivorous beasts, in large numbers came to that awful field of battle
 resembling the sporting ground of Rudra himself.'
-
-
 
 31
 
@@ -3161,8 +3089,6 @@ follow thee in battle.'"
 great prowess, approached the ruler of the Madras and addressed him in
 the following words.'"
 
-
-
 32
 
 "Sanjaya said, 'Thy son then, O monarch, humbly approaching that mighty
@@ -3320,8 +3246,6 @@ whatever speeches I desire.'"
 answered the prince of the Madras, O best of Bharata's race, saying, "So
 be it."'"
 
-
-
 33
 
 "'Duryodhana said, "Listen, once more, O ruler of the Madras, to what I
@@ -3466,8 +3390,6 @@ art endued with fierce energy. We devote ourselves to thee in thought,
 word and deed. Be gracious unto us.' Gratified with these adorations, the
 holy one, saluting them with the word 'Welcome' said unto them, 'Let your
 fears be dispelled. Say, what we are to do for you?'"'"
-
-
 
 34
 
@@ -3840,8 +3762,6 @@ otherwise called Vaikartana, O king, cannot be an ordinary person. Endued
 with great valour, this disciple of Rama, O king of kings, is a
 high-souled personage.'"
 
-
-
 35
 
 "'Duryodhana said, "Even thus did that illustrious Deity, that Grandsire
@@ -3957,8 +3877,6 @@ competence to avoid it in practice. When thou wilt be engaged in battle
 with Partha, I will hold the reins of thy steeds. Let thy anxiety be
 dispelled, O Suta's son."'"
 
-
-
 36
 
 "'Duryodhana said, "This one, O Karna, will act as thy driver, this ruler
@@ -4035,8 +3953,6 @@ their foes, then thou wilt not utter such words.'"
 "Sanjaya continued, 'Disregarding those words spoken by the ruler of the
 Madras, Karna addressing him endued with great activity, saying,
 "Proceed."'"
-
-
 
 37
 
@@ -4179,8 +4095,6 @@ having white steeds yoked unto it, Karna proceeded with a cheerful heart,
 and beholding the army of the Pandavas, speedily enquired after
 Dhananjaya.'"
 
-
-
 38
 
 "Sanjaya said 'After Karna, gladdening thy army, had set out for battle,
@@ -4239,8 +4153,6 @@ with joy, the ruler of the Madras, laughing in scorn, said these words
 unto that grinder of foes, viz., the son of Radha, that mighty
 car-warrior who was about to plunge into that ocean of battle and who was
 indulging in such vain bragging.'"
-
-
 
 39
 
@@ -4328,8 +4240,6 @@ As a mouse and a car are to each other in strength, or a dog and a tiger,
 a fox and a lion, or a hare and an elephant, as falsehood and truth, as
 poison and nectar, even so art thou and Partha known to all by your
 respective deeds.'"
-
-
 
 40
 
@@ -4461,8 +4371,6 @@ see or hear, O thou that art born in a sinful country, either that the
 two Krishnas have slain Karna or that Karna has slain the two Krishnas."
 Having said these words, the son of Radha, O monarch, once more addressed
 the king of the Madras, fearlessly saying, "Proceed, proceed.'"
-
-
 
 41
 
@@ -4661,8 +4569,6 @@ one, O son of a Suta, do not think disrespectfully of Acyuta and Arjuna.
 Those two high-souled persons are lions among men. Forbear indulging in
 such boasts."'"
 
-
-
 42
 
 "Sanjaya said, 'The high-souled son of Adhiratha, having listened
@@ -4812,8 +4718,6 @@ a calf).' Though rebuked by thee, still for friendship's sake, I have
 disclosed to thee all this. I know thee that art rebuking me thus. Be
 silent now, and hear what I will presently say.'"
 
-
-
 43
 
 "Sanjaya said, 'That chastiser of foes, viz., the son of Radha, thus
@@ -4839,8 +4743,6 @@ would be pardoned by me. That compact should be observed. It is for this
 that thou livest, O Madraka. Without a 1,000 Salyas I would vanquish my
 foes. He that injureth a friend is sinful. It is for this that thou
 livest for the present.'"
-
-
 
 44
 
@@ -4955,8 +4857,6 @@ and many amongst them have been begotten by Shudras upon other peoples'
 girls. The gods never accept any gifts from them. The Prasthalas, the
 Madras, the Gandharas, the Arattas, those called Khasas, the Vasatis, the
 Sindhus and the Sauviras are almost as blamable in their practices.'"
-
-
 
 45
 
@@ -5086,8 +4986,6 @@ friend, and beseeching Shalya with joined hands, Karna, O sire, was
 quieted by thy son and forbore saying anything more. Shalya also then
 faced the enemy. Then Radha's son, smiling, once more urged Shalya,
 saying, "Proceed."'"
-
-
 
 46
 
@@ -5294,8 +5192,6 @@ before our eyes." While those two lions among men were thus addressing
 each other, the two armies mingled fiercely in battle, like the currents
 of the Ganga and Yamuna.'"
 
-
-
 47
 
 "Dhritarashtra said, 'When the two armies, duly arrayed, thus mingled
@@ -5353,8 +5249,6 @@ heaven and making them earn great fame, Karna caused his friends great
 joy. Thus, O sire, that battle destructive of men, steeds, and cars,
 between the Kurus and the Srinjayas, resembled the battle between the
 gods and the Asuras of old.'"
-
-
 
 48
 
@@ -5504,8 +5398,6 @@ The noise of diverse musical instrument arose then, O king, and the
 leonine shouts of brave warriors rent the sky. And the Kurus and the
 Pandavas once more fearlessly encountered each other, the former headed
 by the Suta's son and the latter by Yudhishthira.'"
-
-
 
 49
 
@@ -5718,8 +5610,6 @@ armour and coats of mail displaced and weapons and bows loosened from
 their grasp, fled away in all directions, whilst being agitated by the
 enemy, even like a herd of elephants in the forest afflicted by lions.'"
 
-
-
 50
 
 "Sanjaya said, 'Beholding the Pandava heroes rushing impetuously towards
@@ -5823,8 +5713,6 @@ of the Madras then, beholding the Suta's son deprived of his senses, bore
 that ornament of battle away on his car, from that fight. Then after
 Karna's defeat, Bhimasena began to rout the vast Dhartarashtra host like
 Indra routing the danavas.'"
-
-
 
 51
 
@@ -6002,8 +5890,6 @@ the dire consequences that would ensue. Then the Pandavas, O king, and
 the Kauravas also, mighty car-warriors all, striking one another, began
 to mangle one another with their keen shafts.'"
 
-
-
 52
 
 "Sanjaya said, 'Those Kshatriyas, O monarch, harbouring feelings of
@@ -6096,8 +5982,6 @@ progress of that fierce and awful battle, the Kaurava army became
 strengthless and unable to bear up any longer like a foundered vessel on
 the bosom of the ocean.'"
 
-
-
 53
 
 "Sanjaya said, 'During the progress of that battle in which so many
@@ -6189,8 +6073,6 @@ warriors, and 3,000 warriors, and 3,000 elephants. Then the samsaptakas
 once more encompassed Dhananjaya, making death or victory their goal. The
 battle then that took place there between thy warriors and that mighty
 hero, viz., the diadem-decked son of Pandu became awful.'"
-
-
 
 54
 
@@ -6285,8 +6167,6 @@ resist the Kauravas with shafts, without losing a moment. Then thy
 warriors, O king, rushed towards Dhrishtadyumna, uttering loud leonine
 roars. At this a battle once more took place between them.'"
 
-
-
 55
 
 "Sanjaya said, 'Meanwhile the son of Drona (Ashvatthama), beholding
@@ -6375,8 +6255,6 @@ son of Dharma, had gone away, the high-souled son of Drona also, O king,
 left that spot. Then Yudhishthira, O king, avoiding the son of Drona in
 that great battle proceeded against thy army, resolved to achieve the
 cruel task of slaughter.'"
-
-
 
 56
 
@@ -6701,8 +6579,6 @@ Yudhishthira, O chief of the Bharatas, in great pain owing to his wounds,
 retreating about two miles from the battle, rested himself for some
 time.'"
 
-
-
 57
 
 "Sanjaya said, 'Then Duryodhana, O chief of Bharatas, repairing to Karna,
@@ -6747,8 +6623,6 @@ stars. Then in consequence of cheers coming from the welkin and the noise
 of musical instruments, the furious passage-at-arms distinguished by
 twang of bows and clatter of car-wheels and shouts of warriors became
 exceedingly fierce.'"
-
-
 
 58
 
@@ -6860,8 +6734,6 @@ battle. Loud leonine shouts arose as the two hosts encountered each
 other, O monarch, making death their goal. Even thus, O king, in
 consequence of thy evil counsels, did that destruction set in on Earth, O
 lord of Earth, of both thy warriors and those of the enemy.'"
-
-
 
 59
 
@@ -7004,8 +6876,6 @@ Vasudeva, saying "Proceed, O Krishna, towards the samsaptakas, for this
 is greatly desired by me." Hearing those words of Pandu's son, he of
 Dasharha's race proceeded on that car graced with many banners and whose
 speed resembled that of the wind or the mind.'"
-
-
 
 60
 
@@ -7203,8 +7073,6 @@ attained to great happiness. As regards Partha, that tiger among men, he
 continued, with his straight shafts, to slaughter the Dhartarashtra host
 consisting of four kinds of forces.'"
 
-
-
 61
 
 "Dhritarashtra said, 'When Bhima and Pandu's son Yudhishthira were
@@ -7359,8 +7227,6 @@ ejecting urine and excreta, ran away in fear. The feats of the
 single-handed Bhima of great intelligence, on that occasion, shone like
 those of Rudra, himself, while engaged in destroying all creatures.'"
 
-
-
 62
 
 "Sanjaya said, 'The handsome Arjuna then, on that foremost car of his,
@@ -7432,8 +7298,6 @@ seventeen hundred Kekaya troops, skilled in smiting, united with a body
 of the Pancala troops, O king, checked the Dhartarashtras. During the
 progress of that fierce and terrible battle, Duryodhana and Bhima, those
 two warriors endued with great might, encountered each other.'"
-
-
 
 63
 
@@ -7517,8 +7381,6 @@ two crushers of foes,--both endued with great might, then proceeded
 towards Bhima, borne by steeds of the utmost fleetness. Indeed, the
 brothers having together repaired to Bhimasena's division, took up their
 places there.'"
-
-
 
 64
 
@@ -7670,8 +7532,6 @@ fought with the son of his preceptor Drona, and having vanquished that
 hero incapable of being resisted by the wielder of the thunderbolt
 himself.'"
 
-
-
 65
 
 "Sanjaya said, 'Having vanquished the son of Drona and achieved a mighty
@@ -7730,8 +7590,6 @@ congratulating Sankara and Vishnu after the slaughter of the mighty asura
 Jambha. King Yudhishthira the just, thinking that Karna had been slain,
 became filled with joy, and that scorcher of foes thereupon addressed
 them in these words in a voice choked with delight.'"
-
-
 
 66
 
@@ -7853,8 +7711,6 @@ Tell me, therefore, how the Suta's son hath been slain! Like the divine
 Vishnu waiting for the arrival of Indra with the intelligence of Vritra's
 slaughter, I had so long waited for thee, O hero!"'"
 
-
-
 67
 
 "Sanjaya said, 'Hearing these words of the righteous king who had been
@@ -7922,8 +7778,6 @@ vow taken by him. I beg of thee, bless me, saying that victory will be
 mine in battle. Yonder, the Dhartarashtras are about to devour Bhima. I
 will, O lion among kings, slay the Suta's son and his troops and all our
 foes!"'"
-
-
 
 68
 
@@ -7997,8 +7851,6 @@ thus come away from battle, O thou of wicked soul! Fie on thy Gandiva,
 fie on the might of thy arms, fie on thy inexhaustible arrows! Fie on thy
 banner with the gigantic ape on it, and fie on thy car given thee by the
 god of fire!"'"
-
-
 
 69
 
@@ -8193,8 +8045,6 @@ Pandu, therefore, will never be angry with thee. Freed from falsehood as
 also from fratricide, thou wilt then, O Partha, cheerfully slay the
 Suta's son Karna!"'"
 
-
-
 70
 
 "Sanjaya said, 'Thus addressed by Janardana, Pritha's son Arjuna,
@@ -8365,8 +8215,6 @@ lord. Indeed, having obtained the raft of thy intelligence today, we
 have, with our relatives and allies, passed over an ocean of sorrow and
 grief. Having obtained thee, O Acyuta, we are not masterless."'"
 
-
-
 71
 
 "Sanjaya said, 'Having heard these joyful words of king Yudhishthira,
@@ -8456,8 +8304,6 @@ accordeth with thy own desire, and victory, and energy, and the
 destruction of thy foes. Let the gods grant thee prosperity. Obtain thou
 all these to the measure desired by me. Go quickly to battle, and slay
 Karna, even as Purandara slew Vritra for his own aggrandisement."'"
-
-
 
 72
 
@@ -8553,8 +8399,6 @@ might that are in thee. Slay the brave Karna in battle, like a lion
 slaying an elephant. Slay in battle today, O Partha, that Karna,
 otherwise called Vaikartana, in consequence of whose energy
 Dhritarashtra's son disregards thine.'"
-
-
 
 73
 
@@ -8825,8 +8669,6 @@ Karna amongst them, and no one else, O foremost of warriors! Achieving
 this great feat, viz., slaying the mighty car-warrior Karna, attain thy
 object, O Partha, and crowned with success, be happy, O best of men!'"
 
-
-
 74
 
 "Sanjaya said, 'Hearing these words of Keshava, O Bharata, Vibhatsu soon
@@ -8936,8 +8778,6 @@ foremost of all heroes, that slayer of foes, with blood red eyes,
 proceeded quickly to battle, for rescuing Bhima and cutting off the head
 from Karna's trunk.'"
 
-
-
 75
 
 "Dhritarashtra said, 'In that awful and fathomless encounter of the
@@ -8995,8 +8835,6 @@ rescued the latter like a bull sunk in a mire. Meanwhile Bhima, the son
 of the Wind-god clad in golden mail, began to scorch with his keen arrows
 the troops of thy sons like the mid-day sun scorching everything in the
 summer season.'"
-
-
 
 76
 
@@ -9123,8 +8961,6 @@ increase."
 will give thee four and ten populous villages and a hundred female slaves
 and twenty cars, being pleased with thee, O Suta, for this agreeable
 intelligence imparted by thee!"'"
-
-
 
 77
 
@@ -9296,8 +9132,6 @@ distressful plight, when at last they reach an island. They then, once
 more, making death itself their goal, proceeded against their foes for
 battle.'"
 
-
-
 78
 
 "Dhritarashtra said, 'When our troops were broken in battle by Bhimasena,
@@ -9434,8 +9268,6 @@ Draupadi, filled with rage, slaughtered thy host. Even thus a great
 destruction took place among the Pandavas everywhere on the field, and
 even thus thy army also suffered great loss at the hands of the mighty
 Bhima.'"
-
-
 
 79
 
@@ -9665,8 +9497,6 @@ there, the points of the compass, cardinal and subsidiary became
 enveloped in gloom and the very effulgence of the sun became totally
 shrouded.'"
 
-
-
 80
 
 "Sanjaya said, 'Then, O king, Dhananjaya, desirous of rescuing Kunti's
@@ -9740,8 +9570,6 @@ assemblage of lotuses. Having slain those ten Kauravas cased in golden
 mail, with ten broad-headed shafts endued with great, impetuosity and
 equipped with wings of gold that slayer of foes, Arjuna continued to
 proceed.'"
-
-
 
 81
 
@@ -9867,8 +9695,6 @@ Pancalas, O thou of great intelligence, while they were being thus
 smitten by the Suta's son, that rescuer of friends, for the sake of his
 friends.'"
 
-
-
 82
 
 "Sanjaya said, 'After the Kurus, O king, had been put to flight by the
@@ -9989,8 +9815,6 @@ with languid limbs and like one deprived of life and with outstretched
 arms, upon his own excellent car. Recovering his senses, however, he
 began to roar like a lion.'"
 
-
-
 83
 
 "Sanjaya said, 'Fighting fiercely, prince Duhshasana achieved the most
@@ -10104,8 +9928,6 @@ obtain peace." Having said these words, Bhima, filled with great joy,
 drenched with blood, uttered loud shouts, even as the mighty and
 high-souled Indra of a 1,000 eyes had roared after slaying (the Asura)
 Vritra.'"
-
-
 
 84
 
@@ -10226,8 +10048,6 @@ Thus addressed in that battle by his brother, Nakula, standing before
 him, the diadem-decked Arjuna, that formidable hero, precipitately caused
 his ape-bannered vehicle, guided by Keshava himself, to be driven towards
 Vrishasena.'"
-
-
 
 85
 
@@ -10364,8 +10184,6 @@ Partha.
 in battle, the high-souled Karna, filled with great wrath, rushed against
 Krishna and Arjuna.'"
 
-
-
 86
 
 "Sanjaya said, 'Beholding the gigantic and roaring Karna, incapable of
@@ -10421,8 +10239,6 @@ passeth." Thus addressed by the high-souled son of Pandu, Keshava wished
 him victory and urged steeds as fleet as thought. Then that car of
 Pandu's son, possessed of great speed, soon reached the front of Karna's
 car.'"
-
-
 
 87
 
@@ -10681,8 +10497,6 @@ thou shalt, filled with joy, comfort thy paternal aunt Kunti. Today thou
 shalt, O Madhava, comfort Krishna of tearful face and king Yudhishthira
 the just with words sweet as nectar."'"
 
-
-
 88
 
 "Sanjaya said, 'Meanwhile the welkin, filled with gods and Nagas and
@@ -10801,8 +10615,6 @@ from battle!' Phalguna is exceedingly tired today. Karna will soon slay
 him". Having with humility said these words repeatedly unto the
 preceptor's son, thy son commanded his own troops, saying, "Armed with
 arrows, rush against and slay these foes. Why stand ye inactive?"'"
-
-
 
 89
 
@@ -11116,8 +10928,6 @@ wounded, and their wailing sons and sires. Beholding himself abandoned by
 the terrified Kurus and seeing the space around him empty, Karna felt no
 agitation, O Bharata, but, on the other hand, rushed at Arjuna, with a
 cheerful heart.'"
-
-
 
 90
 
@@ -11472,8 +11282,6 @@ in the Kshatriya order. Thou art the perpetuator of a high race.
 Recollecting the teachings of righteousness, excuse me for a moment, O
 son of Pandu!"'"
 
-
-
 91
 
 "Sanjaya said, 'Then Vasudeva, stationed on the car, addressed Karna,
@@ -11668,8 +11476,6 @@ resembled a lotus of a 1,000 petals, of Karna whose feats were like those
 of the thousand-eyed Indra, fell down on the earth like the
 thousand-rayed sun as he looks at the close of day.'"
 
-
-
 92
 
 "Sanjaya said, 'Beholding the troops crushed with arrows in that
@@ -11715,8 +11521,6 @@ this. This is Destiny. Comfort thyself. Success cannot be always
 attained." Hearing these words of the ruler of the Madras and reflecting
 on his own evil doings. Duryodhana, with a cheerless heart, became almost
 deprived of his senses and sighed repeatedly the very picture of woe.'"
-
-
 
 93
 
@@ -11853,8 +11657,6 @@ delay.'"
 "Sanjaya continued, 'While even these words were being uttered by thy
 son, the (Kaurava) warriors, exceedingly mangled, fled away on all sides,
 regardless of that speech.'"
-
-
 
 94
 
@@ -12070,8 +11872,6 @@ each according to his age, and applauded by those friends in return for
 their incomparable feats, the two heroes rejoiced with their friends,
 like the chief of the celestials and Vishnu after the overthrow of Vali.'"
 
-
-
 95
 
 "Sanjaya said, 'Upon the fall of Karna otherwise called Vaikartana, the
@@ -12110,8 +11910,6 @@ son, filled with grief and sorrow, set his heart upon resting them for
 the night. Those great car-warriors also, O monarch, accepting his orders
 with bent heads, retired from the field with cheerless hearts and pale
 faces.'"
-
-
 
 96
 
@@ -12259,3 +12057,6 @@ Parvan is equal to his who giveth away unceasingly for a whole year good
 cows with calves."
 
 The end of Karna Parv
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

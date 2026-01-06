@@ -1,32 +1,6 @@
+# Virata Parva
 
-
-
-
-# The Mahabharata
-
-of
-
-Krishna-Dwaipayana Vyasa
-
-BOOK 4
-
-## VIRATA PARVA
-
-Translated into English Prose from the Original Sanskrit Text
-
-by
-
-Kisari Mohan Ganguli
-
-[1883-1896]
-
-Scanned at sacred-texts.com, 2003. Proofed at Distributed Proofing,
-Juliet Sutherland, Project Manager. Additional proofing and formatting at
-sacred-texts.com, by J. B. Hare.
-
-
-
-SECTION I
+## SECTION I
 
 (Pandava-Pravesa Parva)
 
@@ -92,9 +66,7 @@ me, I shall say, 'Formerly I was the bosom friend of Yudhishthira.' I
 tell you that it is thus that I shall pass my days (in the city of
 Virata). What office wilt thou, O Vrikodara, fill in the city of Virata?"
 
-
-
-SECTION II
+## SECTION II
 
 Bhima said, "I intend to present myself before the lord of Virata as a
 cook bearing the name of Vallabha. I am skilled in culinary art, and I
@@ -165,9 +137,7 @@ Vaisampayana continued, "Having said this, Arjuna, that best of men and
 foremost of virtuous persons, became silent. Then the king addressed
 another brother of his."[2]
 
-
-
-SECTION III
+## SECTION III
 
 Yudhishthira said, "Tender, possessed of a graceful presence, and
 deserving of every luxury as thou art, what office wilt thou, O heroic
@@ -228,9 +198,7 @@ in observing virtuous vows, thou knowest not what is sin. Do thou,
 therefore, conduct thyself in such a way that sinful men of evil hearts
 may not be gladdened by gazing at thee."
 
-
-
-SECTION IV
+## SECTION IV
 
 Yudhishthira said, "Ye have already said what offices ye will
 respectively perform. I also, according to the measure of my sense, have
@@ -365,9 +333,7 @@ out for the Panchalas. And Indrasena, and others already mentioned, went
 to the Yadavas, and looking after the horses and the cars of the Pandavas
 passed their time happily and in privacy."
 
-
-
-SECTION V
+## SECTION V
 
 Vaisampayana said, "Girding their waists with swords, and equipped with
 finger-protectors made of iguana skins and with various weapons, those
@@ -446,9 +412,7 @@ Jayanta, Vijaya, Jayatsena, and Jayatvala. Then they entered the great
 city, with the view to passing the thirteenth year undiscovered in that
 kingdom, agreeably to the promise (to Duryodhana)."
 
-
-
-SECTION VI
+## SECTION VI
 
 Vaisampayana said, "And while Yudhishthira was on his way to the
 delightful city of Virata, he began to praise mentally the Divine Durga,
@@ -538,9 +502,7 @@ long as ye reside in Virata's city!' And having said these words unto
 Yudhishthira, that chastiser of foes, and having arranged for the
 protection of the sons of Pandu, the Goddess disappeared there and then."
 
-
-
-SECTION VII
+## SECTION VII
 
 Vaisampayana said, "Then tying up in his cloth dice made of gold and set
 with lapis lazuli, and holding them below his arm-pit, king
@@ -606,9 +568,7 @@ and received from him boons, that heroic bull among men, began to live
 happily, highly regarded by all. Nor could any one discover him as he
 lived there."
 
-
-
-SECTION VIII
+## SECTION VIII
 
 Vaisampayana said, "Then another endued with the dreadful strength and
 blazing in beauty, approached king Virata, with the playful gait of the
@@ -655,9 +615,7 @@ Vaisampayana continued, "Thus appointed in the kitchen, Bhima soon became
 the favourite of king Virata. And, O king, he continued to live there
 unrecognised by the other servants of Virata as also by other people!"
 
-
-
-SECTION IX
+## SECTION IX
 
 Vaisampayana said, "Binding her black, soft, fine, long and faultless
 tresses with crisped ends into a knotted braid, Draupadi of black eyes
@@ -749,9 +707,7 @@ feet.'
 Krishna (Draupadi) ever devoted to her lords, began to live in that city.
 Nor could anyone ascertain who in reality she was!'"
 
-
-
-SECTION X
+## SECTION X
 
 "Vaisampayana said, 'Then clad in a cowherd's dress, and speaking the
 dialect of cowherds, Sahadeva came to the cowpen of Virata's city. And
@@ -797,9 +753,7 @@ Henceforth my beasts will be in thy keep.'
 that lord of men, Sahadeva, maintained by Virata, began to live happily.
 Nor did anyone else (besides his brothers) recognise him.'"
 
-
-
-SECTION XI
+## SECTION XI
 
 "Vaisampayana said, 'Next appeared at the gate of the ramparts another
 person of enormous size and exquisite beauty decked in the ornaments of
@@ -845,9 +799,7 @@ waiting-maids, and soon won their good graces. And in this manner the
 self-possessed Arjuna lived there in disguise, partaking of pleasures in
 their company, and unknown to the people within or without the palace.'"
 
-
-
-SECTION XII
+## SECTION XII
 
 "Vaisampayana said, 'After a while, another powerful son of Pandu was
 seen making towards king Virata in haste. And as he advanced, he seemed
@@ -894,9 +846,7 @@ live in the country of the Matsyas. And true to their pledge those lords
 of the earth bounded by her belt of seas passed their days of incognito
 with great composure notwithstanding their poignant sufferings.'"
 
-
-
-SECTION XIII
+## SECTION XIII
 
 (Samayapalana Parva)
 
@@ -1007,9 +957,7 @@ those warriors suffer pain, sighed incessantly. And it was in this way
 that those eminent persons lived there in disguise, rendering services
 unto king Virata.'"
 
-
-
-SECTION XIV
+## SECTION XIV
 
 (Kichaka-badha Parva)
 
@@ -1142,9 +1090,7 @@ For thee that thus solicitest their beloved wife, there is no refuge
 either on earth or in sky. O Kichaka, hast thou no sense which leads thee
 to seek thy good and by which thy life may be saved?'"
 
-
-
-SECTION XV
+## SECTION XV
 
 "Vaisampayana said, 'Rejected thus by the princess, Kichaka, afflicted
 with maddening lust and forgetting all sense of propriety, addressed
@@ -1197,9 +1143,7 @@ Krishna in his presence like a frightened doe, the Suta rose up from his
 seat, and felt the joy that is felt by a person wishing to cross to the
 other shore, when he obtains a boat.'"
 
-
-
-SECTION XVI
+## SECTION XVI
 
 "Kichaka said, 'O thou of tresses ending in beautiful curls, thou art
 welcome. Surely, the night that is gone hath brought me an auspicious
@@ -1324,9 +1268,7 @@ him to be slain if thou wishest it.' Thereupon Draupadi answered, 'Even
 others will slay him,--even they whom he hath wronged, I think it is
 clear that he will have to go to the abode of Yama this very day!'"
 
-
-
-SECTION XVII
+## SECTION XVII
 
 "Vaisampayana said, 'Thus insulted by the Suta's son, that illustrious
 princess, the beautiful Krishna, eagerly wishing for the destruction of
@@ -1373,9 +1315,7 @@ deliver thee from perils again and again! Tell me quickly what is thy
 wish, and what is the purpose that is in thy view, and return thou to thy
 bed before others awake.'"
 
-
-
-SECTION XVIII
+## SECTION XVIII
 
 "Draupadi said, 'What grief hath she not who hath Yudhishthira for her
 husband? Knowing all my griefs, why dost thou ask me? The Pratikamin
@@ -1444,9 +1384,7 @@ in court by the entire earth, do thou now behold him worshipping another.
 Why then, O Bharata, dost thou not regard me as one afflicted with
 diverse miseries, like one forlorn and immersed in a sea of sorrow?'"
 
-
-
-SECTION XIX
+## SECTION XIX
 
 "Draupadi said, 'This O Bharata, that I am going to tell thee is another
 great grief of mine. Thou shouldst not blame me, for I tell thee this
@@ -1547,9 +1485,7 @@ as I tell thee of other woes far surpassing these. What can be sadder to
 me than miseries so various as these should emaciate me while ye are
 alive.'"
 
-
-
-SECTION XX
+## SECTION XX
 
 "Draupadi said, 'Alas, on account of that desperate gambler, I am now
 under Sudeshna's command, living in the palace in the guise of a
@@ -1622,9 +1558,7 @@ corns, began to weep. And that mighty son of Kunti, holding the hands of
 Draupadi in his, shed copious tears. And afflicted with great woe, he
 spoke these words.'"
 
-
-
-SECTION XXI
+## SECTION XXI
 
 "Bhima said, 'Fie on the might of my arms and fie on the Gandiva of
 Falguni, inasmuch as thy hands, red before, now become covered with
@@ -1730,9 +1664,7 @@ reason and sense, he wiped with his hands her face flooded with tears.
 And thinking of Kichaka and licking with his tongue the corners of his
 mouth, Bhima, filled with wrath thus spake to that distressed lady.'"
 
-
-
-SECTION XXII
+## SECTION XXII
 
 "Bhima said, 'I will, O timid one, do even as thou sayest. I will
 presently slay Kichaka with all his friends. O Yajnaseni of sweet smiles,
@@ -1934,9 +1866,7 @@ Kichaka, they said, 'Where is his neck, and where are his legs?' And
 beholding him in this plight they all concluded that he had been killed
 by a Gandharva.'"
 
-
-
-SECTION XXII
+## SECTION XXII
 
 "Vaisampayana said, 'Then all the relatives of Kichaka, arriving at that
 place, beheld him there and began to wail aloud, surrounding him on all
@@ -2014,9 +1944,7 @@ and six. And beholding that exceedingly wonderful feat, men and women
 that assembled together, were filled with astonishment. And the power of
 speech, O Bharata, was suspended in every one.'"
 
-
-
-SECTION XXIV
+## SECTION XXIV
 
 "Vaisampayana said, 'And beholding the Sutas slain, the citizens went to
 the king, and represented unto him what had happened, saying, 'O king,
@@ -2091,9 +2019,7 @@ Gandharvas also will be highly obliged at this. They will then convey me
 hence and do what would be agreeable to Virata. Without doubt, the king,
 by doing this, with his friends, will reap great benefit.'"
 
-
-
-SECTION XXV
+## SECTION XXV
 
 "Vaisampayana said, 'At the slaughter of Kichaka and brothers, people, O
 king, thinking of this terrible feat, were filled with surprise. And in
@@ -2147,9 +2073,7 @@ glory. Having heard this delightful news about the discomfiture of our
 enemies, we have been exceedingly gratified, O Kauravya. Do thou now
 ordain what should next be done.'"
 
-
-
-SECTION XXVI
+## SECTION XXVI
 
 (Go-harana Parva)
 
@@ -2199,9 +2123,7 @@ some unusual danger, they have perished for eternity. Therefore, O prince
 of the Kuru race, dispelling all anxieties from thy heart, achieve what
 thou wilt, always acting according to thy energy.'"
 
-
-
-SECTION XXVII
+## SECTION XXVII
 
 "Vaisampayana said, "Endued with mighty energy and possessed of great
 discernment, Drona then said, 'Persons like the sons of Pandu never
@@ -2232,9 +2154,7 @@ us, therefore, once more search after them, sending Brahmanas and
 Charanas, ascetics crowned with success, and others of this kind who may
 have a knowledge of those heroes!'"
 
-
-
-SECTION XXVIII
+## SECTION XXVIII
 
 "Vaisampayana said, 'Then that grandsire of the Bharatas, Bhishma the son
 of Sutanu, conversant with the Vedas, acquainted with the proprieties of
@@ -2323,9 +2243,7 @@ Reflecting well upon all this, do without loss of time what thou mayst
 think to be beneficial, O prince of the Kuru race, if indeed, thou hast
 any faith in me.'"
 
-
-
-SECTION XXIX
+## SECTION XXIX
 
 "Vaisampayana said, 'Then Saradwata's son, Kripa said, 'What the aged
 Bhishma hath said concerning the Pandavas is reasonable, suited to the
@@ -2360,9 +2278,7 @@ alone the sons of Pandu deficient in troops animals of their own. By
 adopting all these expedients according to the customs of thy order, thou
 wilt, O foremost of men, attain enduring happiness in due time!'"
 
-
-
-SECTION XXX
+## SECTION XXX
 
 "Vaisampayana said, 'Discomfited before, O monarch, many a time and oft
 by Matsya's Suta Kichaka aided by the Matsyas and the Salyas, the mighty
@@ -2424,9 +2340,7 @@ seventh day of the dark fortnight for seizing the kine. And then, O king,
 on the eighth day following of the dark fortnight, the Kauravas also
 accompanied by all their troops, began to seize the kine by thousands."
 
-
-
-SECTION XXXI
+## SECTION XXXI
 
 "Vaisampayana said, 'O mighty king, entering into king Virata's service,
 and dwelling in disguise in his excellent city, the high-souled Pandavas
@@ -2497,9 +2411,7 @@ And on its march that foremost of armies owned by Virata, crowded with
 soldiers armed with strong weapons, and abounding in elephants, horses
 and cars, looked really splendid.'"
 
-
-
-SECTION XXXII
+## SECTION XXXII
 
 "Vaisampayana said, 'Marching out of the city, those heroic smiters the
 Matsyas, arrayed in order of battle, overtook the Trigartas when the sun
@@ -2572,9 +2484,7 @@ then, O mighty monarch, in consequence of the dust on the field of
 battle, the soldiers of both Susarman and Matsya's king could not
 distinguish one another.'"
 
-
-
-SECTION XXXIII
+## SECTION XXXIII
 
 "Vaisampayana said, 'Then, O Bharata, when the world was enveloped in
 dust and the gloom of night, the warriors of both sides, without breaking
@@ -2703,9 +2613,7 @@ already become king Virata's slave. And turning then to Susarman, he
 said, 'Thou art freed. Go thou a free man, and never act again in this
 way.'"
 
-
-
-SECTION XXXIV
+## SECTION XXXIV
 
 "Vaisampayana said, 'Thus addressed by Yudhishthira Susarman was
 overwhelmed with shame and hung down his head. And liberated (from
@@ -2749,9 +2657,7 @@ departed with cheerful hearts. And having repaired to the city that very
 night, they proclaimed at the hour of sunrise the victory of the king
 about the city-gates.'"
 
-
-
-SECTION XXXV
+## SECTION XXXV
 
 "Vaisampayana said, 'When the king of the Matsyas, anxious of recovering
 the kine, had set out in pursuit of the Trigartas, Duryodhana with his
@@ -2801,9 +2707,7 @@ subject of this realm, have our protector in thee.'
 of the females, in words breathing courage, the prince indulging in
 self-commendation within the female apartments, spoke these words.'"
 
-
-
-SECTION XXXVI
+## SECTION XXXVI
 
 "Uttara said, 'Firm as I am in the use of the bow, I would set out this
 very day in the track of the kine if only some one skilled in the
@@ -2861,9 +2765,7 @@ thyself, O thou of faultless beauty, and bring Vrihannala hither?' And
 despatched by her brother, she hastily repaired to the dancing-hall where
 that strong-armed son of Pandu was staying in disguise.'"
 
-
-
-SECTION XXXVII
+## SECTION XXXVII
 
 "Vaisampayana said, 'Thus despatched by her elder brother, the far-famed
 daughter of king Matsya, adorned with a golden necklace, ever obedient to
@@ -2954,9 +2856,7 @@ the victory that Arjuna treading like a bull had achieved of old on the
 occasion of burning the forest of Khandava, be thine, O Vrihannala, when
 thou encounterest the Kurus today with prince Uttara.'"
 
-
-
-SECTION XXXVIII
+## SECTION XXXVIII
 
 'Vaisampayana said, 'Having issued forth from the city, the dauntless son
 of Virata addressed his charioteer, saying, 'Proceed whither the Kurus
@@ -3079,9 +2979,7 @@ battle, for a while comforted him. And then the son of Pritha, that
 foremost of smiters, raised on the car that fainting and reluctant prince
 stricken with fear!'"
 
-
-
-SECTION XXXIX
+## SECTION XXXIX
 
 "Vaisampayana said, 'Beholding that bull among men seated on the car in
 the habit of a person of the third sex, driving toward the Sami tree,
@@ -3125,9 +3023,7 @@ soon prostrate him on the earth with keen-edged arrows.'
 having said this, Bhishma and Drona and Kripa and Drona's son all
 applauded his manliness!'"
 
-
-
-SECTION XL
+## SECTION XL
 
 "Vaisampayana said, 'Having reached that Sami tree, and having
 ascertained Virata's son to be exceedingly delicate and inexperienced in
@@ -3148,9 +3044,7 @@ beautiful in make and beareth the heaviest weight. And the other bows
 also that are there, of Yudhishthira and Bhima and Vibhatsu and the
 twins, are equally mighty and tough.'"
 
-
-
-SECTION XLI
+## SECTION XLI
 
 "Uttara said, 'It hath been heard by us that a corpse is tied in this
 tree. How can I, therefore, being a prince by birth, touch it with my
@@ -3177,9 +3071,7 @@ like unto sighing snakes, he become afflicted with fear and in a moment
 the bristles of his body stood on their ends. And touching those large
 bows of great splendour, Virata's son, O king, thus spake unto Arjuna!'"
 
-
-
-SECTION XLII
+## SECTION XLII
 
 "Uttara said, 'To what warrior of fame doth this excellent bow belong, on
 which are a hundred golden bosses and which hath such radiant ends? Whose
@@ -3219,9 +3111,7 @@ fatal as that of a venomous snake which is irresistible and exciteth the
 terror of foes? Asked by me, O Vrihannala, do thou answer me truly. Great
 is my wonder at the sight of all these excellent objects.'"
 
-
-
-SECTION XLIII
+## SECTION XLIII
 
 "Vrihannala said, 'That about which thou hath first enquired is Arjuna's
 bow, of world-wide fame, called Gandiva, capable of devastating hostile
@@ -3272,9 +3162,7 @@ cased in a sheath of goat-skin, belongeth to Nakula. And this huge
 scimitar, cased in a sheath of cow-skin, strong and irresistible
 belongeth to Sahadeva.'"
 
-
-
-SECTION XLIV
+## SECTION XLIV
 
 "Uttara said, 'Indeed, these weapons adorned with gold, belonging to the
 light-handed and high-souled Partha, look exceedingly beautiful. But
@@ -3336,9 +3224,7 @@ I said unto thee from ignorance. And as wonderful and difficult have been
 the feats achieved by thee before, my fears have been dispelled, and
 indeed the love I bear to thee is great.'"
 
-
-
-SECTION XLV
+## SECTION XLV
 
 "Uttara said, 'O hero, mounting on this large car with myself as driver,
 which division of the (hostile) army wouldst thou penetrate? Commanded by
@@ -3438,9 +3324,7 @@ Kripa, and Krishna of Madhu's race, and by the wielder of the Pinaka
 (Siva), why shall I not fight with these? Drive thou my car speedily, and
 let thy heart's fever be dispelled.'"
 
-
-
-SECTION XLVI
+## SECTION XLVI
 
 "Vaisampayana said, 'Making Uttara his charioteer, and circumambulating
 the Sami tree, the son of Pandu set out taking all his weapons with him.
@@ -3520,9 +3404,7 @@ for none is eager to go to fight. All our warriors are of pale face, and
 almost deprived of their senses. Sending the kine ahead we should stand
 here, ready to strike, with all our warriors arrayed in order of battle."
 
-
-
-SECTION XLVII
+## SECTION XLVII
 
 "Vaisampayana said, 'King Duryodhana then, on the field of battle said
 unto Bhishma, and unto Drona--that tiger among warriors, and unto
@@ -3602,9 +3484,7 @@ the foe, make ye such arrangements that the foe may be destroyed. Placing
 the kine securely, array the troops in order of battle. Place guards in
 proper places so that we may fight the foe.'"
 
-
-
-SECTION XLVIII
+## SECTION XLVIII
 
 "Karna said, 'I behold all these blessed ones, looking as if alarmed and
 panic-struck and unresolved and unwilling to fight. If he that is come is
@@ -3656,9 +3536,7 @@ sighing like a snake. Let the Kauravas, following their own will go away
 taking this wealth of kine, or, if they wish, let them stay on their cars
 and witness my combat.'"
 
-
-
-SECTION XLIX
+## SECTION XLIX
 
 "Kripa said, 'O Radheya, thy crooked heart always inclineth to war. Thou
 knowest not the true nature of things; nor dost thou take into account
@@ -3713,9 +3591,7 @@ Aided by our troops arrayed in ranks, ourselves--great bowmen--standing
 carefully will fight with Arjuna even as the Danavas encounter Vasava in
 battle.'"
 
-
-
-SECTION L
+## SECTION L
 
 "Aswatthaman said, 'The kine, O Karna, have not yet been won, nor have
 they yet crossed the boundary (of their owner's dominions), nor have they
@@ -3781,9 +3657,7 @@ the preceptor, if he chooses fight; I shall not, however, fight with
 Dhananjaya. We are to fight with the king of the Matsyas, if indeed, he
 cometh in the track of the kine.'"
 
-
-
-SECTION LI
+## SECTION LI
 
 "Bhishma said, 'Drona's son observeth well, and Kripa, too observeth
 rightly. As for Kama, it is only out of regard for the duties of the
@@ -3838,9 +3712,7 @@ in attacking Dhritarashtra's son and defeating our troops. Like myself
 had said so before. Bearing it in mind, it behoveth the son of Ganga to
 say what is true.'"
 
-
-
-SECTION LII
+## SECTION LII
 
 "Bhishma said, 'The wheel of time revolves with its divisions, viz., with
 Kalas and Kasthas and Muhurtas and days and fortnights and months and
@@ -3897,9 +3769,7 @@ defend the right wing, and let Karna of the Suta caste, clad in mail,
 stand in the van. I will stand in the rear of the whole army, protecting
 it from that point.'"
 
-
-
-SECTION LIII
+## SECTION LIII
 
 "Vaisampayana said, 'After the Kauravas, O Bharata, had taken their stand
 in this order, Arjuna, filling the air with the rattle and din of his
@@ -3964,9 +3834,7 @@ flagstaff, the earth itself began to tremble. And shaking their upraised
 tails and lowing together, the kine turned back, proceeding along the
 southern road.'"
 
-
-
-SECTION LIV
+## SECTION LIV
 
 "Vaisampayana said, 'Having disorganised the hostile host by force and
 having recovered the kine, that foremost of bowmen, desirous of fighting
@@ -4075,9 +3943,7 @@ Gandiva in battle. And mangled and afflicted by the arrows shot by Partha
 the son of Pandu, Vikartana's son, quitted the van of battle, and quickly
 took to flight, like one elephant vanquished by another.'"
 
-
-
-SECTION LV
+## SECTION LV
 
 "Vaisampayana said, 'After the son of Radha had fled from the field,
 other warriors headed by Duryodhana, one after another, fell upon the son
@@ -4218,9 +4084,7 @@ thou carefully guide the steeds. Thus addressed by him, Virata's son, O
 king, guided Savyasachin's car with great alacrity towards the spot where
 Kripa stood anxious to fight.'"
 
-
-
-SECTION LVI
+## SECTION LVI
 
 "Vaisampayana said, 'And the ranks of those fierce bowmen, the Kurus,
 looked like masses of clouds in the rainy season drifting before a gentle
@@ -4265,9 +4129,7 @@ thunderbolt looked exceedingly beautiful on his car. And the slayer of
 Vala, although he steadfastly gazed at his son on the field of battle,
 was not satiated with such gazing,'"
 
-
-
-SECTION LVII
+## SECTION LVII
 
 "Vaisampayana said, 'Beholding the army of the Kurus arrayed in order of
 battle, that descendant of the Kuru race, Partha, addressing Virata's
@@ -4362,9 +4224,7 @@ withstood all those warriors. And those illustrious bulls among men,
 taking Kripa with them who had been deprived of his car, led him away
 from the vicinity of Dhananiaya, the son of Kunti.'"
 
-
-
-SECTION LVIII
+## SECTION LVIII
 
 "Vaisampayana said, 'After Kripa had thus been taken away, the invincible
 Drona of red steeds, taking up his bow to which he had already stringed
@@ -4527,9 +4387,7 @@ opportunity to leave the field. And thereupon the latter, wounded in that
 terrible encounter, and his mail and banner gone sped away by the aid of
 swift horses.'"
 
-
-
-SECTION LIX
+## SECTION LIX
 
 "Vaisampayana said, 'Then, O mighty king, Drona's son rushed to an
 encounter with Arjuna in battle. And beholding his rush to the conflict
@@ -4577,9 +4435,7 @@ foes, leaving Drona's son, all on a sudden rushed towards Karna. And
 rushing towards Karna, with eyes reddened in anger the son of Kunti,
 desirous of a single combat with him, said these words."
 
-
-
-SECTION LX
+## SECTION LX
 
 "Arjuna said, 'The time, O Karna, hath now come for making good thy
 loquacious boast in the midst of the assembly, viz., that there is none
@@ -4640,9 +4496,7 @@ And regaining consciousness, he felt a great pain, and leaving the combat
 fled in a northernly direction. And at this, the mighty car-warrior
 Arjuna and Uttara, both began to address him contumely.'"
 
-
-
-SECTION LXI
+## SECTION LXI
 
 "Vaisampayana said, 'Having defeated Vikartana's son, Arjuna said unto
 the son of Virata, 'Take me towards that division where yonder device of
@@ -4748,9 +4602,7 @@ rushed forward with other cars. Then the unvanquished Vibhatsu, the
 mighty son of Kunti, decked with diadem and sure of aim, simultaneously
 attacked all sides with his arrows.'"
 
-
-
-SECTION LXII
+## SECTION LXII
 
 "Vaisampayana said, 'Then, O thou of the Bharata race, all the great
 car-warriors of the Kurus, united together, began to assail Arjuna to the
@@ -4808,9 +4660,7 @@ could not perceive any interval between his taking up an arrow, and
 fixing it on the bow-string, and letting it off by a stretch of the
 Gandiva.'"
 
-
-
-SECTION LXIII
+## SECTION LXIII
 
 "Vaisampayana said, 'Then while a great havoc was being made among the
 Kurus, Santanu's son, Bhishma, and grandsire of the Bharatas rushed at
@@ -4920,9 +4770,7 @@ car. And beholding him deprived of consciousness the driver of his
 car-steeds, calling to mind the instructions about protecting the
 warriors when in a swoon, led him away for safety.'"
 
-
-
-SECTION LXIV
+## SECTION LXIV
 
 "Vaisampayana said, 'After Bhishma had fled, leaving the van of battle,
 the illustrious son of Dhritarashtra hoisting high flag approached
@@ -4976,9 +4824,7 @@ battle? Neither do I behold thy body-guards. O Duryodhana, before nor
 behind. O foremost of men, fly thou away and save thy life which is dear
 from the hands of Pandu's son.'"
 
-
-
-SECTION LXV
+## SECTION LXV
 
 "Vaisampayana said, 'Thus summoned to battle by the illustrious hero,
 Dhritarashtra's son turned back stung by those censures, like an
@@ -5071,9 +4917,7 @@ most wonderful encounter between Falguna and the Kurus, were highly
 delighted, and went to their respective abodes, reflecting upon Partha's
 feats.'"
 
-
-
-SECTION LXVI
+## SECTION LXVI
 
 "Vaisampayana said, 'Having vanquished the Kurus in battle, that one with
 eyes like those of a bull brought back that profuse cattle wealth of
@@ -5143,9 +4987,7 @@ having vanquished the whole hostile army and recovered the whole of the
 wealth from the Kurus, the heroic son of Virata returned to the city with
 Vrihannala as his car-driver.'"
 
-
-
-SECTION LXVII
+## SECTION LXVII
 
 "Vaisampayana said, 'Having speedily recovered his wealth Virata owning a
 large army entered his city with a cheerful heart, accompanied by the
@@ -5286,9 +5128,7 @@ person or sheddeth my blood except in battle, shall not live. Inflamed
 with rage he will never bear patiently to see me bleeding, but will slay
 Virata even now with his counsellors and troops and steeds.'"
 
-
-
-SECTION LXVIII
+## SECTION LXVIII
 
 "Vaisampayana said, 'Then Bhuminjaya, the eldest son of the king,
 entered, and having worshipped the feet of his father approached Kanka.
@@ -5337,9 +5177,7 @@ those mighty warriors were struck with panic. Without doubt, thou, O bull
 amongst men, has routed the foe and snatched away from them my wealth of
 kine, like his prey from a tiger.'"
 
-
-
-SECTION LXIX
+## SECTION LXIX
 
 "Uttara said, 'The kine have not been recovered by me, nor have the foe
 been vanquished by me. All that hath been accomplished by the son of a
@@ -5384,9 +5222,7 @@ had brought, unto Virata's daughter. And the beautiful Uttara, obtaining
 those new and costly clothes of diverse kinds, became highly glad, along
 with the son of the Matsya king.'"
 
-
-
-SECTION LXX
+## SECTION LXX
 
 "Vaisampayana said, 'Then, on the third day, attired in white robes after
 a bath, and decked in ornaments of all kinds, those great car-warriors,
@@ -5451,9 +5287,7 @@ morality and always abstains from injury. Possessed of such attributes,
 doth not this bull among kings, this son of Pandu, deserve, O monarch, to
 occupy a royal seat?'"
 
-
-
-SECTION LXXI
+## SECTION LXXI
 
 "Virata said, 'If this one, indeed, be the Kuru king Yudhisthira the son
 of Kunti, which amongst these is his brother Arjuna, and which, the
@@ -5551,9 +5385,7 @@ looked at by his brother, Arjuna said unto the Matsya king, 'O monarch, I
 accept thy daughter as my daughter-in-law. And alliance of this kind
 between the Matsya and the Bharatas is, indeed, desirable.'"
 
-
-
-SECTION LXXII
+## SECTION LXXII
 
 "Virata said, 'Why, O best among the Pandavas, dost thou not wish to
 accept as wife this my daughter that I bestow upon thee?'
@@ -5891,3 +5723,6 @@ regards our presence here, we have not acted imprudently when even
 moralists cannot always arrive at right conclusion. It seems that for
 this Duryodhana proceeds to justify that presence in the following
 sentences
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

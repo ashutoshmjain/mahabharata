@@ -1,16 +1,8 @@
-
-
-
-
 # The Mahabharata
 
 of
 
 Krishna-Dwaipayana Vyasa
-
-BOOK 12
-
-## SANTI PARVA
 
 Translated into English Prose from the Original Sanskrit Text
 
@@ -23,15 +15,11 @@ Kisari Mohan Ganguli
 Scanned at sacred-texts.com, 2004. Proofed by John Bruno Hare, November
 2004.
 
-
-
-
-
 THE MAHABHARATA
 
 SANTI PARVA
 
-SECTION I
+## SECTION I
 
 (Rajadharmanusasana Parva)
 
@@ -143,9 +131,7 @@ all this to me. I desire to hear everything from thee, O holy one! Thou
 art acquainted with everything in this world and thou knowest both the
 past and the future!'
 
-
-
-SECTION II
+## SECTION II
 
 "Vaisampayana said, 'That foremost of speakers, the sage Narada, thus
 questioned, narrated everything about the manner in which he who was
@@ -211,9 +197,7 @@ hence or remain, do whatever thou likest.' Thus addressed by the
 Brahmana, Karna, hanging down his head from cheerlessness, returned
 timidly to Rama, reflecting on that matter.'
 
-
-
-SECTION III
+## SECTION III
 
 "Narada said, 'That tiger of Bhrigu's race (viz., Rama), was well-pleased
 with the might of Karna's arms, his affection (for him), his
@@ -286,9 +270,7 @@ be thy equal in battle.' Thus addressed by Rama, Karna came away, having
 duty taken his leave. Arriving then before Duryodhana, he informed him,
 saying, 'I have mastered all weapons!'"
 
-
-
-SECTION IV
+## SECTION IV
 
 "Narada said, 'Having thus obtained weapons from him of Bhrigu's race,
 Karna began to pass his days in great joy, in the company of Duryodhana,
@@ -336,9 +318,7 @@ from the battle with cheerless hearts. Protected by Karna, Duryodhana
 also came away, with a joyous heart, bringing with him the maiden to the
 city called after the elephant.'"
 
-
-
-SECTION V
+## SECTION V
 
 "Narada said, 'Hearing of the fame of Karna's might, the ruler of the
 Magadhas, king Jarasandha, challenged him to a single combat. Both
@@ -372,9 +352,7 @@ Surya himself. Even thus had thy brother been cursed and beguiled by
 many. As, however, he has fallen in battle, thou shouldst not grieve for
 that tiger among men!'"
 
-
-
-SECTION VI
+## SECTION VI
 
 "Vaisampayana said, 'Having said these words, the celestial Rishi Narada
 became silent. The royal sage Yudhishthira, filled with grief, became
@@ -403,9 +381,7 @@ filled with anxiety and grief. Afflicted with sorrow, the intelligent
 king, resembling a fire covered with smoke, became overwhelmed with
 despair."
 
-
-
-SECTION VII
+## SECTION VII
 
 Vaisampayana said, "The righteous-souled Yudhishthira, with an agitated
 heart and burning with sorrow, began to grieve for that mighty
@@ -512,9 +488,7 @@ Kuru's race, I have no need for kingdom or for pleasure.' Having said
 these words, king Yudhishthira the just stopped. His younger brother
 Arjuna then addressed him in the following words.
 
-
-
-SECTION VIII
+## SECTION VIII
 
 Vaisampayana said, "Like a person unwilling to forgive an insult, Arjuna
 of keen speech and prowess, and possessed of energy, betraying great
@@ -602,9 +576,7 @@ auspicious path. Its fruits are never destroyed. This is the great path
 called Dasaratha. Abandoning it, O king, to what other path wouldst thou
 betake thyself?'
 
-
-
-SECTION IX
+## SECTION IX
 
 "Yudhishthira said, 'For a little while, O Arjuna, concentrate thy
 attention and fix thy mind and hearing on thy inner soul. If thou
@@ -701,9 +673,7 @@ wisdom and acting in this way, I shall, by betaking myself to that
 fearless path of life, terminate this physical frame that is subject to
 birth, death, decrepitude, disease, and pain.'"
 
-
-
-SECTION X
+## SECTION X
 
 Bhimasena said, "Thy understanding, O king, has become blind to the
 truth, like that of a foolish and unintelligent reciter of the Veda in
@@ -777,9 +747,7 @@ selves. Behold, the world moves on, with every creature on it employed in
 acts proper to its nature. Therefore, one should betake oneself to
 action. The man reft of action can never obtain success.'"
 
-
-
-SECTION XI
+## SECTION XI
 
 "Arjuna said, 'In this connection an old history is cited, viz., the
 discourse between certain ascetics and Sakra, O bull of Bharata's race! A
@@ -862,9 +830,7 @@ a life of domesticity. Therefore, O thou that are conversant with
 righteousness, calling to thy aid that eternal wisdom, rule the wide
 world, O monarch that is now destitute of foes.'
 
-
-
-SECTION XII
+## SECTION XII
 
 "Vaisampayana said, 'Hearing these words of Arjuna, O chastiser of foes,
 Nakula of mighty arms and a broad chest, temperate in speech and
@@ -970,9 +936,7 @@ aid of thy prowess, and having made presents unto persons conversant with
 the Vedas, thou canst, O monarch, go to regions higher than heaven. It
 behoves thee not, O Partha, to indulge in grief."
 
-
-
-SECTION XIII
+## SECTION XIII
 
 "Sahadeva said, 'By casting off all external objects only, O Bharata, one
 does not attain to success. By casting off even mental attachments, the
@@ -1007,9 +971,7 @@ sorrow of a woe-stricken person. True or false, this that has been
 uttered by are, O lord of earth, has been uttered from a due regard for
 thee, O best of Bharatas, that I entertain!"
 
-
-
-SECTION XIV
+## SECTION XIV
 
 Vaisampayana said, "When Kunti's son, king Yudhishthira the just,
 remained speechless after listening to his brothers who were telling
@@ -1102,9 +1064,7 @@ Adore the gods in diverse sacrifices. Fight thy foes. Make gifts of
 wealth and clothes and other objects of enjoyment unto the Brahmanas, O
 best of kings!'
 
-
-
-SECTION XV
+## SECTION XV
 
 Vaisampayana said, "Hearing these words of Yajnasena's daughter, Arjuna
 once more spoke, showing proper regard for his mighty-armed eldest
@@ -1247,9 +1207,7 @@ enters successive bodies. Abandoning forms that are worn out, a creature
 acquires new forms. People capable of seeing the truth regard this
 transformation to be death.'"
 
-
-
-SECTION XVI
+## SECTION XVI
 
 Vaisampayana said, "After the conclusion of Arjuna's speech, Bhimasena of
 great wrath and energy, mustering all his patience, said these words unto
@@ -1315,9 +1273,7 @@ Draupadi's locks.[46] Perform with due rites and profuse presents the
 horse-sacrifice. We, are thy servants, O son of Pritha, as also Vasudeva
 of great energy!'"
 
-
-
-SECTION XVII
+## SECTION XVII
 
 "Yudhishthira said, 'Discontent, heedless attachment to earthly goods,
 the absence of tranquillity, might, folly, vanity, and anxiety,--affected
@@ -1385,9 +1341,7 @@ little and narrow souls, or they who are bereft of understanding, or they
 who are without penances. Indeed, everything rests on the (cultivated)
 understanding!'"
 
-
-
-SECTION XVIII
+## SECTION XVIII
 
 Vaisampayana said, "When Yudhishthira, after saying these words, became
 silent, Arjuna, afflicted by that speech of the king, and burning with
@@ -1499,9 +1453,7 @@ gratifying gods, guests, and all creatures, by worshipping Brahmanas, and
 by truthfulness of speech, we shall certainly attain to desirable regions
 of bliss.'"
 
-
-
-SECTION XIX
+## SECTION XIX
 
 "Yudhishthira said, 'I am conversant with both the Vedas and the
 scriptures that lead to the attainment of Brahma. In the Vedas there are
@@ -1576,9 +1528,7 @@ pious persons that are truly great and that have deep acquaintance with
 the scriptures. O son of Kunti, men acquainted with truth obtain Brahma
 by asceticism and intelligence, and great happiness by renunciation.'
 
-
-
-SECTION XX
+## SECTION XX
 
 Vaisampayana said, "After Yudhishthira had stopped, the great ascetic
 Devasthana, possessed of eloquence, said these words, fraught with
@@ -1622,9 +1572,7 @@ great merit and great happiness. Though a man, he nevertheless vanquished
 Sakra by his wealth. For this reason everything should be applied to
 sacrifice.'"
 
-
-
-SECTION XXI
+## SECTION XXI
 
 "Devasthana said, 'In this connection is cited an old history, viz., the
 discourse that Vrihaspati, asked by Indra, delivered unto him. Vrihaspati
@@ -1674,9 +1622,7 @@ of kings adopt this religion. Practising without heedlessness the duties
 inculcated by that religion, they attain to heaven through those acts of
 theirs.'"
 
-
-
-SECTION XXII
+## SECTION XXII
 
 Vaisampayana said, "After this, Arjuna once more addressed his eldest
 brother of unfading glory, viz., king Yudhishthira of cheerless heart,
@@ -1717,9 +1663,7 @@ ordinances of the Kshatriya religion. That which has happened was
 ordained to happen. Destiny, O tiger among kings, is incapable of being
 resisted.'"
 
-
-
-SECTION XXIII
+## SECTION XXIII
 
 Vaisampayana said, "Thus addressed by Arjuna of curly hair, the Kuru king
 born of Kunti remained speechless. Then the island-born (Vyasa) said
@@ -1835,9 +1779,7 @@ way to grief. O best of all persons conversant with duty, listen to the
 beneficial words of this thy brother. Wielding the rod of chastisement, O
 king, is the duty of kings and not the shaving of the head.'"
 
-
-
-SECTION XXIV
+## SECTION XXIV
 
 Vaisampayana said, "Once more the great sage Krishna-Dwaipayana said
 these words unto Ajatasatru, the son of Kunti: 'Let these great
@@ -1934,9 +1876,7 @@ applaud it, deserving as it is of every applause. Having won heaven and
 acquired the regions reserved for heroes, that high-souled monarch of
 virtuous deeds became crowned with success.'
 
-
-
-SECTION XXV
+## SECTION XXV
 
 Vaisampayana said, "Hearing the words of the Island-born Rishi and seeing
 Dhananjaya angry, Yudhishthira, the son of Kunti, saluted Vyasa and made
@@ -2042,9 +1982,7 @@ heaven. He is the best of kings whose conduct, even after his death, is
 applauded by the inhabitants of city and country and by his counsellors
 and friends."
 
-
-
-SECTION XXVI
+## SECTION XXVI
 
 Vaisampayana said, "In this connection, the high-souled Yudhishthira said
 unto Arjuna these words fraught with reason. 'Thou thinkest, O Partha,
@@ -2130,9 +2068,7 @@ is difficult. These are the two faults connected with wealth even when
 acquired, viz., gift to an undeserving person and abstaining from giving
 unto him that is deserving.'"
 
-
-
-SECTION XXVII
+## SECTION XXVII
 
 "Yudhishthira said, 'In consequence of the fall Abhimanyu of tender
 years, of the sons of Draupadi, of Dhrishtadyumna, of Virata, of king
@@ -2215,9 +2151,7 @@ wealth nor does wealth bring happiness. Since, O son of Kunti, thou hast
 been created by the Maker to engage thyself in Work. Success springs from
 Work. Thou art not fit, O king, to avoid Work.'"
 
-
-
-SECTION XXVIII
+## SECTION XXVIII
 
 Vaisampayana said, "Vyasa then dispelled the grief of the eldest son of
 Pandu., who, burning with sorrow on account of the slaughter of his
@@ -2358,9 +2292,7 @@ himself. Suffer thy soul to be gladdened. The earth has been won by thee
 in the exercise of Kshatriya duties. Enjoy her, O son of Kunti, and do
 not disregard my words.'"
 
-
-
-SECTION XXIX
+## SECTION XXIX
 
 Vaisampayana said, "The foremost of kings, viz., Yudhishthira the son of
 Dharma, still remaining speechless, Pandu's son Arjuna addressed Krishna
@@ -2722,9 +2654,7 @@ be revived and to mingle once more with me (in this life).
 Suvarnashthivin, whom Parvata gave thee and who has been bereft of life.
 Of the splendour of gold, that child shall have a thousand years.'"
 
-
-
-SECTION XXX
+## SECTION XXX
 
 "Yudhishthira said, 'How did the son of Srinjaya become
 Suvarnashthivin?[103] Why also did Parvata give Srinjaya that child? And
@@ -2817,9 +2747,7 @@ heaven and Narada to his home."
 actor in this matter, is here. O best of men, asked by thee, he will tell
 thee everything that happened.'"
 
-
-
-SECTION XXXI
+## SECTION XXXI
 
 Vaisampayana said, "The royal son of Pandu then addressed Narada, saying,
 'O holy one, I desire to hear of the birth of the child whose excreta
@@ -2920,9 +2848,7 @@ austere penances. Rise up, O king, and bear the burthen of this thy
 ancestral kingdom, and perform high and great sacrifices so that thou
 mayst obtain (hereafter) whatever regions may be desired by thee!'"
 
-
-
-SECTION XXXII
+## SECTION XXXII
 
 Vaisampayana said, "Unto king Yudhishthira who still remained speechless
 and plunged in grief, the island-born Vyasa, that great ascetic,
@@ -2991,9 +2917,7 @@ can perform them, but he that dies fails in their performance. Therefore,
 O king without laying down thy life, perform those expiatory acts. If
 thou dost not perform them thou mayst have to repent in the next world.'
 
-
-
-SECTION XXXIII
+## SECTION XXXIII
 
 "Yudhishthira said, 'Sons and grandsons and brothers and sires and
 fathers-in-law and preceptors and maternal uncles and grandsires, many
@@ -3107,9 +3031,7 @@ discharged the duties of a Kshatriya and obtained the earth without a
 thorn in it. Observe thy own duties, O son of Kunti, for then, O Bharata,
 thou shalt be able to obtain happiness in the other world.'"
 
-
-
-SECTION XXXIV-XXXV
+## SECTION XXXIV-XXXV
 
 "Yudhishthira said, 'After doing what acts does a man become liable to
 perform expiation? And what are those acts which he must do for being
@@ -3195,9 +3117,7 @@ is incompetent to render service one is not touched by sin. I have now
 said unto thee those acts by doing which one does not incur sin. I shall
 now speak to thee of expiation in detail.'"
 
-
-
-SECTION XXXVI
+## SECTION XXXVI
 
 "Vyasa said, 'By penances, religious rites, and gifts, O Bharata, a man
 may wash off his sins if he does not commit them again. By subsisting
@@ -3334,9 +3254,7 @@ of such grief that is not becoming a wise man.'
 Yudhishthira the just, having reflected for a short while, said these
 words unto the sage.'"
 
-
-
-SECTION XXXVII
+## SECTION XXXVII
 
 "Yudhishthira said, 'Tell me, O grandfather, what food is clean and what
 unclean, what gift is praiseworthy, and who should be considered
@@ -3485,9 +3403,7 @@ have now told thee in brief, O Yudhishthira, all that was said (by Manu
 on that occasion). This high discourse should be listened to by all, O
 bull of Bharata's race.'"
 
-
-
-SECTION XXXVIII
+## SECTION XXXVIII
 
 "Yudhishthira said, 'O holy and great ascetic, I desire to hear in detail
 what the duties of kings are and what the duties, in full, of all the
@@ -3603,9 +3519,7 @@ the fairest complexion stood at the particular spots. Accompanied by his
 friends, the son of Pandu, adored with sweet speeches, entered the city
 through its well-adorned gate.'"
 
-
-
-SECTION XXXIX
+## SECTION XXXIX
 
 "Vaisampayana said, 'At the time the Parthas entered the city, thousands
 upon thousands of the citizens came out to behold the sight. The
@@ -3695,9 +3609,7 @@ the Brahmanas went away, having gladdened the king with their
 benedictions. The royal son of Pandu also, with all his friends, felt
 great happiness.
 
-
-
-SECTION XL
+## SECTION XL
 
 "Vaisampayana said, 'Then Devaki's son Janardana of universal knowledge
 addressed king Yudhishthira who stood there with his brothers, saying,
@@ -3729,9 +3641,7 @@ Kshatriyas, those high-souled heroes, have all gone to heaven. Do thou
 attend to thy duties now. O thou of unfading glory, let no grief be
 thine. Stay thy foes, protect thy subjects, and worship the Brahmanas.'"
 
-
-
-SECTION XLI
+## SECTION XLI
 
 "Vaisampayana said, 'The royal son of Kunti, freed from grief and the
 fever of his heart, took his seat, with face eastwards, on excellent seat
@@ -3785,9 +3695,7 @@ Bharata, attend without delay to those acts that should next be done.'
 Thus adored by those pious men, king Yudhishthira the just, with his
 friends, became installed on the throne of a large kingdom, O Bharata!'"
 
-
-
-SECTION XLII
+## SECTION XLII
 
 "Vaisampayana said, 'Having heard those words, suitable to time and
 place, of his subjects, king Yudhishthira answered them in the following
@@ -3828,9 +3736,7 @@ Whatever also should be done in respect of the citizens and the residents
 of the provinces should be accomplished by you in your respective
 departments, after taking the king's permission.'"
 
-
-
-SECTION XLIII
+## SECTION XLIII
 
 "Vaisampayana said, 'After this king Yudhishthira of magnanimous soul
 caused the Sraddha rites to be performed of every one of his kinsmen
@@ -3860,9 +3766,7 @@ the destitute and the blind and the helpless by giving them food, clothes
 and shelter. Freed from foes and having conquered the whole Earth, king
 Yudhishthira began to enjoy great happiness.'"
 
-
-
-SECTION XLIV
+## SECTION XLIV
 
 "Vaisampayana said, 'Having got back the kingdom, king Yudhishthira of
 great wisdom and purity, after the ceremony of installation had been
@@ -3921,9 +3825,7 @@ court, the lotus-eyed Krishna became pleased. That foremost one of the
 Yadavas then began to gladden the eldest son of Pandu with many agreeable
 speeches."
 
-
-
-SECTION XLV
+## SECTION XLV
 
 "Vaisampayana said, 'The king dismissed all his subjects, who, commanded
 by the monarch, returned to their respective homes. Comforting his
@@ -3961,9 +3863,7 @@ Arjuna. Feasting on the viands and drinks (that had been kept ready for
 them), the princes passed the night happily. Awaking in the morning with
 well pleased hearts, they presented themselves before king Yudhishthira.'"
 
-
-
-SECTION XLVI
+## SECTION XLVI
 
 "Janamejaya said, 'It behoveth thee, O learned Brahmana, to tell me what
 was next done by Yudhishthira the mighty-armed son of Dharma after he had
@@ -4009,9 +3909,7 @@ that chastiser of foes, viz., king Yudhishthira the just who addressed
 him in that strain the divine Krishna said not a word, for he was then
 rapt in meditation."
 
-
-
-SECTION XLVII
+## SECTION XLVII
 
 "Yudhishthira said, 'How wonderful is this, O thou of immeasurable
 prowess, that thou art rapt in meditation! O great refuge of the
@@ -4101,9 +3999,7 @@ viz., Sugriva and Saivya and the other two, in trappings of gold, yoked
 unto it. Having yoked it, O tiger, among kings, Daruka, with joined
 hands, informed Krishna of the fact.'
 
-
-
-SECTION XLVIII
+## SECTION XLVIII
 
 "Janamejaya said, 'How did the grandsire of the Bharatas, who lay on a
 bed of arrows, cast off his body and what kind of Yoga did he adopt?'
@@ -4392,9 +4288,7 @@ listened to the speeches, fraught with his praise, that were uttered by
 the Brahmanas. The slayer of Kesi, with gladdened heart, saluted the
 people that waited (along the streets) with joined hands and bent heads."
 
-
-
-SECTION XLIX
+## SECTION XLIX
 
 Vaisampayana said, "Then Hrishikesa and king Yudhishthira, and all those
 persons headed by Kripa, and the four Pandavas, riding on those cars
@@ -4434,9 +4328,7 @@ Vaisampayana said,--"The puissant elder brother of Gada then narrated
 unto Yudhishthira of incomparable prowess everything that happened, in
 full detail, as to how the earth had become filled with Kshatriyas."
 
-
-
-SECTION L
+## SECTION L
 
 "Vasudeva said, 'Listen, O son of Kunti, to the story of Rama's energy
 and powers and birth as heard by me from great Rishis discoursing upon
@@ -4644,9 +4536,7 @@ foremost of righteous persons, the high-souled Yadava hero proceeded
 quickly on that car, illumining all the points of the compass like the
 divine Surya himself.'"
 
-
-
-SECTION LI
+## SECTION LI
 
 "Vaisampayana said, 'King Yudhishthira, hearing of those feats of Rama,
 became filled with wonder and said unto Janardana, O thou of Vrishni's
@@ -4785,9 +4675,7 @@ firm in truth but whose learning has been clouded by grief on account of
 the slaughter of his kinsmen, and do thou, by this, quickly dispel that
 grief of his!'
 
-
-
-SECTION LII
+## SECTION LII
 
 "Vaisampayana said, 'Hearing these words of Krishna fraught with Morality
 and profit, Santanu's Bhishma, answered him in the following words.
@@ -4871,9 +4759,7 @@ city whose splendour resembled that of the city of Indra itself,
 proceeded to their respective mansions like tired lions seeking their
 caves.'"
 
-
-
-SECTION LIII
+## SECTION LIII
 
 "Vaisampayana said, 'The slayer of Madhu, retiring to his bed, slept
 happily. Awaking when half a Yama was wanting to usher in the day, he
@@ -4937,9 +4823,7 @@ proceeding towards Brahman. Overcome with fear, the king timidly cast his
 eyes on the mighty-armed hero lying on his bed of arrows like the Sun
 himself dropped from the firmament.'"
 
-
-
-SECTION LIV
+## SECTION LIV
 
 "Janamejaya said, 'When that tiger among men, of righteous soul and great
 energy, firmly adhering to truth and with passions under complete
@@ -5033,9 +4917,7 @@ questioned by thy sons and grandsons, O learned one, about the eternal
 duties (of men), do thou, O bull among the Bharatas, discourse upon them
 on the subject.'"
 
-
-
-SECTION LV
+## SECTION LV
 
 "Vaisampayana said, 'Endued with great energy, the delighter of the Kurus
 (viz., Bhishma), said, 'I shall discourse on the subject of duty. My
@@ -5096,9 +4978,7 @@ his seat. Then Ganga's son, that foremost of bowmen, addressed
 Yudhishthira, saying, 'Do not fear, O best of the Kurus! Ask me, O child,
 without any anxiety.'"
 
-
-
-SECTION LVI
+## SECTION LVI
 
 Vaisampayana said, 'Having bowed unto Hrishikesa, and saluted Bhishma,
 and taken the permission of all the seniors assembled there, Yudhishthira
@@ -5255,9 +5135,7 @@ give the people to understand that the king is very intimate with them
 and loves them dearly. If the king becomes mild and disposed to jest, O
 Yudhishthira, these and many other evils spring from it.'"
 
-
-
-SECTION LVII
+## SECTION LVII
 
 "Bhishma said, 'The king, O Yudhishthira, should always be ready for
 action. That king is not worth of praise who, like a woman, is destitute
@@ -5371,9 +5249,7 @@ scriptures, a king that does not grant protection, a wife that utters
 what is disagreeable, a cow-herd that likes to rove within the village,
 and a barber that is desirous of going to the woods.'"[168]
 
-
-
-SECTION LVIII
+## SECTION LVIII
 
 "Bhishma said, 'Protection of the subject, O Yudhishthira, is the very
 cheese of kingly duties. The divine Vrihaspati does not applaud any other
@@ -5448,9 +5324,7 @@ their ancestors and silently recited the sacred mantras and done other
 auspicious acts, and having performed the evening prayer with due rites,
 those scorchers of foes entered the city called after the elephant."
 
-
-
-SECTION LIX
+## SECTION LIX
 
 Vaisampayana said, "Rising from their beds the next day and performing
 the morning rites laid down in the scriptures, the Pandavas and the
@@ -5797,9 +5671,7 @@ difference between a god and a king. I have now told thee everything
 about the greatness of kings. What other subject is there, O chief of the
 Bharatas, upon which I shall next have to discourse?"
 
-
-
-SECTION LX
+## SECTION LX
 
 Vaisampayana said, "After this, Yudhishthira, saluted his grandsire, viz.
 the son of Ganga, and with joined hands and concentrated attention, once
@@ -5954,9 +5826,7 @@ said that every one with heart free from malice, should perform
 sacrifices, aided by devotion which is sacred, to the best of his power
 and according as he pleases.'"
 
-
-
-SECTION LXI
+## SECTION LXI
 
 "Bhishma said, 'O mighty-armed one, listen now to me, O thou of prowess
 incapable of being baffled, as I mention the names of the four modes of
@@ -6023,9 +5893,7 @@ never engaged with attachment to any kind of acts, never showing favour
 or disfavour to any one, doing good even unto his enemies, these, O sire,
 are the duties laid down for a Brahmacharin!'
 
-
-
-SECTION LXII
+## SECTION LXII
 
 "Yudhishthira said, 'Tell his those duties in respect of persons like
 ourselves which are auspicious, productive of happiness in the future,
@@ -6060,9 +5928,7 @@ influence on the next, are liable to be exhausted. Men, however, are
 always engaged in those acts to which their propensities lead. Those
 propensities, again, lead a living being to every direction.'"[196]
 
-
-
-SECTION LXIII
+## SECTION LXIII
 
 "Bhishma said, 'Drawing the bow-string, destruction of foes, agriculture,
 trade, tending cattle, and serving others for wealth, these are improper
@@ -6164,9 +6030,7 @@ protection given by kingly duties, become liable to attack and
 destruction, and men, full of anxiety, disregard the practices laid down
 for them.'"
 
-
-
-SECTION LXIV
+## SECTION LXIV
 
 "Bhishma said, 'The duties in respect of all the four modes of life,
 those of yatis, O son of Pandu, and the customs relating to the conduct
@@ -6265,9 +6129,7 @@ duties are the foremost of all duties. Those eternal duties, regarded as
 the first in the world, embrace the protection of every creature.
 Themselves eternal, they lead to eternal emancipation.'"
 
-
-
-SECTION LXV
+## SECTION LXV
 
 "Indra said, 'Kshatriya duties, O king, which are possessed of such
 energy, which include in their exercise all other duties, and which are
@@ -6378,9 +6240,7 @@ that circle (of duties) that was first set agoing and to which the
 ancients had recourse. I know, O sinless one, that thou art quite
 competent to do this.'
 
-
-
-SECTION LXVI
+## SECTION LXVI
 
 "Yudhishthira said, 'Thou hast spoken to me about the four modes of human
 life. I desire to know more of-them. Do thou discourse on them in detail.'
@@ -6490,9 +6350,7 @@ concentrated attention to the duty of protecting (thy subjects), O tiger
 among men, thou mayst then, O son of Pandu, obtain the merits of all the
 four modes of life and of all the four orders of men!"
 
-
-
-SECTION LXVII
+## SECTION LXVII
 
 "Yudhishthira said, 'Thou hast said what the duties are of the four modes
 of the life and the four orders. Tell me now, O grandsire, what are the
@@ -6593,9 +6451,7 @@ him), firmly devoted (to those that deserve his respect), and with
 passions under control, he should give unto others their due. Looked upon
 by others he should look at them mildly, sweetly, and handsomely.'
 
-
-
-SECTION LXVIII
+## SECTION LXVIII
 
 "Yudhishthira said, 'Why, O bull of Bharata's race, have the Brahmanas
 said that the king, that ruler of men, is a god?'
@@ -6747,9 +6603,7 @@ eternal abode in heaven.' That best of monarchs, viz., the heroic
 Vasumanas, ruler of Kosala, thus instructed by Vrihaspati the son of
 Angiras, began thenceforth to protect his subjects."
 
-
-
-SECTION LXIX
+## SECTION LXIX
 
 "Yudhishthira said, 'What other special duties remain for the king to
 discharge? How should he protect his kingdom and how subdue his foes? How
@@ -6994,9 +6848,7 @@ thy subjects righteously, with the aid of that great science. By
 protecting the subjects and adopting such a conduct, thou wilt surely
 attain to such blessedness in heaven as is difficult of acquisition."
 
-
-
-SECTION LXX
+## SECTION LXX
 
 "Yudhishthira said, 'By adopting that conduct, O thou that art conversant
 with every kind of behaviour, can a king succeed in easily acquiring,
@@ -7045,9 +6897,7 @@ Yudhishthira, docile in receiving instructions, possessed of great
 intelligence, and protected by Bhima and others, then worshipped his
 grandsire and from that time began to rule according to that teaching.'"
 
-
-
-SECTION LXXI
+## SECTION LXXI
 
 Yudhishthira said, 'Tell me, O grand sire, in what way should the king
 protect his subjects so as to be able to avoid grief and so as not to
@@ -7137,9 +6987,7 @@ kingdom. Do thou protect thy subjects righteously. Gratify Indra with
 offerings of Soma and the friends and well-wishers with the objects of
 their wishes.'"
 
-
-
-SECTION LXXII
+## SECTION LXXII
 
 "Bhishma said, 'That person, O king, who would protect the good and
 punish the wicked, should be appointed as his priest by the king. In this
@@ -7206,9 +7054,7 @@ three worlds as the gift of life. The king is Indra. The king is Yama.
 The king is Dharma. The king assumes different forms. The king sustains
 and supports everything.'"
 
-
-
-SECTION LXXIII
+## SECTION LXXIII
 
 "Bhishma said, 'The king, with an eye to both religious merit and profit
 whose considerations are often very intricate, should, without delay,
@@ -7325,9 +7171,7 @@ Kshatriya, and the Kshatriya to the aggrandisement of the Brahmana.
 Brahmanas should, therefore, be especially and always worshipped by
 kings.'"
 
-
-
-SECTION LXXIV
+## SECTION LXXIV
 
 "Bhishma said, 'It is said that the preservation and growth of the
 kingdom rest upon the king. The preservation and growth of the king rest
@@ -7378,9 +7222,7 @@ fame. The Brahmana should every day perform his religious rites and the
 Kshatriya should always be armed with weapons. Between them they are the
 rightful owners of everything in the universe.'"
 
-
-
-SECTION LXXV
+## SECTION LXXV
 
 "Yudhishthira said, 'Tell me, O grandsire, that conduct by which a king
 succeeds in aggrandising his subjects and earning regions of felicity in
@@ -7481,9 +7323,7 @@ protection of that person who is dignified, courageous, capable of
 smiting, compassionate, with senses under control, affectionate towards
 all, and equitable, and just.'"
 
-
-
-SECTION LXXVI
+## SECTION LXXVI
 
 "Yudhishthira said, 'O grandsire, amongst Brahmanas some are engaged in
 the duties proper to their order, while others are engaged in other
@@ -7524,9 +7364,7 @@ provision has been made for his support, he does not abstain from theft
 he should then, O scorcher of foes be banished from the kingdom with all
 his kinsmen.'"'
 
-
-
-SECTION LXXVII
+## SECTION LXXVII
 
 "Yudhishthira said, 'Of whose wealth, O bull of Bharata's race, is the
 king regarded to be the lord? And what conduct also should the king
@@ -7627,9 +7465,7 @@ class) from their superiors. A king who conducts himself in this way
 towards the people of his city and the provinces, obtains prosperity here
 and residence in heaven with Indra.'"
 
-
-
-SECTION LXXVIII
+## SECTION LXXVIII
 
 "Yudhishthira said, 'It has been said that in seasons of distress a
 Brahmana may support himself by the practice of Kshatriya duties. Can he,
@@ -7757,9 +7593,7 @@ them are like a cloud that does not pour rain. That person who always
 protects the good and restrains the wicked deserves to become a king and
 to govern the world.'"
 
-
-
-SECTION LXXIX
+## SECTION LXXIX
 
 "Yudhishthira said, 'What, O grandsire, should be the acts and what the
 behaviour of persons employed as priests in our sacrifices? What sort of
@@ -7823,9 +7657,7 @@ Pavitra.[241] All kinds of crookedness mean death, and all kinds of
 sincerity are called Brahma. This constitutes the subject of knowledge.
 The rhapsodies of system-builders cannot affect this.--'"
 
-
-
-SECTION LXXX
+## SECTION LXXX
 
 "Yudhishthira said, 'The most trifling act, O grandsire, cannot be
 accomplished by any man if unaided. What then need be said of the king
@@ -7921,9 +7753,7 @@ of hostility and converted into friends. One who always conducts himself
 in this way amid kinsmen and relatives and bears himself thus towards
 friends and foes, succeeds in winning everlasting fame.'"
 
-
-
-SECTION LXXXI
+## SECTION LXXXI
 
 "Yudhishthira said, 'If one does not succeed in winning over one's
 kinsmen and relatives (by this course), they that are intended for
@@ -8006,9 +7836,7 @@ Thou art the lord of all creatures. Thou knowest the past, the present,
 and the future. Thou art the foremost one among all the Yadavas. Relying
 on thee, they expect to live in happiness.'"
 
-
-
-SECTION LXXXII
+## SECTION LXXXII
 
 "Bhishma said, 'This that I have told thee constitutes the first means.
 Listen now, O Bharata to the second means. That man who seeks to advance
@@ -8186,9 +8014,7 @@ performed for the king. Having listened to his beneficial counsels, the
 king of Kosala conquered the whole earth and conducted himself in every
 respect as the sage directed.'"
 
-
-
-SECTION LXXXIII
+## SECTION LXXXIII
 
 "Yudhishthira said, 'What should be the characteristics, O grandsire, of
 the legislators, the ministers of war, the courtiers, the generalissimos,
@@ -8355,9 +8181,7 @@ an open space destitute of grass or grassy bushes and whence the
 surrounding land may be clearly seen, the king should hold consultations
 at the proper time, avoiding faults of speech and gestures.'"
 
-
-
-SECTION LXXXIV
+## SECTION LXXXIV
 
 "'Bhishma said, 'In this connection, O Yudhishthira, the old account of a
 conversation between Vrihaspati and Sakra is cited.'
@@ -8387,9 +8211,7 @@ and good, agreeable, and sweet speeches, has no equal.'
 according to those instructions. Do thou also, O son of Kunti, practise
 this virtue."'
 
-
-
-SECTION LXXXV
+## SECTION LXXXV
 
 "Yudhishthira said, 'O foremost of kings, what is that method by which a
 king ruling his subjects may, in consequence of it, obtain great
@@ -8487,9 +8309,7 @@ have now, O sinless one, declared to thee what the conclusions of the
 scriptures are. Refusal to trust anyone has been said to be one of the
 highest mysteries of king-craft.'"
 
-
-
-SECTION LXXXVI
+## SECTION LXXXVI
 
 "Yudhishthira said, 'What should be the kind of city within which the
 king should himself dwell? Should he select one already made or should he
@@ -8577,9 +8397,7 @@ and of rigid vows they would, if calamity overtakes the king and if he
 solicits protection, grant him what he wants. I have now told thee in
 brief the indications of the city in which the king should reside.'"
 
-
-
-SECTION LXXXVII
+## SECTION LXXXVII
 
 "Yudhishthira said, 'How, O king, may a kingdom be consolidated, and how
 should it be protected? I desire to know this. Tell me all this, O bull
@@ -8703,9 +8521,7 @@ behave with goodness towards the Vaisyas. There is nothing productive of
 greater good to a kingdom, O Yudhishthira, then the adoption of such
 behaviour towards the Vaisyas of the realm.'"
 
-
-
-SECTION LXXXVIII
+## SECTION LXXXVIII
 
 "Yudhishthira said: 'Tell me, O grandsire, how should the king should
 behave if, notwithstanding his great wealth, he desires for more.'
@@ -8791,9 +8607,7 @@ treasury and support thy friends and consolidate thy kingdom thus,
 practising the qualities of truthfulness and sincerity and supported by
 thy friends, treasury and forces!'"
 
-
-
-SECTION LXXXIX
+## SECTION LXXXIX
 
 "Bhishma said, 'Let not such trees as yield edible fruits be cut down in
 thy dominions. Fruits and roots constitute the property of the Brahmanas.
@@ -8872,9 +8686,7 @@ Rakshasas, birds, and animals. These, O Bharata, are the means of
 governing a kingdom and protecting its rulers. I shall again discourse to
 thee on the subject, O son of Pandu!'"
 
-
-
-SECTION XC
+## SECTION XC
 
 "Bhishma said, 'That foremost of all persons conversant with the Vedas,
 viz., Utathya of Angirasa's race, discoursed cheerfully (on former
@@ -8974,9 +8786,7 @@ rob the two. Maidens are deflowered. Such a state of things is said to
 arise from the king's faults. All rights of property come to an end among
 men, when the king, abandoning righteousness, acts heedlessly.'"
 
-
-
-SECTION XCI
+## SECTION XCI
 
 "Utathya said, 'If the deity of the clouds pours rain seasonably and the
 king acts virtuously, the prosperity that ensues maintain the subjects in
@@ -9123,9 +8933,7 @@ unhesitatingly did as he was directed, and became the sole lord of the
 wide earth. Do thou also, O king, act righteously like Mandhatri. Thou
 wilt then, after ruling the earth, obtain an abode in heaven.'"
 
-
-
-SECTION XCII
+## SECTION XCII
 
 "Yudhishthira said, 'How should a righteous king, who is desirous of
 adhering to a course of righteousness, behave? I ask thee this, O
@@ -9182,9 +8990,7 @@ affairs of his kingdom himself, and who in all his acquisitions is guided
 by considerations of virtue, succeed in enjoying happiness for a long
 time.'"[276]
 
-
-
-SECTION XCIII
+## SECTION XCIII
 
 "Vamadeva continued, 'When the king, who is powerful, acts unrighteously
 towards the weak, they who take their birth in his race imitate the same
@@ -9288,9 +9094,7 @@ Nahusha's son Yayati, in declaring the mysteries of king-craft, said that
 a person engaged in ruling men should slay even foes that are
 contemptible.'"
 
-
-
-SECTION XCIV
+## SECTION XCIV
 
 "Vamadeva said, 'The king should win victories without battles. Victories
 achieved by battles are not spoken of highly. O monarch, by the wise.
@@ -9327,9 +9131,7 @@ of victory.'
 was directed. Without doubt, thyself also, following these counsels,
 shalt succeed in conquering both the worlds.'"
 
-
-
-SECTION XCV
+## SECTION XCV
 
 "Yudhishthira said, 'If a Kshatriya desires to subjugate another
 Kshatriya in battle, how should the former act in the matter of that
@@ -9393,9 +9195,7 @@ Then people, beholding him resemble an earthen pot broken on a stony
 surface, speak of him as he deserves. The king should, therefore, seek
 both victory and the enhancement of his resources, by righteous means.'"
 
-
-
-SECTION XCVI
+## SECTION XCVI
 
 "Bhishma said, 'A king should never desire to subjugate the earth by
 unrighteous means, even if such subjugation would make him the sovereign
@@ -9461,9 +9261,7 @@ excellent, and I approve of it wholly. That king who desires his own
 prosperity should seek for conquests by the aid of every kind of
 excellence but never with that of deceit or with pride.'"
 
-
-
-SECTION XCVII
+## SECTION XCVII
 
 "Yudhishthira said. 'There are no practices, O king, more sinful than
 those of the Kshatriyas. In marching or in battle, the king slays large
@@ -9541,9 +9339,7 @@ encountered death in the midst, of foes without displaying ignoble fear
 or cheerlessness, he has succeeded in earning regions hereafter of
 eternal bliss.'"
 
-
-
-SECTION XCVIII
+## SECTION XCVIII
 
 "Yudhishthira said, 'Tell me, O grand-sire, what regions are earned by
 unreturning heroes by encountering death in battle."
@@ -9688,9 +9484,7 @@ king Amvarisha comprehended how warriors succeed, (by battle as their
 means) in compassing success for themselves (in respect of winning
 regions of beatitude in heaven).'"
 
-
-
-SECTION XCIX
+## SECTION XCIX
 
 "Bhishma said, 'In this connection is cited the old story of the battle
 between Pratardana and the ruler of Mithila. The ruler of Mithila, viz.,
@@ -9736,9 +9530,7 @@ circumstance. There is nothing higher in the three worlds than heroism.
 The hero protects and cherishes all, and all things depend upon the
 hero.'"
 
-
-
-SECTION C
+## SECTION C
 
 "Yudhishthira said, 'Tell me, O grandsire, how kings desirous of victory
 should, O bull of Bharata's race, lead their troops to battle even by
@@ -9879,9 +9671,7 @@ strike at your foes!' Those that are in advance of the rest should utter
 loud shouts and make diverse kinds of noises, and should blow and beat
 Krakachas, cow-horns, drums, cymbals, and kettle-drums.'"
 
-
-
-SECTION CI
+## SECTION CI
 
 "Yudhishthira said, 'Of what disposition, of what behaviour, of what
 form, how acoutred, and how armed should the combatants be in order that
@@ -9940,9 +9730,7 @@ retreating. Of wicked behaviour and outlandish manners, they regard soft
 speeches as indications of defeat. If treated with mildness, they always
 exhibit wrath against their sovereign.'"
 
-
-
-SECTION CII
+## SECTION CII
 
 "Yudhishthira said. 'What are the well-known indications, O bull of
 Bharata's race, of the (future) success of an army? I desire to know
@@ -10060,9 +9848,7 @@ therefore, by abandoning deceitfulness, seek to obtain the trust of all
 creatures. He should also seek to protect his subjects from all fears if
 he seek to enjoy the earth.'"
 
-
-
-SECTION CIII
+## SECTION CIII
 
 "Yudhishthira said, 'Tell me, O grandsire, how a kin should behave
 towards foe that is mild, towards one that is fierce, and towards one
@@ -10223,9 +10009,7 @@ employed in subduing his foes, acted strictly according to them. Bent
 upon victory, that slayer of foes, when the opportunity came, obeyed
 these instructions and reduced all his enemies to subjection.'"
 
-
-
-SECTION CIV
+## SECTION CIV
 
 "Yudhishthira said, 'How should a righteous king, who is opposed by his
 own officers, whose treasury and army are no longer under his control,
@@ -10375,9 +10159,7 @@ prosperity is almost impossible to recover, and when thou art without
 ministers and counsellors, such a course is open to thee. Dost thou hope
 to reap any benefit by depending upon destiny?'"
 
-
-
-SECTION CV
+## SECTION CV
 
 "The sage said, 'If, on the other hand, O Kshatriya, thou thinkest that
 thou hast any prowess still, I shall discourse to thee about that line of
@@ -10452,9 +10234,7 @@ These and many other well-devised schemes are available, all connected
 with fraud. An intelligent person can thus destroy the population of a
 hostile kingdom with poison.'"
 
-
-
-SECTION CVI
+## SECTION CVI
 
 "The king said, 'I do not desire, O Brahmana, to support life by deceit
 or fraud. I do not desire wealth, however great, which is to be earned by
@@ -10529,9 +10309,7 @@ guest his own daughter and diverse kinds of gems and jewels. This (the
 establishment of peace) is the high duty of kings; victory and defeat are
 both uncertain.'"
 
-
-
-SECTION CVII
+## SECTION CVII
 
 "Yudhishthira said, 'Thou hast, O scorcher of foes, described the course
 of duties, the general conduct, the means of livelihood, with their
@@ -10622,9 +10400,7 @@ disunion and gifts that it can be reduced to subjugation. For this
 reason, combination has been said to be the great refuge of the
 aristocracy.'"[331]
 
-
-
-SECTION CVIII
+## SECTION CVIII
 
 "Yudhishthira said, 'The path of duty is long. It has also, O Bharata,
 many branches. What, however, according to thee, are those duties that
@@ -10714,9 +10490,7 @@ that a person should do in this world. Besides those duties that I have
 indicated, there is nothing productive of greater felicity. Thinking of
 all duties, I have told thee their essence.'"
 
-
-
-SECTION CIX
+## SECTION CIX
 
 "Yudhishthira said, 'How, O Bharata, should a person act who desires to
 adhere to virtue? O bull of Bharata's race, possessed as thou art of
@@ -10797,9 +10571,7 @@ vultures. One should, in any matter, behave towards another as that other
 behaves in that matter. He who practises deceit should be resisted with
 deceit while one that is honest should be treated with honesty.'"
 
-
-
-SECTION CX
+## SECTION CX
 
 "Yudhishthira said, 'Creatures are seen to be afflicted by diverse means
 and almost continually. Tell me, O grandsire, in what way can one
@@ -10878,9 +10650,7 @@ Brahmanas, succeed in overcoming all difficulties. I have now, O sinless
 one, told thee all those acts by which men may overcome all difficulties
 both here and hereafter.'"
 
-
-
-SECTION CXI
+## SECTION CXI
 
 "Yudhishthira said, 'Many persons here that are not really of tranquil
 souls appear in outward form as men of tranquil souls. There are again
@@ -11122,9 +10892,7 @@ retired to the forest. Without listening to the entreaties of the king of
 beasts, the intelligent jackal cast off his body by sitting in praya and
 proceeded to heaven (as the reward of his good deeds on earth).'"
 
-
-
-SECTION CXII
+## SECTION CXII
 
 "Yudhishthira said, 'What acts should be done by a king, and what are
 those acts by doing which a king may become happy? Tell me this in
@@ -11184,9 +10952,7 @@ down in the scriptures. I, also, with sight directed to the scriptures,
 have said the same to thee. Exercising thy intelligence, do thou act in
 this world, O king!'"
 
-
-
-SECTION CXIII
+## SECTION CXIII
 
 "Yudhishthira said, 'Tell me O bull of Bharata's race, how a king,
 without the usual aids, having obtained a kingdom that is so precious a
@@ -11229,9 +10995,7 @@ himself and his foe, has never to suffer discomfiture. An intelligent
 man, therefore, when he sees his enemy to be more powerful than himself,
 should adopt the behaviour of the cane. That is an indication of wisdom.'"
 
-
-
-SECTION CXIV
+## SECTION CXIV
 
 "Yudhishthira said, 'How, O Bharata, should a learned man adorned with
 modesty behave, O chastiser of foes, when assailed with harsh speeches in
@@ -11294,9 +11058,7 @@ man who endures the reproaches and slanders of wicked-souled wights
 uttered in assemblies, or who reads frequently these instructions, never
 suffers any pain occasioned by speech.'
 
-
-
-SECTION CXV
+## SECTION CXV
 
 "Yudhishthira said, 'O grandsire, O thou that art possessed of great
 wisdom, I have one great doubt that perplexes me. Thou shouldst, O king,
@@ -11365,9 +11127,7 @@ king who attaches his subjects to himself by kindness, who is conversant
 with the duties of kings, and who attends to the aggregate of six.
 succeeds in earning the merit that attaches to sovereignty.'"
 
-
-
-SECTION CXVI
+## SECTION CXVI
 
 "Bhishma said, 'In this connection is cited the following history of
 olden times. That history is regarded as a high precedent amongst good
@@ -11432,9 +11192,7 @@ roots. Indeed, from that time, O monarch, the transformed tiger lived,
 subsisting upon the other animals of the forest, like a true king of
 beasts.'
 
-
-
-SECTION CXVII
+## SECTION CXVII
 
 "Bhishma said, 'The dog transformed into a tiger, gratified with the
 flesh of slain beasts, slept at his ease. One day as he lay on the yard
@@ -11494,9 +11252,7 @@ that mean and foolish animal of wicked soul, transformed into a Sarabha
 once more assumed, in consequence of the Rishi's curse, his own proper
 form of a dog.'"
 
-
-
-SECTION CXVIII
+## SECTION CXVIII
 
 "Bhishma said, 'Having once more assumed his proper form, the dog became
 very cheerless. The Rishi, reproving him, drove the sinful creature from
@@ -11579,9 +11335,7 @@ rulers. A king who has succeeded in attaching all men unto himself, may,
 O Bharata, with the aid of even a thousand horsemen of courage, succeed
 in conquering the whole earth.'"
 
-
-
-SECTION CXIX
+## SECTION CXIX
 
 "Bhishma said, 'That king who, guided by the lesson to be drawn from the
 story of the dog, appoints his servants to offices for which each is fit,
@@ -11637,9 +11391,7 @@ precedent of the dog I have instructed thee about the duties thou
 shouldst adopt towards thy subjects. What further dost thou wish to
 hear?'"
 
-
-
-SECTION CXX
+## SECTION CXX
 
 "Yudhishthira said, 'Thou hast, O Bharata, discoursed upon the many
 duties of king-craft that were observed and laid down in days of old by
@@ -11819,9 +11571,7 @@ have told thee. Set thy heart upon the duty of protecting men. Thou mayst
 then easily obtain the reward of virtue. All the regions of felicity
 hereafter are dependent upon merit!'"[361]
 
-
-
-SECTION CXXI
+## SECTION CXXI
 
 "Yudhishthira said, 'O grandsire, thou hast now finished thy discourse
 upon the duties of kings. From what thou hast said it seems that
@@ -11974,9 +11724,7 @@ down the following in respect of Vyavahara: Neither mother, nor father,
 nor brother, nor wife, nor priest, is unpunishable with that king who
 rules agreeably to his duty.
 
-
-
-SECTION CXXII
+## SECTION CXXII
 
 "Bhishma said, 'In this connection is cited the old story that follows.
 There was among the Angas a king of great splendour, called Vasuhoma.
@@ -12119,9 +11867,7 @@ tenure, is sure to obtain the fruition of all his wishes. I have now, O
 bull among men, told thee everything as to who Chastisement is, that
 restrainer of the universe which is governed by righteousness.'"
 
-
-
-SECTION CXXIII
+## SECTION CXXIII
 
 "Yudhishthira said, 'I wish, O sire, to hear the settled conclusions on
 the subject of Virtue, Wealth, and Pleasure. Depending upon which of
@@ -12200,9 +11946,7 @@ all his sins will be destroyed. Thou shouldst accomplish all those high
 duties which thy seniors and preceptors would indicate. Thou art sure to
 obtain great blessing through the grace of thy seniors and preceptors.'"
 
-
-
-SECTION CXXIV
+## SECTION CXXIV
 
 "Yudhishthira said, 'All persons on earth, O foremost of men, applaud
 virtuous behaviour. I have, however, great doubts with respect to this
@@ -12399,9 +12143,7 @@ of Yudhishthira.'
 son. Do thou act according, to these instructions, O son of Kunti, and
 thou wilt then surely obtain their fruit.'"
 
-
-
-SECTION CXXV
+## SECTION CXXV
 
 "Yudhishthira said, 'Thou hast said, O grandsire, that behaviour is the
 first (of requisites for a man). Whence, however, does Hope arise? Tell
@@ -12445,9 +12187,7 @@ miles ahead of the range of the shaft. That arrow of blazing splendour
 accordingly fell on the ground. The deer entered a large forest but the
 king still continued the chase.'"
 
-
-
-SECTION CXXVI
+## SECTION CXXVI
 
 "Bhishma said, 'The king, having entered that large forest, came upon an
 asylum of ascetics. Fatigued with the toil he had undergone, he sat
@@ -12492,9 +12232,7 @@ would not wish you to speak. If the question asked by me be a worthy
 topic of discourse, I would then wish to hear the cause in detail.
 Devoted to penances as ye are, do ye all instruct me on the subject.'"
 
-
-
-SECTION CXXVII
+## SECTION CXXVII
 
 "Bhishma said, 'Then that best of Rishis, viz., the regenerate Rishabha,
 sitting in the midst of all those Rishis, smiled a little and said these
@@ -12558,9 +12296,7 @@ among kings, sat there, surrounding that bull among men like the stars of
 the constellation of Ursa Major surrounding the Pole star. And they asked
 the unvanquished king as to the cause of his arrival at that asylum.'"
 
-
-
-SECTION CXXVIII
+## SECTION CXXVIII
 
 "The king said, 'I am a king called by the name of Viradyumna. My fame
 has spread in all directions. My son Bhuridyumna hath been lost. It is in
@@ -12643,9 +12379,7 @@ mine, be calm and collected like Himavat. Overcome with distress,[387]
 thou hast questioned me and heard my answer. Having heard it. O monarch,
 it behoves thee to dispel these regrets of thine!'
 
-
-
-SECTION CXXIX
+## SECTION CXXIX
 
 "Yudhishthira said, 'Like one that drinks nectar I am never satiated with
 listening to thee as thou speakest. As a person possessing a knowledge of
@@ -12677,9 +12411,7 @@ father. One should also perform Horse-sacrifices with presents in
 profusion unto the Brahmanas. By such acts one wins many regions (of
 felicity) of wonderful aspect.'"
 
-
-
-SECTION CXXX
+## SECTION CXXX
 
 "Yudhishthira said, 'What course of conduct should be adopted by a king
 shorn of friends, having many enemies, possessed of an exhausted
@@ -12835,9 +12567,7 @@ also. The treasury, however, should be filled by the aid of righteousness
 and never by unrighteous practices, such, that is, as pass for righteous
 in times of distress.
 
-
-
-SECTION CXXXI
+## SECTION CXXXI
 
 (Apaddharmanusasana Parva)
 
@@ -12885,9 +12615,7 @@ If he succeeds in slaying (his enemies), he is sure to enjoy the earth.
 By laying down one's life in battle, one obtains the companionship of
 Indra himself.'"
 
-
-
-SECTION CXXXII
+## SECTION CXXXII
 
 "Yudhishthira said, 'When practices fraught with high morality and
 beneficial to the world, (viz., those that appertain to righteous rule)
@@ -12953,9 +12681,7 @@ should one seek to discover the reasons of duties. This should a man
 tread with humility along the path trod by the good. Such, indeed, was
 the conduct of the great royal sages of old, O Yudhishthira!'"
 
-
-
-SECTION CXXXIII
+## SECTION CXXXIII
 
 "Bhishma said, 'The king should, by drawing wealth from his own kingdom
 as also from the kingdoms of his foes, fill his treasury. From the
@@ -13016,9 +12742,7 @@ that do not exterminate them outright have no fear of extermination to
 themselves. They, however, that do exterminate them have always to live
 in fear in consequence of that act.'"
 
-
-
-SECTION CXXXIV
+## SECTION CXXXIV
 
 "Bhishma said, 'In this connection, persons acquainted with the
 scriptures declare this text in respect of duty, viz., for a Kshatriya
@@ -13068,9 +12792,7 @@ respect in this world and great rewards in the next, and enjoys diverse
 kinds of happiness here by following such conduct and by sharing his
 wealth with others.'"
 
-
-
-SECTION CXXXV
+## SECTION CXXXV
 
 "Bhishma said, 'In this connection is cited the old story of a robber who
 having in this would been observant of restraints did not meet with
@@ -13140,9 +12862,7 @@ from any creature, O Bharata! He will have no fear from wicked men. If
 such a man goes to the forest, he will be able to live there with the
 security of a king.'"
 
-
-
-SECTION CXXXVI
+## SECTION CXXXVI
 
 "Bhishma said, 'In this connection, viz., the method by which a king
 should fill his treasury, persons acquainted with the scriptures of olden
@@ -13176,9 +12896,7 @@ on the earth, if pounded between two stones, becomes finer and finer,
 even so questions of morality, the more they are reflected upon and
 discussed, become finer and finer.'"
 
-
-
-SECTION CXXXVII
+## SECTION CXXXVII
 
 "Bhishma said, 'These two, viz., one that provides for the future, and
 one possessed of presence of mind, always enjoy happiness. The man of
@@ -13240,9 +12958,7 @@ achieving much. Those again that act with due regard to time and place
 succeed in winning results better than the mere man of foresight and the
 man of presence of mind.'"
 
-
-
-SECTION CXXXVIII
+## SECTION CXXXVIII
 
 "Yudhishthira said, 'Thou hast, O bull of Bharata's race, said that that
 intelligence which provides against the future, as well as that which can
@@ -13766,9 +13482,7 @@ mouse and the cat, this history couched in excellent words and capable of
 sharpening the intelligence, a king should always conduct himself in the
 midst of his foes.'"
 
-
-
-SECTION CXXXIX
+## SECTION CXXXIX
 
 "Yudhishthira said, 'Thou hast laid it down, O mighty one, that no trust
 should be placed upon foes. But how would the king maintain himself if he
@@ -14072,9 +13786,7 @@ king Brahmadatta, took the king's leave and proceeded to the region she
 chose. I have thus recited to thee, O foremost of kings, the discourse
 between Brahmadatta and Pujani. What else dost thou wish to hear?'
 
-
-
-SECTION CXL
+## SECTION CXL
 
 "Yudhishthira said, 'When both righteousness and men, O Bharata, decay in
 consequence of the gradual lapse of Yuga, and when the world becomes
@@ -14276,9 +13988,7 @@ these words spoken by that Brahmana inspired with the desire of doing him
 good, obeyed those instructions cheerfully and obtained with his kinsmen
 and friends blazing prosperity.'"
 
-
-
-SECTION CXLI
+## SECTION CXLI
 
 "Yudhishthira said, 'When the high righteousness suffers decay and is
 transgressed by all, when unrighteousness becomes righteousness, and
@@ -14594,9 +14304,7 @@ and possessed of learning should live and act in this world, relying upon
 his own intelligence in discriminating between righteousness and its
 reverse.'"
 
-
-
-SECTION CXLII
+## SECTION CXLII
 
 "Yudhishthira said, 'If that which is so horrible and which like
 falsehood should never be an object of regard, be cited (as duty), then
@@ -14708,9 +14416,7 @@ O king. If they be gratified, high fame will be thy share. If otherwise,
 great will be thy fear. If gratified, the Brahmanas become like nectar.
 If enraged, they become like poison.'"
 
-
-
-SECTION CXLIII
+## SECTION CXLIII
 
 "Yudhishthira said, 'O grandsire, O thou of great wisdom, O thou that are
 conversant with every kind of scripture, tell me what the merit is of one
@@ -14793,9 +14499,7 @@ these words, he spread some leaves for a bed, and laid himself down on
 it, resting his head on a stone. Though overwhelmed with affliction, the
 man soon fell asleep.'"
 
-
-
-SECTION CXLIV
+## SECTION CXLIV
 
 "Bhishma said, 'In one of the branches of that tree, a pigeon with
 beautiful feathers, O king, lived for many years with his family. That
@@ -14835,9 +14539,7 @@ acquisition of religious merit. He that has not in his house a wife that
 is chaste and of agreeable speech, should go to the woods. For such a man
 there is no difference between home and wilderness.'"
 
-
-
-SECTION CXLV
+## SECTION CXLV
 
 "Bhishma said, 'Hearing those piteous lamentations of the pigeon on the
 tree, the she-pigeon seized by the fowler began to say to herself as
@@ -14872,9 +14574,7 @@ overcome with sorrow, and casting her eyes upon her lord from the
 fowler's cage within which she had been immured, said these words unto
 him.'"
 
-
-
-SECTION CXLVI
+## SECTION CXLVI
 
 "Bhishma said, 'Hearing these words fraught with morality and reason that
 were spoken by his wife, the pigeon became filled with great delight and
@@ -14927,9 +14627,7 @@ reprobation. Indeed, observing the bird lay down his life, the fowler,
 deprecating his own acts, began to indulge in copious lamentations like
 thee.'"
 
-
-
-SECTION CXLVII
+## SECTION CXLVII
 
 "Bhishma said, 'The fowler, seeing the pigeon fall into the fire, became
 filled with compassion and once more said, 'Alas, cruel and senseless
@@ -14957,9 +14655,7 @@ rigid vows. He threw away his stout staff, his sharp-pointed iron-stick,
 his nets and springes, and his iron cage, and set at liberty the
 she-pigeon that he had seized and immured.'"
 
-
-
-SECTION CXLVIII
+## SECTION CXLVIII
 
 "Bhishma said, 'After the fowler had left that spot, the she-pigeon,
 remembering her husband and afflicted with grief on his account, wept
@@ -14992,9 +14688,7 @@ on his own celestial car, the bird ascended to heaven, and obtaining
 proper honours for his deeds in this world, continued to sport in joy,
 accompanied by his wife.'"
 
-
-
-SECTION CXLIX
+## SECTION CXLIX
 
 "Bhishma said, 'The fowler, O king, happened to see that pair while
 seated on their celestial car. Beholding the couple he became filled with
@@ -15042,9 +14736,7 @@ never be cleansed who slays a suppliant. By listening to this sacred and
 sin-cleansing story one becomes freed from distress and attains to heaven
 at last.'"
 
-
-
-SECTION CL
+## SECTION CL
 
 "Yudhishthira said, 'O best of the Bharatas, when a person commits sin
 from want of judgment, how may he be cleansed from it? Tell me everything
@@ -15091,9 +14783,7 @@ thou thinkest, O king, that this world is nothing and that the next world
 is the shadow of a shadow, the myrmidons of Yama in the infernal regions
 will convince thee, dispelling thy unbelief.'"
 
-
-
-SECTION CLI
+## SECTION CLI
 
 "Bhishma said, 'Thus addressed, Janamejaya replied unto the sage, saying,
 'Thou rebukest one that deserves to be rebuked. Thou censurest one that
@@ -15158,9 +14848,7 @@ that thou wilt not again injure the Brahmanas.'
 "Janamejaya said, 'I swear, touching even thy feet, that I shall never
 again, in thought, word, or deed, injure the Brahmanas.'"
 
-
-
-SECTION CLII
+## SECTION CLII
 
 "Saunaka said, 'I shall for these reasons discourse to thee of
 righteousness, to thee whose heart has been exceedingly agitated.
@@ -15267,9 +14955,7 @@ regaining blessedness, shone with splendour like a blazing fire, and that
 slayer of foes then entered his kingdom like Soma in his full form
 entering heaven.'"
 
-
-
-SECTION CLIII
+## SECTION CLIII
 
 "Yudhishthira said, 'Hast thou, O grandsire, ever seen or heard of any
 mortal restored to life after having succumbed to death?'
@@ -15572,9 +15258,7 @@ has been laid down for all the four orders. By frequently listening to
 this auspicious story fraught with virtue, profit, and salvation, a man
 obtains happiness both here and hereafter.'"
 
-
-
-SECTION CLIV
+## SECTION CLIV
 
 "Yudhishthira said, "If a person, weak, worthless, and light-hearted, O
 grand sire, doth from folly provoke, by means of unbecoming and boastful
@@ -15625,9 +15309,7 @@ every kind. Resorted to also by Brahmanas crowned with ascetic success,
 by others engaged in penances, and by Yatis devoted to
 contemplation,[454] this thy region, I think, resembles heaven itself.'"
 
-
-
-SECTION CLV
+## SECTION CLV
 
 "Narada said, 'Without doubt, O Salmali, the terrible and irresistible
 god of the wind always protects thee from friendliness or amity. It
@@ -15676,9 +15358,7 @@ heads in respect to that deity. Thou, however, through folly, knowest not
 the infinite might of the Wind. I shall, therefore, repair to the
 presence of that god (for apprising him of thy contempt for him).'"
 
-
-
-SECTION CLVI
+## SECTION CLVI
 
 "Bhishma continued, 'Having said these words unto the Salmali. that
 foremost of all persons conversant with Brahma, viz., Narada, represented
@@ -15729,8 +15409,6 @@ however, are destitute of understanding, and, therefore, they do not
 know, as I know, why or how the Wind succeeds in shaking and tearing them
 up.'"
 
-
-
  SECTION CLVII
 
 "Bhishma said, 'Having settled this in his mind, the Salmali. in sorrow,
@@ -15774,9 +15452,7 @@ the field of battle, relying on his own strength. I have. O Bharata,
 discoursed to thee of the duties of kings and the morality of duties in
 detail. What else. O king, dost thou wish to hear!'"
 
-
-
-SECTION CLVIII
+## SECTION CLVIII
 
 "Yudhishthira said, 'I desire, O bull of Bharata's race, to hear in
 detail the source from which sin proceeds and the foundation upon which
@@ -15877,9 +15553,7 @@ blessed one, one's words become productive of good only through the
 favour of the gods. Under other circumstances, words produce evil
 consequence."[455]'
 
-
-
-SECTION CLIX
+## SECTION CLIX
 
 "Yudhishthira said, 'Thou hast said, O grandsire, that the foundation of
 all evils is covetousness. I wish, O sire, to hear of ignorance in
@@ -15920,9 +15594,7 @@ avoid covetousness by a strong resolution, O chief of the Kurus! Avoiding
 covetousness thou shalt obtain happiness both here and in the next
 world.'"
 
-
-
-SECTION CLX
+## SECTION CLX
 
 "Yudhishthira said, 'O grandsire, O thou of virtuous soul, what, indeed,
 is said to be productive of great merit[458] for a person attentively
@@ -16023,9 +15695,7 @@ that foremost of virtuous men. That perpetuator of Kuru's race
 (questioned by his grandson) once more began to discourse cheerfully (on
 the topic raised).'"
 
-
-
-SECTION CLXI
+## SECTION CLXI
 
 "Bhishma said, 'They that are possessed of knowledge say that everything
 has penance for its root. That foolish person who has not undergone
@@ -16063,9 +15733,7 @@ their superiority These (luminaries in the firmament) that have got their
 shares of felicity, are always the results of penance. Without doubt,
 through penance the very status of godhead may be acquired.'"
 
-
-
-SECTION CLXII
+## SECTION CLXII
 
 "Yudhishthira said, 'Brahmanas and Rishis and Pitris and the gods all
 applaud the duty of truth. I desire to hear of truth. Discourse to me
@@ -16133,9 +15801,7 @@ leads to righteousness. Once on a time a thousand horse-sacrifices and
 Truth were weighed against each other in the balance. Truth weighed
 heavier than a thousand horse-sacrifices."'
 
-
-
-SECTION CLXIII
+## SECTION CLXIII
 
 "Yudhishthira said, 'Tell me, O thou of great wisdom, everything about
 that from which spring wrath and lust, O bull of Bharata's race, and
@@ -16196,9 +15862,7 @@ faults stained the sons of Dhritarashtra. Thyself, always desirous of
 truth, hast conquered all of those vices in consequence of thy regard for
 seniors.'"
 
-
-
-SECTION CLXIV
+## SECTION CLXIV
 
 "Yudhishthira said, 'I know what benevolence is, in consequence of my
 observation of persons that are good. I do not, however, know them that
@@ -16238,8 +15902,6 @@ felicity in the next world and infinite happiness here. I have now, O
 chief of the Bharatas, said unto thee what the indications are of the
 wicked and malevolent man. Such a person should always be avoided by a
 man of wisdom.'"
-
-
 
  SECTION CLXV
 
@@ -16471,9 +16133,7 @@ that period upon air alone. These are the eternal injunctions laid down
 for the expiation of sin, especially for a Brahmana who has committed
 these sins through ignorance and want of judgment.'"
 
-
-
-SECTION CLXVI
+## SECTION CLXVI
 
 "Vaisampayana said, 'Upon the completion of this discourse, Nakula who
 was an accomplished swordsman thus questioned the Kuru grandsire lying on
@@ -16678,9 +16338,7 @@ about the origin and creation of the sword, O bull of Bharata's race! By
 listening to this excellent story of the origin of the sword, a man
 succeeds in winning fame in this world and eternal felicity in the next.'"
 
-
-
-SECTION CLXVII
+## SECTION CLXVII
 
 "Vaisampayana said, 'When Bhishma, after having said this, became silent,
 Yudhishthira (and the others) returned home. The king addressing his
@@ -16845,9 +16503,7 @@ return, possessed of great energy, praised his convinced auditors; and
 once more the king addressed the son of the foremost of rivers, possessed
 of a high soul, for enquiring about duties.'"
 
-
-
-SECTION CLXVIII
+## SECTION CLXVIII
 
 "Yudhishthira said, 'O grandsire, O thou that art possessed of great
 wisdom, I shall ask thee a question. It behoveth thee, O enhancer of the
@@ -17003,9 +16659,7 @@ newly-arrived Brahmana, full of compassion as he was, passed the night
 there, refraining to touch anything. Indeed, though hungry and requested
 repeatedly the guest refused to touch any food in that house.'"
 
-
-
-SECTION CLXIX
+## SECTION CLXIX
 
 "Bhishma said, 'After that night had passed away and that best of
 Brahmanas had left the house, Gautama, issuing from his abode, began to
@@ -17068,9 +16722,7 @@ come to my abode, thou art today my dear and excellent guest. Having
 received my worship according to the rites laid down in the scriptures,
 thou mayst go whither thou wilt tomorrow morning.'"
 
-
-
-SECTION CLXX
+## SECTION CLXX
 
 "Bhishma said, 'Hearing these sweet words, Gautama became filled with
 wonder. Feeling at the same time a great curiosity, he eyed Rajadharman
@@ -17135,9 +16787,7 @@ city, he became filled with wonder. Soon he entered the king's palace in
 the company of the messengers solicitous of obtaining a sight of the king
 of the Rakshasas.'"
 
-
-
-SECTION CLXXI
+## SECTION CLXXI
 
 "Bhishma said, 'Led into a spacious apartment, Gautama was introduced to
 the king of the Rakshasas. Worshipped by the latter (with the usual
@@ -17227,9 +16877,7 @@ he then conceived, 'This prince of cranes, so large and containing a heap
 of flesh, stayeth by my side. Staying and bagging him, I shall leave this
 spot and go along with great speed.'"
 
-
-
-SECTION CLXXII
+## SECTION CLXXII
 
 "Bhishma said, 'There, under that banian, for the protection of his
 guest, the prince of birds had kindled and kept up a fire with high and
@@ -17289,9 +16937,7 @@ for an ungrateful person. That cruel and vile man who injures a friend
 and becomes ungrateful, is not eaten by the very cannibals nor by the
 worms that feed on carrion.'
 
-
-
-SECTION CLXXIII
+## SECTION CLXXIII
 
 "Bhishma said, 'The Rakshasa king then caused a funeral pyre to be made
 for that prince of cranes and adorned it with jewels and gems, and
@@ -17353,10 +16999,6 @@ and who injures his friend. What else dost thou wish to hear?'
 
 "Vaisampayana continued, 'Hearing these words spoken by the high-souled
 Bhishma, Yudhishthira, O Janamejaya, became highly gratified.'
-
-
-
-
 
  SECTION CLXXIV
 
@@ -17542,9 +17184,7 @@ and hope, Pingala sleeps in felicity.'
 learned Brahmana, king Senajit (casting off his grief), experienced
 delight and became very happy.'"
 
-
-
-SECTION CLXXV
+## SECTION CLXXV
 
 "Yudhishthira said, 'Time, which is destructive of every created thing,
 is passing on.[512] Tell me, O grandsire, what is that good thing which
@@ -17662,9 +17302,7 @@ is concealed in a cave. Where are thy grandsires and where thy sire?'[520]
 in which the sire (in this story), conducts himself, devoted to the
 religion of Truth, after having listened to the speech of his son.'
 
-
-
-SECTION CLXXVI
+## SECTION CLXXVI
 
 "Yudhishthira said, 'Tell me, O grandsire, whence and how happiness and
 misery come to those that are rich, as also those that are poor, but who
@@ -17730,9 +17368,7 @@ said to me in past times at Hastinapur by a Brahmana about what Sampaka
 had sung. For this reason, I regard Renunciation to be the foremost of
 things.'"
 
-
-
-SECTION CLXXVII
+## SECTION CLXXVII
 
 "Yudhishthira said, 'If any person, desiring to accomplish acts (of
 charity and sacrifices), fails to find (the necessary) wealth, and thirst
@@ -17874,9 +17510,7 @@ that abode of the highest felicity. Indeed, in consequence of the loss of
 his two bulls Manki attained to immortality. Indeed, because he cut the
 very roots of desire, he attained, through that means, to high felicity.'"
 
-
-
-SECTION CLXXVIII
+## SECTION CLXXVIII
 
 "Bhishma continued, 'In this connection is also cited the old narrative
 of the verses sung by Janaka the ruler of the Videhas, who had attained
@@ -17916,9 +17550,7 @@ reside together, they are sure to converse. I, however, wander alone like
 the anklet made of sea-shells in the wrist of the maiden in the
 story.'"[535]
 
-
-
-SECTION CLXXIX
+## SECTION CLXXIX
 
 "Yudhishthira said, 'O thou that art conversant with the conduct of men,
 tell me by what conduct a person may succeed in this world, freed from
@@ -18037,9 +17669,7 @@ from attachments and divested himself of fear, cupidity; foolishness, and
 wrath, follows this Ajagara vow, or indulges in this sport, as it may be
 called, certainly succeeds in passing his days in great delight.'"
 
-
-
-SECTION CLXXX
+## SECTION CLXXX
 
 "Yudhishthira said, 'Which of these, O grandsire, viz., kinsmen, or acts,
 or wealth, or wisdom should be the refuge of a person? Questioned by me,
@@ -18185,9 +17815,7 @@ and the lord of Sachi. Kasyapa then worshipped that god having the best
 of steeds for the animal that bore him. Receiving afterwards the god's
 permission, the Brahmana returned to his abode.'"
 
-
-
-SECTION CLXXXI
+## SECTION CLXXXI
 
 "Yudhishthira said, 'Tell me, O grandsire, if gifts, sacrifices,
 penances, and dutiful services returned to preceptors, are productive of
@@ -18242,9 +17870,7 @@ say that one should, with proper judgment and as befits one best, do what
 is for one's good. This is the means by which wisdom and high felicity
 may be achieved.'"
 
-
-
-SECTION CLXXXII
+## SECTION CLXXXII
 
 "Yudhishthira said, 'Whence has this universe consisting of mobile and
 immobile creatures been created? Whom does it go to when destruction sets
@@ -18350,9 +17976,7 @@ up to heaven itself, the Sumeru became the pericarp of the Lotus.
 Remaining within it, the puissant Lord of the Universe created all the
 worlds.'"
 
-
-
-SECTION CLXXXIII
+## SECTION CLXXXIII
 
 "Bharadwaja said, 'Tell me, O best of Brahmanas, how the puissant Brahman
 residing within Meru, created these diverse kinds of objects.'
@@ -18397,9 +18021,7 @@ land, in which everything is born, is the origin of all kinds of taste,
 of all kinds of scent, of all kinds of liquids, and of all kinds of
 animals.'"
 
-
-
-SECTION CLXXXIV
+## SECTION CLXXXIV
 
 "Bharadwaja said, 'When the high-souled Brahman has created thousands of
 creatures, why is it that only these five elements which he created
@@ -18505,9 +18127,7 @@ body, increase and grow. Water, fire, wind are always awake in the bodies
 of living creatures. They are the roots of the body. Pervading the five
 life-breaths (already mentioned) they reside in the body.'"
 
-
-
-SECTION CLXXXV
+## SECTION CLXXXV
 
 "Bharadwaja said, 'How does bodily fire or heat, entering the body,
 reside there? How also does the wind, obtaining space for itself, cause
@@ -18557,9 +18177,7 @@ the soul within the brain.[560] Even thus is heat panted in the breaths
 called Prana and Apana and others, of all embodied creatures. That heat
 is always burning there like a fire placed in any (visible) vessel.'
 
-
-
-SECTION CLXXXVI
+## SECTION CLXXXVI
 
 "Bharadwaja said, 'If it is the wind that keeps us alive, if it is the
 wind that causes us to move and exert, if it is the wind that causes us
@@ -18604,9 +18222,7 @@ sort of new existence)? Only seeds were originally created. All this
 universe is the result of seeds in succession. They that die, die to
 perish Seeds result from seeds.'"
 
-
-
-SECTION CLXXXVII
+## SECTION CLXXXVII
 
 "Bhrigu said, 'There is no destruction of the living creature, or of what
 is given, or of our other acts. The creature that dies only goes into
@@ -18708,9 +18324,7 @@ within the mind is called the living agent. It is from that Lord of
 everything that this creation has sprung. Even this is the conclusion to
 be arrived at in the enquiry into the origin of creatures and the soul.'
 
-
-
-SECTION CLXXXVIII
+## SECTION CLXXXVIII
 
 "Bhrigu said, 'Brahman first created a few Brahmanas who came to be
 called Prajapatis (lords of creation). Possessed of splendour equal to
@@ -18774,8 +18388,6 @@ however, which is eternal and undecaying, which is based upon Brahma and
 has sprung from the Primeval God, and which has its refuge upon yoga, is
 a mental one.'"[563]
 
-
-
  SECTION CLXXXIX
 
 "Bharadwaja said, 'By what acts does one become a Brahmana? By what, a
@@ -18832,9 +18444,7 @@ There is no need of attending to any other thing. A Brahmana can easily
 attain to Brahma by the path of Renunciation. The indications of a
 Brahmana are purity, good behaviour and compassion unto all creatures.'"
 
-
-
-SECTION CXC
+## SECTION CXC
 
 "Bhrigu said, 'Truth is Brahma; Truth is Penance; it is Truth that
 creates all creatures. It is by Truth that the whole universe is upheld;
@@ -18906,9 +18516,7 @@ energy. In this way did Brahman ordain in days of old that the creation
 should go on. Each, affected by his own acts, obtains happiness or
 misery.'"[571]
 
-
-
-SECTION CXCI
+## SECTION CXCI
 
 "Bharadwaja said, 'What has been said to be the consequence of gift? What
 of Righteousness? What of conduct? What of Penances well-performed? What
@@ -19013,9 +18621,7 @@ his mode of life by following the practice of picking up fallen grains of
 corn from the cracks of fields and who abandons sensual pleasure and
 attachment to action, does not find it difficult to obtain heaven.'"
 
-
-
-SECTION CXCII
+## SECTION CXCII
 
 "Bhrigu said, 'Forest recluses seeking the acquisition of virtue go to
 sacred waters and rivers and springs, and undergo penances in lone and
@@ -19134,9 +18740,7 @@ wonder and worshipped the great sage with veneration. Thus, O monarch,
 the origin of the universe has been narrated to thee in detail. What, O
 thou of great wisdom, dost thou wish to hear after this?"'
 
-
-
-SECTION CXCIII
+## SECTION CXCIII
 
 "Yudhishthira said, 'I think, O grandsire, that thou art acquainted with
 everything, O thou that art conversant with duties. I desire to hear thee
@@ -19234,9 +18838,7 @@ what can an associate do?[599] Righteousness is the origin of mankind.
 Righteousness is the ambrosia of the gods. After death, men enjoy,
 through Righteousness, eternal happiness.'
 
-
-
-SECTION CXCIV
+## SECTION CXCIV
 
 "Yudhishthira said, 'Tell me, O grandsire, what and of what nature is
 that which is called by the name of Adhyatma and which is laid down for
@@ -19423,9 +19025,7 @@ similar circumstances. Those that are conversant with both (i.e., with
 gradual Emancipation and immediate Emancipation), deserve to be called
 truly wise.'"[617]
 
-
-
-SECTION CXCV
+## SECTION CXCV
 
 "Bhishma said, 'I shall now, O son of Pritha, discourse to thee upon the
 four kinds of yoga meditation. The great Rishis, obtaining a knowledge of
@@ -19484,9 +19084,7 @@ obtained through Exertion or Destiny.[620] United with such felicity, he
 continues to take a pleasure in the act of meditation. Even in this way
 yogins attain to Nirvana which is highly blessed.'"
 
-
-
-SECTION CXCVI
+## SECTION CXCVI
 
 "Yudhishthira said, 'Thou hast discoursed on the four modes of life and
 their duties. Thou hast also spoken of the duties of kings. Thou hast
@@ -19561,9 +19159,7 @@ kinds of calamity, such a person, by depending upon his own intelligence,
 succeeds in attaining to that Soul which is pure and immortal and which
 is without a stain.'"
 
-
-
-SECTION CXCVII
+## SECTION CXCVII
 
 "Yudhishthira said, 'Thou hast said that as regards Reciters, they obtain
 this very high end.[627] I beg to enquire whether this is their only end
@@ -19608,9 +19204,7 @@ wisdom, Reciters obtain diverse descriptions of hell. The discipline
 followed by Reciters is certainly very superior. These, however, that I
 have spoken of, are the faults that appertain to it.'"
 
-
-
-SECTION CXCVIII
+## SECTION CXCVIII
 
 "Yudhishthira said, 'Tell me what description of hell is obtained by a
 Reciter? I feel, O king, a curiosity to know this. It behoveth thee to
@@ -19647,9 +19241,7 @@ first spoken) are hell. I have not told thee of all those regions that
 are called hell. Indeed, in comparison with that foremost of regions all
 the others are called hell.'
 
-
-
-SECTION CXCIX
+## SECTION CXCIX
 
 "Yudhishthira said, 'Thou hadst referred to the dispute between Time,
 Mrityu, Yama, Ikshvaku, and a Brahmana. It behoveth thee to narrate the
@@ -20048,9 +19640,7 @@ even in those very regions.[647] Thus, O monarch, I have discoursed to
 thee about the end attained by Reciters. I have told thee everything.
 What else thou wishest to hear?'"
 
-
-
-SECTION CC
+## SECTION CC
 
 "Yudhishthira said, 'Tell me, O grandsire, what reply was given by either
 the Brahmana or the monarch to Virupa after the conclusion of the
@@ -20142,9 +19732,7 @@ hearts, O monarch, walking behind that great deity. These are the rewards
 of reciters and this their end. I have described them to thee as I myself
 had heard of them. What else, O monarch, dost thou wish to hear of?'"
 
-
-
-SECTION CCI
+## SECTION CCI
 
 "Yudhishthira said, 'What are the fruits of the yoga represented by
 Knowledge, of all the Vedas, and of the (various) observances and vows?
@@ -20249,9 +19837,7 @@ He is neither female, nor male, nor of the neuter sex. He is neither
 existent, nor non-existent, nor existent-nonexistent.[663] Only those
 that are acquainted with Brahma behold Him. He knoweth no direction."'
 
-
-
-SECTION CCII
+## SECTION CCII
 
 "Manu said, 'From that eternal and undeteriorating One first sprang
 Space; from space came Wind; from wind came Light; from light came Water;
@@ -20345,9 +19931,7 @@ shows a person his own face (which cannot otherwise be seen), even so the
 Soul (though subtile and invisible) become an object of the
 Understanding's apprehension.'"[674]
 
-
-
-SECTION CCIII
+## SECTION CCIII
 
 "Manu said, 'The mind united with the senses, recollects after a long
 time the impressions of the objects received in the past. When the senses
@@ -20428,9 +20012,7 @@ dark fortnight, is not deserted by the constellations and the stars, the
 Soul also, even though separated from the body, is not deserted by the
 fruits of the acts it has achieved in that body.'"
 
-
-
-SECTION CCIV
+## SECTION CCIV
 
 "Manu said, 'As in a dream this manifest (body) lies (inactive) and the
 enlivening spirit in its subtile form, detaching itself from the former,
@@ -20492,9 +20074,7 @@ cannot contribute to the success of the mind. The mind cannot apprehend
 the Understanding. The Understanding cannot apprehend the manifested
 Soul. The Soul, however, which is subtile, beholds those all.'"
 
-
-
-SECTION CCV
+## SECTION CCV
 
 "Manu said, 'Upon the appearance of the physical and mental sorrow, one
 does not become able to practise yoga. It is advisable, therefore, for
@@ -20578,9 +20158,7 @@ end that is low. He who is unemancipated from attachments, encounters
 rebirth; while he who is emancipated therefrom, attains to Knowledge (or
 Brahma).'"
 
-
-
-SECTION CCVI
+## SECTION CCVI
 
 "Manu said, 'When the fivefold attributes are united with the five senses
 and the mind, then is Brahma seen by the individual like a thread passing
@@ -20679,9 +20257,7 @@ things return, who is unchangeable, who is without beginning, middle, and
 end, and who is certainty's self and supreme, a person attains to
 immortality (Emancipation).'"
 
-
-
-SECTION CCVII
+## SECTION CCVII
 
 "Yudhishthira said, 'O grandsire, O thou of great wisdom, I desire to
 hear in detail, O chief of the Bharatas, of that lotus-eyed and
@@ -20803,9 +20379,7 @@ mighty-armed chief of Bharata's race.[711] Thus, O mighty-armed one, is
 Kesava of unvanquishable prowess. That lotus-eyed one, is not a mere man.
 He is inconceivable.'"
 
-
-
-SECTION CCVIII
+## SECTION CCVIII
 
 "Yudhishthira asked, 'Who were the first Prajapatis, O bull of Bharata's
 race? What highly-blessed Rishis are there in existence and on which
@@ -20880,9 +20454,7 @@ one is cleansed of all one's sins. A person by repairing to those points
 becomes cleansed of all his sins and succeeds in returning home in
 safety'"
 
-
-
-SECTION CCIX
+## SECTION CCIX
 
 "Yudhishthira said, 'O grandsire, O thou of great wisdom and invincible
 prowess in battle, I wish to hear in detail of Krishna who is immutable
@@ -20970,9 +20542,7 @@ arms, He is the object of the universal worship. Incapable of
 deterioration, that lotus-eyed one is the origin of all beings and their
 lord.'"
 
-
-
-SECTION CCX
+## SECTION CCX
 
 "Yudhishthira said, 'Tell me, O sire, of that high yoga by which, O
 Bharata, I may obtain Emancipation, O foremost of speakers, I desire to
@@ -21114,9 +20684,7 @@ off his body, enters another, and then again into another, how, indeed,
 the entire range of beings is the result of their respective acts (of
 past and present lives), I will presently tell you.'"
 
-
-
-SECTION CCXI
+## SECTION CCXI
 
 "Bhishma said, 'All immobile and mobile beings, distributed into four
 classes, have been said to be of unmanifest birth and unmanifest death.
@@ -21179,9 +20747,7 @@ are scorched by fire do not put forth sprouts. After the same manner, if
 everything that contributes to misery be consumed by the fire of true
 knowledge, the Soul escapes the obligation of rebirth in the world.'
 
-
-
-SECTION CCXII
+## SECTION CCXII
 
 "Bhishma said, 'Persons engaged in the practice of acts regard the
 practice of acts highly. Similarly, those that are devoted to Knowledge
@@ -21294,9 +20860,7 @@ however, who, possessed of faith and scriptural knowledge, is observant
 of the attribute of Goodness, attends only to all good things, and
 becomes endued with (moral) beauty and soul free from every taint.'
 
-
-
-SECTION CCXIII
+## SECTION CCXIII
 
 "Bhishma said, 'From the attribute of Passion arises delusion or loss of
 judgment. From the attribute of Darkness, O bull of Bharata's race, arise
@@ -21368,9 +20932,7 @@ all their objects, never succeed in overwhelming the man that is without
 thirst. The embodied Soul, by making its senses weak, escapes the
 obligation or rebirth.'"[747]
 
-
-
-SECTION CCXIV
+## SECTION CCXIV
 
 "Bhishma said, 'I shall now tell thee what the means are (for conquering
 the senses) as seen with the eye of the scriptures. A person, O king,
@@ -21466,9 +21028,7 @@ transcending the bonds of the body and the senses like a traveller
 crossing a path full of obstacles, and transgressing all faults he sees,
 succeeds in tasting the nectar (of Emancipation).'"
 
-
-
-SECTION CCXV
+## SECTION CCXV
 
 "Bhishma said, 'Living creatures, by being attached to objects of the
 senses which are always fraught with evil, become helpless. Those
@@ -21562,9 +21122,7 @@ transcends the effects of age, rises superior to the consequences of
 decrepitude and death, and obtains Brahma which is eternal, deathless,
 immutable, undeteriorating.'"
 
-
-
-SECTION CCXVI
+## SECTION CCXVI
 
 "Bhishma said, 'The yogin who wishes to always practise sinless
 Brahmacharya and who is impressed with the faults attaching to dreams
@@ -21638,9 +21196,7 @@ with the aid of reason and analogy. Brahma which is indestructible can be
 comprehended by only withdrawing the senses and the mind (from external
 objects into the soul itself).'"[775]
 
-
-
-SECTION CCXVII
+## SECTION CCXVII
 
 "Bhishma said, 'He cannot be said to know Brahma who does not know the
 four topics (viz., dreams, dreamless slumber, Brahma as indicated by
@@ -21770,9 +21326,7 @@ attains to Emancipation.[792] The divine Rishi Narayana, that refuge of
 the universe, for the sake of compassion towards all creatures, clearly
 promulgated these means for the acquisition of immortality.'"
 
-
-
-SECTION CCXVIII
+## SECTION CCXVIII
 
 "Yudhishthira said, 'By following what conduct, O thou that art
 conversant with all courses of conduct, did Janaka, the ruler of Mithila
@@ -21989,9 +21543,7 @@ with delusion (because discouraging sacrifices and other Vedic acts),
 highly salutary, and treating of the Soul, king Janadeva became filled
 with wonder, and prepared himself to address the Rishi once more.'"
 
-
-
-SECTION CCXIX
+## SECTION CCXIX
 
 "Bhishma said, 'Janadeva of the race of Janaka, thus instructed by the
 great Rishi Panchasikha, once more asked him about the topic of existence
@@ -22197,9 +21749,7 @@ upon it, is never pained by any calamity, and freed from sorrow, attains
 to emancipation like Janadeva, the ruler of Mithila after his meeting
 with Panchasikha.'"
 
-
-
-SECTION CCXX
+## SECTION CCXX
 
 "Yudhishthira said, 'By doing what does one acquire happiness, and what
 is that by doing which one meets with woe? What also is that, O Bharata,
@@ -22261,9 +21811,7 @@ and observing the most rigid restraints, should live in this world,
 calmly waiting for his time like one seeming to have a body though fully
 knowing that he is not subject to destruction.'"
 
-
-
-SECTION CCXXI
+## SECTION CCXXI
 
 "Yudhishthira said, 'The three regenerate classes, who are given to
 sacrifices and other rites, sometimes eat the remnants, consisting of
@@ -22322,9 +21870,7 @@ gods and the Apsaras. They who share their food with the deities and the
 Pitris pass their days in constant happiness with their sons and
 grandsons and at last, leaving off this body, attain to a very high end.'"
 
-
-
-SECTION CCXXII
+## SECTION CCXXII
 
 "Yudhishthira said, 'In this world, O Bharata, acts good and bad attach
 themselves to man for the purpose of producing fruits for enjoyment or
@@ -22437,9 +21983,7 @@ wonder, and commended those words, O king, with a cheerful heart. The
 lord of the three worlds then, having worshipped the lord of the Daityas,
 took his leave and proceeded to his own abode.'"
 
-
-
-SECTION CCXXIII
+## SECTION CCXXIII
 
 "Yudhishthira said, 'Tell me, O grandsire, by adopting what sort of
 intelligence may a monarch, who has been divested of prosperity and
@@ -22523,9 +22067,7 @@ however, by a vulgar intelligence, thou indulgest in brag, O Purandara!
 When thou shalt become like me thou shalt not then indulge in speeches
 like these.'"
 
-
-
-SECTION CCXXIV
+## SECTION CCXXIV
 
 "Bhishma said, 'Once more, laughing at Vali who was sighing like a snake,
 Sakra addressed him for saying something more pointed than what had said
@@ -22696,9 +22238,7 @@ approached thee, O chief of the deities! Do not, O Sakra, indulge in such
 brag again. It behoveth thee to become tranquil. Knowing thee to be full
 of vanity, she will very soon desert thee.'"
 
-
-
-SECTION CCXXV
+## SECTION CCXXV
 
 "Bhishma said, 'After this, he of hundred sacrifices beheld the goddess
 of Prosperity, in her own embodied form that blazed splendour, issue out
@@ -22830,9 +22370,7 @@ the north. The thousand-eyed Indra, after having listened to this speech
 of Vali which was characterised by an entire absence of pride, then
 ascended the skies.'
 
-
-
-SECTION CCXXVI
+## SECTION CCXXVI
 
 "Bhishma said, 'In this connection is also cited the old narrative of the
 discourse between him of a hundred sacrifices and the Asura Namuchi, O
@@ -22908,9 +22446,7 @@ are ordained to be obtained. That man who knowing this fully, does not
 suffer himself to be stupefied, and who is contented under both happiness
 and sorrow, is regarded as the foremost of his species.'"
 
-
-
-SECTION CCXXVII
+## SECTION CCXXVII
 
 "Yudhishthira said, 'What, indeed, is good for a man that is sunk in dire
 distress, when loss of friends or loss of kingdom, O monarch has
@@ -23226,9 +22762,7 @@ blazing with splendour, his wrath pacified, and his heart tranquillised,
 became gladdened, and returning to his own abode in heaven, began to pass
 his days in great happiness.'"[857]
 
-
-
-SECTION CCXXVIII
+## SECTION CCXXVIII
 
 "Yudhishthira said, 'Tell me, O grandsire, the indications of future
 greatness and future fall in respect of a person.'
@@ -23498,9 +23032,7 @@ by thee, I have told thee all. It behoves thee to bear thyself according
 to the instructions conveyed herein, understanding them after careful
 reflection!'
 
-
-
-SECTION CCXXIX
+## SECTION CCXXIX
 
 "Yudhishthira said, 'By what disposition, what course of duties, what
 knowledge, and what energy, does one succeed in attaining to Brahma which
@@ -23572,9 +23104,7 @@ primordial nature. The very gods, the Gandharvas, the Pisachas, and the
 Rakshasas, cannot reach the rung which is his who has attained to the
 highest end.'"
 
-
-
-SECTION CCXXX
+## SECTION CCXXX
 
 "Yudhishthira said, 'What man is there who is dear to all, who gladdens
 all persons, and who is endued with every merit and every accomplishment?'
@@ -23652,9 +23182,7 @@ body and mind, who is entirely auspicious, who is well-versed with the
 course of time and its opportuneness for particular acts, and who is
 well-acquainted with all agreeable things?'"
 
-
-
-SECTION CCXXXI
+## SECTION CCXXXI
 
 "Yudhishthira said, 'I desire, O thou of Kuru's race, to know what the
 origin and what the end is of all creatures; what is the nature of their
@@ -23759,9 +23287,7 @@ night, Brahman, waking up, modifies the indestructible chit by causing it
 to be overlaid with Avidya. He then causes Consciousness to spring up,
 whence proceeds Mind which is identical with the Manifest.'"[876]
 
-
-
-SECTION CCXXXII
+## SECTION CCXXXII
 
 "Vyasa said, 'Brahma is the effulgent seed from which, existing as it
 does by itself, hath sprung the whole universe consisting of two kinds of
@@ -23918,9 +23444,7 @@ discoursed to thee, O son, on the topics about which thou hadst inquired,
 viz., Creation, Time, Sacrifices and other rites, the Vedas, the real
 actor in the universe, action, and the consequences of action.'"
 
-
-
-SECTION CCXXXIII
+## SECTION CCXXXIII
 
 "Vyasa said, 'I shall now tell thee, how, when his day is gone and his
 night comes, he withdraws all things unto himself, or how the Supreme
@@ -23977,9 +23501,7 @@ Unmanifest Brahma repeatedly undergo the processes of Elaboration and
 Withdrawal (i.e., Creation and Destruction), and even thus Brahman's Day
 and Night each consist of a thousand yugas.'"[893]
 
-
-
-SECTION CCXXXIV
+## SECTION CCXXXIV
 
 "Vyasa said, 'Thou hadst asked me about the Creation of all beings; I
 have now narrated that to thee in full. Listen to me as I tell thee now
@@ -24074,9 +23596,7 @@ penances, to heaven. Their fame will last as long as the earth herself
 will last. All of them have, by gifts, sacrifices and procreation of
 issue, proceeded to heaven.'"
 
-
-
-SECTION CCXXXV
+## SECTION CCXXXV
 
 "Vyasa said, 'The knowledge called Trayi which occurs in the Vedas and
 their branches should be acquired. That knowledge is to be derived from
@@ -24180,9 +23700,7 @@ Similarly, desiring to do what is wrong one does what is right. Such a
 person is a fool. Not knowing, the two kinds of acts, one has to undergo
 repeated rebirths and deaths.'"
 
-
-
-SECTION CCXXXVI
+## SECTION CCXXXVI
 
 "Vyasa said, 'If Emancipation be desirable, then knowledge should be
 acquired. For a person who is borne now up and now down along the stream
@@ -24318,9 +23836,7 @@ disposed to treat them as such (but which in reality, are one and the
 same).[917] Thus can one transcend all pairs of opposites. Thus can one
 attain to Brahma.'"[918]
 
-
-
-SECTION CCXXXVII
+## SECTION CCXXXVII
 
 "Vyasa said, 'Borne up and down in life's ocean, he that is capable of
 meditation seizes the raft of Knowledge and for achieving his
@@ -24411,9 +23927,7 @@ Transcending birth and death and distinctions and acts of every kind,
 they are the lords of the four kinds of creatures and are the equals of
 the Self-born himself.'"[935]
 
-
-
-SECTION CCXXXVIII
+## SECTION CCXXXVIII
 
 "Vyasa said, 'These, then, are the obligatory acts ordained for
 Brahmanas. One possessed of knowledge always attains to success by going
@@ -24484,9 +23998,7 @@ opposites (such as heat and cold, pleasure and pain, etc.), creatures of
 infinite variety rest on Time according to their own natures (without
 being otherwise than how they have been ordained by supreme Brahma).'[948]
 
-
-
-SECTION CCXXXIX
+## SECTION CCXXXIX
 
 "Bhishma said, 'Thus addressed (by his sire), Suka, highly applauding
 these instructions of the great Rishi, set himself about asking the
@@ -24590,8 +24102,6 @@ invested with the attribute of action is nothing else than that
 indestructible Soul which is said to be inactive. A person of knowledge,
 by attaining to that indestructible essence, gives up for good both life
 and birth.'"[966]
-
-
 
  SECTION CCXL
 
@@ -24708,9 +24218,7 @@ to that equality (about which the scriptures say) with Brahman himself,
 till, indeed, the time when the universal dissolution comes that swallows
 up all existent beings.'"[978]
 
-
-
-SECTION CCXLI
+## SECTION CCXLI
 
 "Suka said, 'The declarations of the Vedas are twofold. They once Jay
 down the command, 'Do all acts.' They also indicate (the reverse,
@@ -24774,9 +24282,7 @@ live. He who has created the seven worlds is said by those that are
 acquainted with what is Kshetra (and what is Kshetrajna) to be above
 jiva.'"
 
-
-
-SECTION CCXLII
+## SECTION CCXLII
 
 "Suka said, 'I have now understood that there are two kinds of creation,
 viz., one commencing with Kshara (which is universal), and which is from
@@ -24875,9 +24381,7 @@ them in the ways indicated in the ordinances, and having carefully
 established the domestic fire, he should, observant all the while of vows
 and fasts, become a house-holder and pass the second period of life.'"
 
-
-
-SECTION CCXLIII
+## SECTION CCXLIII
 
 "Vyasa said, 'Observant of meritorious vows, the householder, for the
 second period of life, should dwell in his house, having taken spouses
@@ -24991,9 +24495,7 @@ life of forest recluses,--of those, that is, who waste their bodies (by
 diverse kinds of austerities) into skeletons overlaid with dried skins.
 Listen as I discourse to thee upon it.'"
 
-
-
-SECTION CCXLIV
+## SECTION CCXLIV
 
 "Bhishma said, "Though hast been told what the duties of domesticity are
 as ordained by the wise. Listen now, O Yudhishthira, to what those duties
@@ -25108,9 +24610,7 @@ modes of life. It is said to occupy the highest place. Listen to me as I
 discourse upon the duties that belong to that mode which is pre-eminent
 and which is the high refuge of all!'"
 
-
-
-SECTION CCXLV
+## SECTION CCXLV
 
 "Suka said, 'While living in the due observance of the duties of the
 foremost of life, how should one, who seeks to attain to That which is
@@ -25249,9 +24749,7 @@ lump of gold with an equal eye. Such a man never stores anything for his
 use. Such a one has no friends and foes. Such a one is utterly regardless
 of praise or blame, and of the agreeable and the disagreeable.'"
 
-
-
-SECTION CCXLVI
+## SECTION CCXLVI
 
 "Vyasa said, 'The Jiva-soul is endued with all those entities that are
 modifications of Prakriti. These do not know the Soul but the Soul knows
@@ -25325,9 +24823,7 @@ any doubt? Listen, for here I am, O son, faces turned towards all
 directions. The Sun and the Moon are thy two seated before thee! Upon
 what indeed, shall I once more speak to thee?'"
 
-
-
-SECTION CCXLVII
+## SECTION CCXLVII
 
 "Suka said, 'O illustrious one, O foremost of Rishis, once again
 discourse to me on Adhyatma more elaborately. Tell me what, indeed, is
@@ -25405,9 +24901,7 @@ indications of the quality of Rajas. Stupefaction of judgment,
 heedlessness, sleep, lethargy, and indolence, from whatever cause these
 may arise, are to be known as indications of the quality of Tamas.'"[1048]
 
-
-
-SECTION CCXLVIII
+## SECTION CCXLVIII
 
 "Vyasa said, 'The mind creates (within itself) numerous ideas (of objects
 or existent things). The Understanding settles which is which. The heart
@@ -25494,9 +24988,7 @@ grass, though distinct from the clump, nevertheless exists in a state of
 union with it, even so these two, though different from each other, each
 existing in its own self, are to be seen in a state of constant union.'"
 
-
-
-SECTION CCXLIX
+## SECTION CCXLIX
 
 "Vyasa said, 'The objects by which one is surrounded are created by the
 understanding. The Soul, without being connected with them, stands aloof,
@@ -25555,9 +25047,7 @@ other hand, such destruction of former acts and such acts of this life
 cannot lead to what is disagreeable (viz., hell), even if the man of
 wisdom engages in acts.'"[1063]
 
-
-
-SECTION CCL
+## SECTION CCL
 
 "Suka said, 'Let thy reverence tell me of that which is the foremost of
 all duties, indeed, of that duty above which no higher one exists in this
@@ -25642,9 +25132,7 @@ should, with a delighted heart, inculcate, according to their true
 import, these instructions that I have inculcated for the benefit of
 thee, my son!'"
 
-
-
-SECTION CCLI
+## SECTION CCLI
 
 "Vyasa said, 'One should not show any affection for scents and tastes and
 other kinds of enjoyment. Nor should one accept ornaments and other
@@ -25725,9 +25213,7 @@ Highest Cause, becomes freed from the obligation of a return to the world
 in consequence of his having attained to that which is the
 highest.'"[1080]
 
-
-
-SECTION CCLII
+## SECTION CCLII
 
 "Vyasa said, 'Unto a disciple that wishes to enquire after Emancipation
 after having transcended all pairs of opposites and accomplished the
@@ -25767,9 +25253,7 @@ living creatures to be unstained, though endued with all these entities
 having time for their essence, has never to recur to acts affected by
 error.'"[1086]
 
-
-
-SECTION CCLIII
+## SECTION CCLIII
 
 "Vyasa said, 'Those that are conversant with the scriptures behold, with
 the aid of acts laid down in the scriptures, the Soul which is clothed in
@@ -25828,9 +25312,7 @@ lastly having understood that the universe is only a modification of
 Avidya endued with the three qualities, one succeeds in beholding (guided
 by the scriptures), high Brahma.'"[1095]
 
-
-
-SECTION CCLIV
+## SECTION CCLIV
 
 "Vyasa said, 'There is a wonderful tree, called Desire, in the heart of a
 man. It is born of the seed called Error. Wrath and pride constitute its
@@ -25884,9 +25366,7 @@ senses (like a false minister seizing the king and the citizens after
 having conspired with a foe) and makes them over to Rajas (with which it
 has united itself).'"
 
-
-
-SECTION CCLV
+## SECTION CCLV
 
 "Bhishma said, 'Do thou, O son, O sinless one, listen once more, with
 feelings of great pride, to the words that fell from the lips of the
@@ -25942,9 +25422,7 @@ attending, however, in this world to all that I have said unto thee about
 the Supreme Brahma, do thou, after attaining to the puissance that the
 knowledge of Brahma offers, seek to win tranquillity of heart.'"[1108]
 
-
-
-SECTION CCLVI
+## SECTION CCLVI
 
 "Yudhishthira said, 'These lords of earth that lie on the earth's surface
 amid their respective hosts, these princes endued with great might, are
@@ -26003,9 +25481,7 @@ great God burning with energy, addressed him, saying, 'Thou deservest
 boons at my hands. What desire of thine shall I accomplish? I shall do
 thee good by accomplishing whatever is in thy breast.'"
 
-
-
-SECTION CCLVII
+## SECTION CCLVII
 
 "Sthanu said, 'Know, O lord, that my solicitations to thee are on behalf
 of the created beings of the universe. These beings have been created by
@@ -26065,9 +25541,7 @@ allowing her tears, however, to fall down, she held them, O king, in her
 joined palms. She then besought the Self-born, impelled by the desire of
 doing good to mankind.'"
 
-
-
-SECTION CCLVIII
+## SECTION CCLVIII
 
 "Narada said, 'The large-eyed lady, controlling her grief by an effort of
 her own, addressed the Grandsire, with joined hands and bending in an
@@ -26186,9 +25660,7 @@ all living creatures when their hours come. The tears she had shed become
 diseases, which, when their last hours come, snatch away all beings
 endued with life.'"
 
-
-
-SECTION CCLIX
+## SECTION CCLIX
 
 "Yudhishthira said, 'All men that inhabit this earth are filled with
 doubts in respect of the nature of righteousness. Who is this that is
@@ -26275,9 +25747,7 @@ delicate considerations. The indications of righteousness have now been
 recounted to thee, O foremost one of Kuru's race! Do not, therefore, at
 any time set thy understanding upon any act that is wrong.'"
 
-
-
-SECTION CCLX
+## SECTION CCLX
 
 "Yudhishthira said, 'Thou sayest that righteousness or duty depends upon
 delicate considerations, that is indicated by the conduct of those that
@@ -26351,9 +25821,7 @@ called righteousness is righteousness to this day: and through that
 course of conduct (which the learned so settled) the distinctions and
 limitations (that govern the world) have become eternal.'"[1136]
 
-
-
-SECTION CCLXI
+## SECTION CCLXI
 
 "Bhishma said, 'In this connection is cited the old narrative of the
 conversation of Tuladhara with Jajali on the topic of righteousness.
@@ -26482,9 +25950,7 @@ referred to me. The words thou didst hear filled thee with wrath, and as
 the consequence thereof thou art here. Tell me, what wish of thine I
 shall accomplish, O best of Brahmanas!'"
 
-
-
-SECTION CCLXII
+## SECTION CCLXII
 
 "Bhishma said, 'Thus addressed by the intelligent Tuladhara on that
 occasion, Jajali of great intelligence, that foremost of ascetics, said
@@ -26651,9 +26117,7 @@ Even this course of conduct, which is consistent with reasons, is
 followed by Yatis. The righteous always observe it with eyes possessed of
 improved vision.'"
 
-
-
-SECTION CCLXIII
+## SECTION CCLXIII
 
 "Jajali said, 'This course of duty that thou, O holder of scales,
 preachest, closes the door of heaven against all creatures and puts a
@@ -26822,9 +26286,7 @@ blessed regions hereafter.'[1187]
 Tuladhara applauded,--duties that are consistent with reason, and that
 are always observed by those that are good and wise.'"
 
-
-
-SECTION CCLXIV
+## SECTION CCLXIV
 
 "Tuladhara said, 'See with thy own eyes, O Jajali, who, viz., those that
 are good or those that are otherwise, have adopted this path of duty that
@@ -26896,9 +26358,7 @@ of celebrated energy, betook himself to tranquillity. In this way, many
 truths of grave import were uttered by Tuladhara, illustrated by examples
 for instruction. What other truths dost thou wish to hear?'"
 
-
-
-SECTION CCLXV
+## SECTION CCLXV
 
 "Bhishma said, 'In this connection is cited an old narrative of what was
 recited by king Vichakhy through compassion for all creatures. Beholding
@@ -26945,9 +26405,7 @@ be able to act, succeed in keeping up his body?'[1201]
 way that one's body may not languish and suffer pain, and that death may
 not come.'"[1202]
 
-
-
-SECTION CCLXVI
+## SECTION CCLXVI
 
 "Yudhishthira said, 'Thou, O grandsire, art our highest preceptor in the
 matter of all acts that are difficult of accomplishment (in consequence
@@ -27177,9 +26635,7 @@ practical consequences may lead to sin).--As regards Gautama of austere
 penances, that Rishi, having adored the deities for a long while in that
 retreat of his, at last ascended to heaven with his son.'"
 
-
-
-SECTION CCLXVII
+## SECTION CCLXVII
 
 "Yudhishthira said, 'How, indeed, should the king protect his subjects
 without injuring anybody. I ask thee this, O grandsire, tell me, O
@@ -27306,9 +26762,7 @@ has, through compassion for human beings, indicated the way by means of
 which men may adhere to knowledge (instead of harmfulness) for the sake
 of emancipation.'"[1224]
 
-
-
-SECTION CCLXVIII
+## SECTION CCLXVIII
 
 "Yudhishthira said, 'Thou hast already explained to me, O grandsire, how
 the religion of Yoga, which leads to the six well-known attributes, may
@@ -27438,9 +26892,7 @@ world nor the next. They who are really conversant with the declarations
 of the Vedas regard both kinds of declarations (viz., those that incite
 to acts and those that preach abstention) as equally authoritative.'"
 
-
-
-SECTION CCLXIX
+## SECTION CCLXIX
 
 "Kapila said, 'Beholding that all the fruits that are attainable by acts
 are terminable instead of being eternal, Yatis, by adopting
@@ -27719,9 +27171,7 @@ truth, O Brahmana! I sit at thy feet as a disciple. Teach me kindly! I
 wish to know as much about Emancipation as is known to thee, O learned
 one!'
 
-
-
-SECTION CCLXX
+## SECTION CCLXX
 
 "Kapila said, 'The Vedas are regarded as authoritative by all. People
 never disregard them. Brahma is of two kinds, viz., Brahma as represented
@@ -27903,9 +27353,7 @@ prime cause of the universe, which is unchangeable and which is beyond
 destruction. I bow to that Brahma, which is identical with him that knows
 it.'"[1277]
 
-
-
-SECTION CCLXXI
+## SECTION CCLXXI
 
 "Yudhishthira said, 'The Vedas, O Bharata, discourse of Religion. Profit,
 and Pleasure. Tell me, however, O grandsire, the attainment of which
@@ -28051,9 +27499,7 @@ gods are truly propitious to thee since thy mind is devoted to virtue. In
 wealth there may be a very little happiness but in virtue the measure of
 happiness is very great.'"
 
-
-
-SECTION CCLXXII
+## SECTION CCLXXII
 
 "Yudhishthira said, 'Amongst the diverse kinds of sacrifices, all of
 which, of course, are regarded to have but one object (viz., the
@@ -28130,9 +27576,7 @@ however, of cruelty is only thus far beneficial that it leads to heaven
 Truth which, indeed, is the religion of those that are utterers of
 Brahma.'"[1294]
 
-
-
-SECTION CCLXXIII
+## SECTION CCLXXIII
 
 "Yudhishthira said, 'By what means doth a man become sinful, by what doth
 he achieve virtue, by what doth he attain to Renunciation, and by what
@@ -28203,9 +27647,7 @@ Thou shouldst, therefore, O Yudhishthira, adhere to virtue in all
 situations. Eternal is the success, O son of Kunti, of thee that adherest
 to righteousness.'"[1299]
 
-
-
-SECTION CCLXXIV
+## SECTION CCLXXIV
 
 "Yudhishthira said, 'Thou hast said, O grandsire, the Emancipation is to
 be won by means and not otherwise. I desire to hear duly what those means
@@ -28269,9 +27711,7 @@ path is delightful, stainless, and pure. Similarly, the restraining of
 speech, of body, and of mind, when practised from the absence of desire,
 constitutes also the path of Emancipation.'"[1308]
 
-
-
-SECTION CCLXXV
+## SECTION CCLXXV
 
 "Bhishma said, 'In this connection is cited the old narrative of the
 discourse that took place between Narada and Asita-Devala. Once on a time
@@ -28400,9 +27840,7 @@ merit and demerit, when Jiva attains to the status of Brahma,[1319] (they
 that are learned in the scriptures) behold (with the eye of the
 scriptures) the attainment of Jiva to the highest end.'"
 
-
-
-SECTION CCLXXVI
+## SECTION CCLXXVI
 
 "Yudhishthira said, 'Cruel and sinful that we are, alas, we have slain
 brothers and sires and grandsons and kinsmen and friends and sons. How, O
@@ -28441,9 +27879,7 @@ here and hereafter.' Hearing these words of the king, the Brahmana became
 filled with joy, and applauding what he heard, Mandavya betook himself to
 the path of Emancipation.'"
 
-
-
-SECTION CCLXXVII
+## SECTION CCLXXVII
 
 "Yudhishthira said, 'Time, that is fraught, with terror unto all
 creatures, is running his course. What is that source of good after which
@@ -28569,9 +28005,7 @@ sire too?'[1330]
 that was pointed out, O king! Do thou also act in the same way, devoted
 to the religion of Truth.'"
 
-
-
-SECTION CCLXXVIII
+## SECTION CCLXXVIII
 
 "Yudhishthira said, 'Of what behaviour must a man be, of what acts, of
 what kind of knowledge, and to what must he be devoted, for attaining to
@@ -28652,9 +28086,7 @@ He who sets forth from his home, having assured all creatures of his
 perfect harmlessness, attains to many bright regions of felicity which
 prove unending or eternal.'"
 
-
-
-SECTION CCLXXIX
+## SECTION CCLXXIX
 
 "Yudhishthira said, 'All men speak of ourselves as highly fortunate. In
 truth, however, there is no person more wretched than ourselves. Though
@@ -28758,9 +28190,7 @@ It behoveth thee, O learned Brahmana, to expound these to me.'
 attention, O bull of men, with all thy brothers, to what the sage Usanas
 then said after he had been thus addressed by that prince of Danavas.'"
 
-
-
-SECTION CCLXXX
+## SECTION CCLXXX
 
 "Usanas said, 'I bow to that divine and illustrious and puissant Being
 who holds this earth with the firmament in his arms. I shall speak to
@@ -29043,9 +28473,7 @@ the creation lasts, all of you at the next new creation will be admitted
 among the gods, and enjoying all kinds of felicities ye will at last be
 numbered among the Siddhas. Let no fear be yours. Be you cheerful.'"
 
-
-
-SECTION CCLXXXI
+## SECTION CCLXXXI
 
 "Yudhishthira said, 'How great was the love of virtue possessed by Vritra
 of immeasurable energy, whose knowledge was incomparable and whose
@@ -29157,9 +28585,7 @@ encounter, while seated on his car and while his praises were being
 hymned by the Rishis, became such that none could look at it without
 awe.'"[1393]
 
-
-
-SECTION CCLXXXII
+## SECTION CCLXXXII
 
 "Bhishma said, 'Listen, O king, to me as I tell thee the symptoms that
 appeared on the body of Vritra when he was overtaken by that fever (born
@@ -29328,9 +28754,7 @@ stained by any sin. I have now recited to thee one of the greatest and
 most wonderful feats of Indra connected with Vritra. What else dost thou
 wish to hear?'"
 
-
-
-SECTION CCLXXXIII
+## SECTION CCLXXXIII
 
 "Yudhishthira said, 'O grandsire, thou art possessed of great wisdom and
 thoroughly conversant with every branch of learning. From this very
@@ -29489,9 +28913,7 @@ shall become free from disease and shall always have happiness for his
 share. Filled with gladness, he shall have all the wishes accomplished
 upon which he may set his heart.'"
 
-
-
-SECTION CCLXXXIV
+## SECTION CCLXXXIV
 
 "Janamejaya said, 'How O Brahmana, was the Horse-sacrifice of the
 Prajapati Daksha, the son of Prachetas, destroyed during the age of
@@ -29697,9 +29119,7 @@ that protector of righteousness.[1406] Having obtained that boon from
 Bhava, Daksha knelt down to him and adored that deity having the bull for
 his mark, by uttering his thousand and eight names.'
 
-
-
-SECTION CCLXXXV
+## SECTION CCLXXXV
 
 "Yudhishthira said, 'It behoveth thee, O sire, to tell me those names by
 which Daksha, that progenitor of creatures, adored the great deity. O
@@ -30149,9 +29569,7 @@ life, ascends to heaven, and has never to take birth among the
 intermediate animals or birds. This was said even by the puissant Vyasa,
 the son of Parasara.'"
 
-
-
-SECTION CCLXXXVI
+## SECTION CCLXXXVI
 
 "Yudhishthira said, 'Tell me, O grandsire, what is Adhyatma with respect
 to man and whence it arises.'
@@ -30292,9 +29710,7 @@ his sole means. Then again, upon the attainment of Knowledge he ceases to
 perpetrate these two evils, viz., censuring the wicked acts of others and
 doing any wicked acts himself under the influence of attachment.'"[1451]
 
-
-
-SECTION CCLXXXVII
+## SECTION CCLXXXVII
 
 "Yudhishthira said, 'Living creatures always stand in fear of sorrow and
 death. Tell me, O grandsire, how the occurrence of these two may be
@@ -30360,9 +29776,7 @@ acquired this knowledge, O Brahmana, as the result of my severe and
 indestructible penances. It is for this reason, O Narada, that grief,
 even when it comes to me, does not succeed in afflicting me.'"
 
-
-
-SECTION CCLXXXVIII
+## SECTION CCLXXXVIII
 
 "Yudhishthira said, 'Tell me, O grandsire, what is beneficial for one
 that is unconversant with the truths of the scriptures, that is always in
@@ -30533,9 +29947,7 @@ for earning his livelihood during the time of his sojourn here conducts
 himself in the way indicated above and who devotes his soul to the good
 of all creatures.'"[1479]
 
-
-
-SECTION CCLXXXIX
+## SECTION CCLXXXIX
 
 "Yudhishthira said, 'How, O grandsire, should a king like us behave in
 this world, keeping in view the great object of acquisition? What
@@ -30670,9 +30082,7 @@ attention, Sagara, that lord of earth, acquired those virtues which are
 productive of Emancipation and continued, with their aid to rule his
 subjects.'"
 
-
-
-SECTION CCXC
+## SECTION CCXC
 
 "Yudhishthira said, 'This curiosity, O sire, is always dwelling in my
 mind. O grandsire of the Kurus, I desire to hear everything about it from
@@ -30779,9 +30189,7 @@ intelligence, proceeded to the place he chose. I have thus narrated to
 thee, O chief of the Bharatas, the story of the high-souled Bhargava
 about which thou didst ask me.'"
 
-
-
-SECTION CCXCI
+## SECTION CCXCI
 
 "Yudhishthira said, 'O thou of mighty arms, tell me, after this what is
 beneficial for us. O grandsire, I am never satiated with thy words which
@@ -30868,9 +30276,7 @@ ignorant person employed in making a discourse, a kingdom without a king
 and a king that cherishes no affection for his subjects and who is
 destitute of Yoga,--these all, O king, are deserving of pity!'"[1505]
 
-
-
-SECTION CCXCII
+## SECTION CCXCII
 
 "Parasara said, 'That man who, having obtained this car, viz., his body
 endued with mind, goes on, curbing with the reins of-knowledge the steeds
@@ -30947,9 +30353,7 @@ upon all creatures as on one's own self. One should again reverence one's
 superiors. By the practice of truth and of good conduct, O king, one is
 sure to obtain happiness.'"
 
-
-
-SECTION CCXCIII
+## SECTION CCXCIII
 
 "Parasara said, 'Nobody in this world does good to another. Nobody is
 seen to make gifts to others. All persons are seen to act for their own
@@ -31017,9 +30421,7 @@ acts, and who is destitute of the desire of inflicting any kind of harm
 (upon any one), that truly respectable man is worshipped in this world by
 those that are good and pious.'"[1521]
 
-
-
-SECTION CCXCIV
+## SECTION CCXCIV
 
 "Parasara said, 'The lowest order, it is proper, should derive their
 sustenance from the three other orders. Such service, rendered with
@@ -31080,9 +30482,7 @@ restraint; the Kshatriya by victory; the Vaisya by wealth; while the
 Sudra always shines in glory through cleverness in serving (the three
 other orders).'"
 
-
-
-SECTION CCXCV
+## SECTION CCXCV
 
 "Parasara said, 'In the Brahmana, wealth acquired by acceptance of gifts,
 in the Kshatriya that won by victory in battle, in the Vaisya that
@@ -31175,9 +30575,7 @@ from inflicting any kind of injury. When one's mind becomes divested of
 desire, and when all Darkness is dispelled from it, it is then that one
 succeeds in obtaining what is auspicious.'"
 
-
-
-SECTION CCXCVI
+## SECTION CCXCVI
 
 "Parasara said, 'I have now discoursed to thee on what the ordinances are
 of the duties in respect of one that leads the domestic mode of life. I
@@ -31295,9 +30693,7 @@ perform sacrifices and other religious rites. Indeed, as all rivers, male
 and female, have their refuge in the Ocean, even so men belonging to all
 the other orders have their refuge in the householder.'"
 
-
-
-SECTION CCXCVII
+## SECTION CCXCVII
 
 "Janaka said, 'Whence, O great Rishi, does this difference of colour
 arise among men belonging to the different orders? I desire to know this.
@@ -31419,9 +30815,7 @@ are righteous, by speaking the truth, and by abstaining from
 unrighteousness, in this world, ascend to heaven. In this there is no
 doubt.'"
 
-
-
-SECTION CCXCVIII
+## SECTION CCXCVIII
 
 "Parasara said, 'The sires, the friends, the preceptor, and the spouses
 of the preceptors of men that are destitute of devotion are unable to
@@ -31556,9 +30950,7 @@ created for the good of him who is of stainless acts.'
 "Bhishma continued, 'All this was said by that high-souled sage unto the
 ruler of the Videhas, O king, in days of old for his benefit.'"
 
-
-
-SECTION CCXCIX
+## SECTION CCXCIX
 
 "Bhishma said, 'Once again Janaka, the ruler of Mithila, questioned the
 high-souled Parasara endued with certain knowledge in respect of all
@@ -31708,9 +31100,7 @@ possessions of value, and his entire affluence.'
 Janaka, that foremost of righteous persons, O king, heard everything the
 Rishi said and obtained great happiness from it.'"
 
-
-
-SECTION CCC
+## SECTION CCC
 
 "Yudhishthira said, 'O grandsire, learned men praise truth,
 self-restraint, forgiveness, and wisdom. What is thy opinion of these
@@ -31869,9 +31259,7 @@ their impurity. In death is their humanity.'[1581]
 the discourse between the Sadhyas (and the Swan). The body (both gross
 and subtile) is the origin of acts, and existence or Jiva is truth.'
 
-
-
-SECTION CCCI
+## SECTION CCCI
 
 "Yudhishthira said, 'It behoveth thee to explain to me, O sire, what the
 difference is between the Sankhya and the Yoga system of philosophy. O
@@ -32046,12 +31434,6 @@ things (through his contemplation of the Supreme deity), the high-souled
 Yogin is capable of creating all things.'"
 
 The end of the Santi Parva [, Part two of three].
-
-
-
-
-
-
 
  SECTION CCCII
 
@@ -32379,9 +31761,7 @@ Creation to start into life, and when the time comes for destruction, He
 swallows up everything. Having withdrawn everything into his own body he
 goes to sleep,--that inner Soul of the universe.'"[1607]
 
-
-
-SECTION CCCIII
+## SECTION CCCIII
 
 "Yudhishthira said, 'What is that which is called Undeteriorating and by
 attaining to which no one has to come back? What, again, is that which is
@@ -32526,9 +31906,7 @@ Indestructible), the wise say, by union with the unmanifest (Prakriti),
 becomes transformed into Kshara (destructible). By means of knowledge
 however, the Indestructible becomes displayed in His true nature--"
 
-
-
-SECTION CCCIV
+## SECTION CCCIV
 
 "'Vasishtha said, 'Thus in consequence of his forgetfulness the Soul
 follows ignorance and obtains thousands of bodies one after another. He
@@ -32684,9 +32062,7 @@ endued with both, and though transcending fear, still regards himself as
 liable to fear. Though Indestructible, he still regards himself
 Destructible. Invested with Ignorance, the Soul thus thinks of himself."
 
-
-
-SECTION CCCV
+## SECTION CCCV
 
 "'Vasishtha said, 'It is thus, in consequence of his Ignorance and his
 association with others that are invested with Ignorance, that Jiva has
@@ -32724,9 +32100,7 @@ Though, O monarch, free from error of every kind, yet in consequence of
 its devotion to the three attributes of Prakriti, it becomes endued with
 those attributes.'"
 
-
-
-SECTION CCCVI
+## SECTION CCCVI
 
 '"Janaka said, O holy one, it has been said that the relation between
 male and female is like that which subsists between the Indestructible
@@ -32841,9 +32215,7 @@ twenty-sixth. The study or comprehension of created things (numbered five
 and twenty) according to their aggregates (of five) is the study and
 comprehension of topics. Transcending these is That which is eternal.'"
 
-
-
-SECTION CCCVII
+## SECTION CCCVII
 
 '"Janaka said, Thou hast, O foremost of Rishis, said that Unity is the
 attribute of that which is Akshara (Indestructible) and variety or
@@ -32993,9 +32365,7 @@ be the result of the Unmanifest. The Soul, which is the twenty-fifth,
 transcends all things. They who know the Soul have no fear of returning
 to the world.'"
 
-
-
-SECTION CCCVIII
+## SECTION CCCVIII
 
 "'Vasishtha said, I have thus far discoursed to thee on the Sankhya
 philosophy. Listen now to me as I tell thee what is Vidya (knowledge) and
@@ -33134,9 +32504,7 @@ is the essence of knowledge without duality, becomes Jiva only when
 invested with Ignorance. In the Yoga scriptures, therefore, both Brahma
 and Jiva are spoken of,--'"
 
-
-
-SECTION CCCIX
+## SECTION CCCIX
 
 "'Vasishtha said, Listen now to me as I discourse to thee on Buddhas
 (Supreme Soul) and Abuddha (Jiva) which is the dispensation of attributes
@@ -33320,9 +32688,7 @@ in that Ocean. Since thou, O king, hast been freed from that eternal and
 limitless Ocean of Ignorance, thou, hast, therefore become freed from
 Rajas and also Tamas.'"
 
-
-
-SECTION CCCX
+## SECTION CCCX
 
 "Bhishma said, 'Once on a time a king of Janaka's race, while ranging the
 uninhabited forests in pursuit of deer, saw a superior Brahmana or Rishi
@@ -33406,9 +32772,7 @@ paying court to virtuous and learned persons possessed of ascetic merit.'
 possessed of a good disposition, withdrawing his mind from the pursuits
 of desire, set it upon the acquisition of Righteousness.'"
 
-
-
-SECTION CCCXI
+## SECTION CCCXI
 
 "Yudhishthira said, 'It behoveth thee, O grandsire, to discourse to me on
 that which is freed from duty and its reverse, which is freed from every
@@ -33479,9 +32843,7 @@ according to what has been laid down in the scriptures. After this, O
 king, listen to me as I tell thee durations of time as indicated by the
 learned in respect of these principles or attribute.'"
 
-
-
-SECTION CCCXII
+## SECTION CCCXII
 
 "Yajnavalkya said, Listen to me, O foremost of men, as I tell thee what
 the duration of time is in respect to the Unmanifest (or the Supreme
@@ -33531,9 +32893,7 @@ to be under the domination of the Mind. Indeed, the Mind is said to be
 the Lord of all the Senses. O thou of great fame, these are all the
 twenty Bhutas in the Universe.'"
 
-
-
-SECTION CCCXIII
+## SECTION CCCXIII
 
 "Yajnavalkya said, I have, one after another, told thee the order of the
 creation, with their total number, of the various principles, as also the
@@ -33579,9 +32939,7 @@ I have thus, O monarch, duly told thee of Destruction. I shall now
 discourse to thee on the subjects of Adhyatma, Adhibhuta, and
 Adhidaivata.--'"
 
-
-
-SECTION CCCXIV
+## SECTION CCCXIV
 
 'Yajnavalkya said, Brahmanas conversant with the topics of enquiry speak
 of the two feet as Adhyatma, the act of walking as Adhibhuta, and Vishnu
@@ -33643,9 +33001,7 @@ heedlessness, taking pleasure, from ignorance (of purer sources of joy)
 in dancing and instrumental and vocal music, and aversion for every kind
 of religion. These, indeed, are the indications of Tamas--'"
 
-
-
-SECTION CCCXV
+## SECTION CCCXV
 
 "'Yajnavalkya said, These three, O foremost of men, (viz., Sattwa, Rajas,
 and Tamas), are the attributes of Prakriti. These attach to all things of
@@ -33698,9 +33054,7 @@ system, and of the Yoga system separately. It behoveth thee also to speak
 of the premonitory symptoms of death, O best of men. All these topics are
 well known to thee even as an (emblic) myrobalan in thy hand!'"
 
-
-
-SECTION CCCXVI
+## SECTION CCCXVI
 
 "'Yajnavalkya said, That which is without attributes, O son, can never be
 explained by ascribing attributes to it. Listen, however, to me as I
@@ -33768,9 +33122,7 @@ Emancipation. I have also told thee of the systems of those others that
 are conversant with the great principles of the universe. I shall now
 discourse to thee on the science of the Yogins.'"
 
-
-
-SECTION CCCXVII
+## SECTION CCCXVII
 
 "Yajnavalkya said, I have already spoken to thee of the science of the
 Sankhyas. Listen now to me as I truly discourse on the science of the
@@ -33853,9 +33205,7 @@ inanimate body. Even this is what the eternal Sruti declares. This is
 called the Yoga of the Yogins. What else is it? Knowing it, they that are
 endued with wisdom regard themselves as crowned with success,--
 
-
-
-SECTION CCCXVIII
+## SECTION CCCXVIII
 
 'Yajnavalkya said, Listen now to me, with attention, O king, as to what
 the places are to which those who die have to go. If the Jiva-soul
@@ -33915,9 +33265,7 @@ which is without birth, which is auspicious, and immutable, and eternal,
 and stable, and which is incapable of being attained to by men of
 uncleansed souls.'"
 
-
-
-SECTION CCCXIX
+## SECTION CCCXIX
 
 "Yajnavalkya said, 'Thou hast asked me, O monarch, of that Supreme Brahma
 which resides in the Unmanifest. Thy question relates to a deep mystery.
@@ -34249,9 +33597,7 @@ discoursed to the king of Mithila. It enabled him to attain to that
 Brahma which is auspicious, and immortal, and which transcends all kinds
 of sorrow."
 
-
-
-SECTION CCCXX
+## SECTION CCCXX
 
 "Yudhishthira said, 'Having acquired great power and great wealth, and
 having obtained a long period of life, how may one succeed in avoiding
@@ -34297,9 +33643,7 @@ dost thou grieve for what? Who else then thou wilt behold heaven or hell
 (for what thou doest)? Hence, without throwing aside the scriptures, one
 should make gifts and perform sacrifices!--"
 
-
-
-SECTION CCCXXI
+## SECTION CCCXXI
 
 "Yudhishthira said, 'Without abandoning the domestic mode of life, O
 royal sage of Kuru's race, who ever attained to Emancipation which is the
@@ -34872,9 +34216,7 @@ tomorrow I shall depart.
 "Bhishma continued, 'Hearing these words fraught with excellent sense and
 with reason, king Janaka failed to return any answer thereto.'"[1711]
 
-
-
-SECTION CCCXXII
+## SECTION CCCXXII
 
 "Yudhishthira said, 'How was Suka, the son of Vyasa, in days of old, won
 over to Renunciation? I desire to hear thee recite the story. My
@@ -35162,9 +34504,7 @@ continued, 'Having heard these beneficial words spoken by the Island-born
 (Vyasa), Suka, leaving his sire, proceeded to seek a preceptor that could
 teach him the religion of Emancipation.'"[1734]
 
-
-
-SECTION CCCXXIII
+## SECTION CCCXXIII
 
 "Yudhishthira said, 'If there is any efficacy in gifts, in sacrifices, in
 penances well-performed, and in dutiful services rendered to preceptors
@@ -35221,9 +34561,7 @@ of reciting the instances in which others have tripped. On the other
 hand, one should always do what is delightful, agreeable, an beneficial
 to one's own self.'"[1736]
 
-
-
-SECTION CCCXXIV
+## SECTION CCCXXIV
 
 "Yudhishthira said, 'Tell me, O grandsire, how the high-souled Suka of
 austere penances took birth as the son of Vyasa, and how did he succeed
@@ -35293,9 +34631,7 @@ consciousness of his being Brahma's self; his understanding and soul
 shall be devoted to Brahma, and he shall completely depend upon Brahma so
 as to be identifiable with it!'"
 
-
-
-SECTION CCCXXV
+## SECTION CCCXXV
 
 "Bhishma said. 'The son of Satyavati having obtained this high boon from
 the great God, was one day employed in rubbing his sticks for making a
@@ -35360,9 +34696,7 @@ of the great ascetic, O king, took no pleasure in the three modes of life
 with the domestic among them, keeping in view, as he did, the religion of
 Emancipation.'"
 
-
-
-SECTION CCCXXVI
+## SECTION CCCXXVI
 
 "Bhishma said, 'Thinking of Emancipation, Suka approached his sire and
 possessed as he was of humility and desirous of achieving his highest
@@ -35474,9 +34808,7 @@ himself to Yoga. It was in this way, O Bharata, that the son of the
 Island-born Krishna passed the latter part of that day and the whole of
 that night in the palace of king Janaka.'"
 
-
-
-SECTION CCCXXVII
+## SECTION CCCXXVII
 
 "Bhishma said, The next morning, king Janaka, O Bharata, accompanied by
 his minister and the whole household, came to Suka, placing his priest in
@@ -35627,9 +34959,7 @@ duties which obtain for the Brahmana that fruit which should be his and
 which is identical with the essence of the object represented by
 Emancipation. What else hast thou to ask me?'"
 
-
-
-SECTION CCCXXVIII
+## SECTION CCCXXVIII
 
 "Bhishma said, 'Having heard these words of king Janaka, Suka of cleansed
 soul and settled conclusions began to stay in his Soul by his Soul,
@@ -35758,9 +35088,7 @@ about the way in which the Vedas should be studied and taught. Ye should
 act in this way towards your disciples, bearing these instructions in
 your minds.'"
 
-
-
-SECTION CCCXXIX
+## SECTION CCCXXIX
 
 "Bhishma said, 'Hearing these words of their preceptor, Vyasa's disciples
 endued with energy, became filled with joy and embraced one another.
@@ -35906,9 +35234,7 @@ force, the external wind becomes tortured."
 the wind had ceased) to go on with his Vedic recitation. He then left
 that spot for plunging into the waters of the celestial Ganga.'"[1755]
 
-
-
-SECTION CCCXXX
+## SECTION CCCXXX
 
 "Bhishma said, 'After Vyasa had left the spot, Narada, traversing through
 the sky, came to Suka employed in studying the scriptures. The celestial
@@ -36093,9 +35419,7 @@ existent objects. Through subjugation of their senses and the power of
 their penances, many persons (in days of yore), having destroyed the
 bonds of action, attained to high success and uninterrupted felicity.'"
 
-
-
-SECTION CCCXXXI
+## SECTION CCCXXXI
 
 "'Narada said, By listening to such scriptures as are blessed, as bring
 about tranquillity, as dispel grief, and as are productive of happiness,
@@ -36183,9 +35507,7 @@ to Yoga, who depends upon nothing out of self, who is without cupidity,
 and who conducts himself without the assistance of anything but his self,
 succeeds in attaining to felicity.'"
 
-
-
-SECTION CCCXXXII
+## SECTION CCCXXXII
 
 "'Narada said, When the vicissitudes of happiness and sorrow appear or
 disappear, the transitions are incapable of being prevented by either
@@ -36365,9 +35687,7 @@ his sire, that foremost of Rishis then proceeded to the spacious breast
 of Kailasa which was inhabited by crowds of ascetics crowned with
 success.'"
 
-
-
-SECTION CCCXXXIII
+## SECTION CCCXXXIII
 
 "Bhishma said, Having ascended the summit of the mountain, O Bharata, the
 son of Vyasa sat down upon a level spot free from blades of grass and
@@ -36449,9 +35769,7 @@ mountains, answered him from every side, saying,--We accept thy command,
 O regenerate one! It shall be as thou sayst! It is in this way that we
 answer the words spoken by the Rishi!
 
-
-
-SECTION CCCXXXIV
+## SECTION CCCXXXIV
 
 "Bhishma said, 'Having spoken in this way (unto all things), the
 regenerate Rishi of austere penances, viz., Suka, stayed on his success
@@ -36548,9 +35866,7 @@ conversation. That person devoted to tranquillity hears this sacred
 history directly connected with the topic of Emancipation is certain to
 attain to the highest end."[1789]
 
-
-
-SECTION CCCXXXV
+## SECTION CCCXXXV
 
 "Yudhishthira said, 'If a man be a house-holder or a Brahmacharin, a
 forest-recluse or a mendicant, and if he desires to achieve success, what
@@ -36677,9 +35993,7 @@ moved by the love I bear to thee for thy devotion to me. Indeed, in
 consequence of that devotion which thou professest towards me, thou hast
 succeeded in listening to this my discourse!"
 
-
-
-SECTION CCCXXXVI
+## SECTION CCCXXXVI
 
 "Bhishma said, 'Addressed by Narayana, that foremost of beings, in these
 words, Narada, the foremost of men, then said these words unto Narayana
@@ -36847,9 +36161,7 @@ themselves who were upholders of the universe and the first promulgators
 of duties and religious observances, then proceeded to the place they
 chose, resolved to devote themselves to penances.'"
 
-
-
-SECTION CCCXXXVII
+## SECTION CCCXXXVII
 
 "Bhishma said, 'Then upon the expiration of the great Kalpa, when the
 celestial Purohita Vrihaspati was born in the race of Angiras, all the
@@ -37015,9 +36327,7 @@ king Vasu in consequence of the very highest end that he attained,
 proceeded to a spot that is even higher than the region of Brahman
 himself.'"[1812]
 
-
-
-SECTION CCCXXXVIII
+## SECTION CCCXXXVIII
 
 "Yudhishthira said, 'When the great king Vasu was so wholly devoted to
 Narayana, for what reason then did he fall down from heaven and why again
@@ -37134,9 +36444,7 @@ origin of the spiritual sons of Brahman. Listen to me with undivided
 attention, for I shall now narrate to thee how the celestial Rishi Narada
 proceeded in days of yore to White Island.'"
 
-
-
-SECTION CCCXXXIX
+## SECTION CCCXXXIX
 
 "Bhishma said, 'Arrived at the spacious realm called White Island, the
 illustrious Rishi beheld those same white men possessed of lunar
@@ -37264,9 +36572,7 @@ friend. Thou art kind to all thy worshippers. Thou art the great deity of
 the Brahmanas. I am thy devoted disciple. I am desirous of beholding
 thee. Salutations to thee that art of the form of Emancipation.'"
 
-
-
-SECTION CCCXL
+## SECTION CCCXL
 
 "Bhishma said, 'Thus hymned with names that were not known to others, the
 Divine Narayana having the universe for his form showed himself to the
@@ -37648,9 +36954,7 @@ dedicating the same unto Narayana. As regards myself, I heard this
 excellent narrative that has descended from generation to gene-ration,
 from my sire who recited it to me in former times.
 
-
-
-SECTION CCCXLI
+## SECTION CCCXLI
 
 Saunaka said, How is that illustrious god, viz., the puissant Narayana
 who is fully conversant with the Vedas and their branches, at once the
@@ -37994,9 +37298,7 @@ one who is the foremost of all beings, hearing this narrative of the
 great conclave of Rishis and other denizens of heaven,--men who are
 devoted to the supreme Deity derive great happiness.'"
 
-
-
-SECTION CCCXLII
+## SECTION CCCXLII
 
 Janamejaya said, "O holy one, it behoveth thee to tell me the
 significance of those diverse names uttering which the great Rishi Vyasa
@@ -38168,9 +37470,7 @@ have Agni for their mouth. It is in consequence of these two beings
 endued with natures leading to the unification that they are said to be
 deserving of each other and upholders of the universe.'"
 
-
-
-SECTION CCCXLIII
+## SECTION CCCXLIII
 
 "Arjuna said, 'How did Agni and Shoma, in days of yore, attain to
 uniformity in respect of their original nature? This doubt has arisen in
@@ -38797,9 +38097,7 @@ have repeatedly told thee, has sprung from my wrath. Thou hast, before
 this, heard, O Dhananjaya, of the puissance and energy that reside in
 him!'"
 
-
-
-SECTION CCCXLIV
+## SECTION CCCXLIV
 
 Saunaka said, "O Sauti, excellent is this narrative which thou hast
 recited. Verily, these ascetics, having heard it have all been filled
@@ -38982,9 +38280,7 @@ who is the Supreme Soul, I am coming here. This is what the illustrious
 and holy Hari has himself said unto me. I shall henceforth reside with
 you two, devoted to Narayana in the form of Aniruddha.'"
 
-
-
-SECTION CCCXLV
+## SECTION CCCXLV
 
 "Nara and Narayana said, 'Deserving art thou of the highest praise, and
 highly favoured hast thou been, since thou hast beheld the puissant
@@ -39069,9 +38365,7 @@ employed, in that retreat, called Vadari, on the breast of Himavat,
 belonging to Nara and Narayana, for a thousand years as measured by the
 standard of the celestials.'"
 
-
-
-SECTION CCCXLVI
+## SECTION CCCXLVI
 
 Vaisampayana said, "On one occasion, while residing in the retreat of
 Nara and Narayana, Narada the son of Pramesthi, having duly accomplished
@@ -39165,9 +38459,7 @@ happiness or misery, His attitude towards all is equal. Endued with
 greatness, and of great soul, Narayana has been said to be the soul of
 all things in the universe.'"
 
-
-
-SECTION CCCXLVII
+## SECTION CCCXLVII
 
 Vaisampayana said, 'Having heard these words of Nara and Narayana, the
 Rishi Narada became filled with devotion towards the Supreme Being.
@@ -39241,9 +38533,7 @@ minute. He is the refuge upon whom all things depend. He is the one Being
 to whom the attribute of immutability attaches. The Sankhyas and Yogins,
 of restrained souls, hold Him who is eternal in their understandings.
 
-
-
-SECTION CCCXLVIII
+## SECTION CCCXLVIII
 
 Janamejaya said, 'I have heard from thee the glory of the divine and
 Supreme Soul. I have heard also of the birth of the Supreme Deity in the
@@ -39514,9 +38804,7 @@ are high-souled do not succeed in understanding his motions. Only those
 foremost of Rishis that have knowledge of their Souls, succeed in
 beholding in their hearts that Purusha who transcends all attributes."
 
-
-
-SECTION CCCXLIX
+## SECTION CCCXLIX
 
 Janamejaya said, "The illustrious Hari becomes gracious unto them that
 are devoted to him with their whole souls. He accepts also all worship
@@ -39771,9 +39059,7 @@ Others, hearing it, become as much confounded as thou hast suffered
 thyself to be. It is Krishna who is the protector of the universe and its
 beguiler. It is He who is the destroyer and the cause, O monarch."
 
-
-
-SECTION CCCL
+## SECTION CCCL
 
 Janamejaya said, "The Sankhya system, the Pancharatra scriptures, and the
 Aranyaka-Vedas,--these different systems of knowledge or religion,--O
@@ -39999,9 +39285,7 @@ laid down in the Vedas and occurrence in heaven and Earth, between the
 sky and the waters, are all caused by and flow from that ancient Rishi
 Narayana.
 
-
-
-SECTION CCCLI
+## SECTION CCCLI
 
 Janamejaya said, "O regenerate one, are there many Purushas or is there
 only one? Who, in the universe, is the foremost of Purushas? What, again,
@@ -40082,9 +39366,7 @@ competent to enter into that one Purusha who is identified with the
 universe, who is supreme, who is the foremost of the foremost, who is
 eternal, and who is himself divested of and is above all attributes."
 
-
-
-SECTION CCCLII
+## SECTION CCCLII
 
 'Brahma said,--'Listen, O son, as to how that Purusha is indicated. He is
 eternal and immutable. He is undeteriorating and immeasurable. He
@@ -40169,9 +39451,7 @@ answered thee, O son, according to thy questions, and according to the
 way in which the matter is expounded in the Sankha system and the Yoga
 philosophy."
 
-
-
-SECTION CCCLIII
+## SECTION CCCLIII
 
 "Sauti said, 'After Vaisampayana had explained to king Janamejaya in this
 way the glory of Narayana, he began to discourse on another topic by
@@ -40211,9 +39491,7 @@ follows. Listen now to me as I recite that story which Narada told before
 Indra. I shall narrate it in the same manner in which the celestial Rishi
 had narrated it, and for the same purpose that he had in view!'"
 
-
-
-SECTION CCCLIV
+## SECTION CCCLIV
 
 "Bhishma said, 'In an excellent town called by the name of Mahapadma
 which was situate on the southern side of the river Ganga, there lived,
@@ -40304,9 +39582,7 @@ world, it is seen, that men betake themselves to heaven, through a
 thousand doors of duty, all standing wide open. My understanding has been
 troubled by thy question, like a fleecy cloud before the wind.'"
 
-
-
-SECTION CCCLV
+## SECTION CCCLV
 
 "The guest continued, 'For all that, O Brahmana, I shall endeavour to
 instruct thee duly. Listen to me as I recite to thee that which I have
@@ -40342,9 +39618,7 @@ hostility towards any one. He is always engaged in doing what is
 beneficial to all creatures. He belongs to a family that is as pure and
 stainless as the water of a lake in the midst of the Ganges.'"
 
-
-
-SECTION CCCLVI
+## SECTION CCCLVI
 
 "The host replied, 'I have heard these words of thine, that are so
 consoling, with as much gratification as is felt by a person heavily
@@ -40382,9 +39656,7 @@ his purpose, took leave of his kinsmen and relatives, and set out in due
 time for the abode of that foremost of Nagas, with heart steadily
 directed towards it.'"
 
-
-
-SECTION CCCLVII
+## SECTION CCCLVII
 
 "Bhishma said, 'Proceeding by many delightful forests and lakes and
 sacred waters, the Brahmana at last arrived at the retreat of a certain
@@ -40422,9 +39694,7 @@ Having said this repeatedly unto the wife of the Naga, that foremost of
 Brahmanas proceeded to the banks of the Gomati for residing there till
 the time of the Naga's return.'"
 
-
-
-SECTION CCCLVIII
+## SECTION CCCLVIII
 
 "Bhishma continued, 'The Nagas of that city became exceedingly distressed
 when they saw that that Brahmana, devoted to the practice of penances,
@@ -40466,9 +39736,7 @@ broken.--The assembled Nagas, thus addressed by the Brahmana, were
 dismissed by him, whereupon, O foremost of men, they returned to their
 respective residences.'"
 
-
-
-SECTION CCCLIX
+## SECTION CCCLIX
 
 "Bhishma said, 'Upon the expiry of the period of full fifteen days, the
 Naga chief (Padmanabha), having finished his task of dragging the car of
@@ -40520,9 +39788,7 @@ behoveth thee to repair thither. O thou that hearest with thy eyes, it
 behoveth thee to grant unto that regenerate person the object that has
 brought him hither!'"[1934]
 
-
-
-SECTION CCCLX
+## SECTION CCCLX
 
 "The Naga said, 'O thou of sweet smiles, for whom hast thou taken that
 Brahmana? Is he really a human being or is he some deity that has come
@@ -40586,9 +39852,7 @@ inexhaustible merits. I shall now proceed to that spot where the Brahmana
 is staying. I shall certainly address that Brahmana in proper words and
 he shall certainly go hence, his wishes being accomplished."
 
-
-
-SECTION CCCLXI
+## SECTION CCCLXI
 
 "Bhishma said, 'Having said these words unto his dear spouse, the chief
 of the Nagas proceeded to that place where the Brahmana was sitting in
@@ -40636,9 +39900,7 @@ moon. O thou that livest on air alone, do thou first answer a question
 that I wish to put to thee. Afterwards I shall inform thee of the object
 that has brought me hither!'"
 
-
-
-SECTION CCCLXII
+## SECTION CCCLXII
 
 "The Brahmana said, 'Thou goest away for dragging the one-wheeled car of
 Vivaswat according to thy turn. It behoveth thee to describe to me
@@ -40691,9 +39953,7 @@ Filled with confusion, we then addressed Surya, saying,--'O illustrious
 one who is this Being that has mixed himself with thee and has been
 transformed into thy second self?'
 
-
-
-SECTION CCCLXIII
+## SECTION CCCLXIII
 
 "Surya said, 'This Being is not the god of fire, he is not an Asura. Nor
 is he a Naga. He is a Brahmana who has attained to heaven in consequence
@@ -40715,11 +39975,9 @@ the observance of the Unccha vow and who thus obtained an end that
 persons crowned with ascetic success acquire, to this day, O regenerate
 one, goes round the Earth, staying in the disc of Surya!'"
 
-
-
 [NOTE: There was no section CCLXIV in the source edition.--JBH]
 
-SECTION CCCLXV
+## SECTION CCCLXV
 
 "The Brahmana said, 'Without doubt, this is very wonderful, O Naga, I
 have been highly gratified by listening to thee. By these words of thine
@@ -40780,8 +40038,6 @@ practice of Yama and Niyama, and subsisting the while upon such food as
 was allowed by the Unccha vow, proceeded to another forest.'"
 
 The end of Santi Parva.
-
-
 
 FOOTNOTES
 
@@ -50434,3 +49690,6 @@ wreaking vengeance on Bhishma whom she regarded as the author of her
 wrongs. Rama took up her cause and fought with Bhishma, but was obliged
 to acknowledge defeat at the hands of his antagonist who was his disciple
 in arms. For fuller particulars, vide Amvopakhyana Parvan in Udyoga Parvan
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

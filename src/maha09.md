@@ -1,18 +1,10 @@
-
-
-
-
 # The Mahabharata
 
 of
 
 Krishna-Dwaipayana Vyasa
 
-BOOK 9
-
 # Shalya-parva
-
-
 
 Translated into English Prose from the Original Sanskrit Text
 
@@ -24,8 +16,6 @@ Kisari Mohan Ganguli
 
 Scanned and Proofed by Mantra Caitanya. Additional proofing and
 formatting at sacred-texts.com, by J. B. Hare, October 2003.
-
-
 
 1
 
@@ -148,8 +138,6 @@ cheerlessly looked at the king, O scorcher of foes, who, having recovered
 his senses, was weeping in great affliction. With joined hands, Vidura
 then, in sweet words, comforted that ruler of men who was sighing
 incessantly.'"
-
-
 
 2
 
@@ -295,8 +283,6 @@ escaped with life. I desire to hear everything about the manner in which
 the battle occurred and the kind of battle it was. Thou art skilled, O
 Sanjaya, in narration. Tell me everything.'"
 
-
-
 3
 
 "Sanjaya said, 'Hear, O king, with attention, how that great carnage of
@@ -433,8 +419,6 @@ resembled the one between the gods and the Asuras. Thy son Duryodhana
 then, O monarch, with all his troops, rushed against the Pandavas headed
 by Yudhishthira.'"
 
-
-
 4
 
 "Sanjaya said, 'Beholding the fallen boxes of cars, as also the cars of
@@ -548,8 +532,6 @@ Thou wilt recollect these words when thou wilt be on the point of death
 (if thou neglectest them now)." Advanced in years, Kripa the son of
 Saradwat said these words weepingly. Breathing long and hot breaths, he
 then gave way to sorrow and almost lost his senses.'"
-
-
 
 5
 
@@ -669,8 +651,6 @@ son, they continued to wait (on their resting ground). Once more rallying
 their own selves as well as one another, all those Kshatriyas, O king,
 urged by fate, waited (in their encampment).'"
 
-
-
 6
 
 "Sanjaya said, 'On that table land at the foot of Himavat, those
@@ -747,8 +727,6 @@ even as Skanda protected the gods in battle. O foremost of kings, thyself
 cause thy own self to be installed in the command as Pavaka's son
 Kartikeya in the command of (the forces of) the celestials. O hero, slay
 our foes in battle like Indra slaying the Danavas."'"
-
-
 
 7
 
@@ -849,8 +827,6 @@ bowmen and mighty car-warriors having reached the shore as it were,
 became very happy that night, in consequence of the victory, O sire, it
 had won by the slaughter of Karna.'"
 
-
-
 8
 
 "Sanjaya said, 'After that night had passed away, king Duryodhana then,
@@ -950,8 +926,6 @@ desirous of slaughtering their foes, encountered one another at dawn of
 day, O lord. Then commenced a fierce and terrible battle between thy
 troops and the enemy, the combatants being all engaged in striking and
 slaughtering one another.'"
-
-
 
 9
 
@@ -1056,8 +1030,6 @@ on the field their dear sons and brothers and maternal, uncles and
 sister's sons and relatives by marriage and other kinsmen. Urging their
 steeds and elephants to greater speed, thousands of warriors fled away, O
 bull of Bharata's race, bent only upon their own safety.'"
-
-
 
 10
 
@@ -1199,8 +1171,6 @@ armies, exceedingly excited, were thus slaughtering each other, they
 became much agitated like two streams in the season of rains. During the
 progress of that dreadful battle, O monarch, a great fear entered the
 hearts of thy warriors as also those of the Pandavas.'"
-
-
 
 11
 
@@ -1344,8 +1314,6 @@ Madras took up his mace and began to cast his glances upon his foe.
 Beholding that terrible feat of his in battle, the Parthas, with cheerful
 hearts, worshipped Bhima who was incapable of being tired with exertion.'"
 
-
-
 12
 
 "Sanjaya said, 'Seeing his driver fallen, Shalya, O king, quickly took up
@@ -1485,8 +1453,6 @@ Yudhishthira with straight shafts. At this, king Yudhishthira afflicted
 with those showers of shafts, felt himself deprived of his prowess, even
 as the Asura Jambha had become before the slayer of Vritra.'"
 
-
-
 13
 
 "Sanjaya said, 'When king Yudhishthira the just was thus afflicted by the
@@ -1592,8 +1558,6 @@ that had Bhimasena at their head and that were led by king Yudhishthira
 the just, did not fly away from that ornament of battle, the brave
 Shalya.'"
 
-
-
 14
 
 "Sanjaya said, 'Meanwhile Arjuna, in that battle, pierced with many
@@ -1697,8 +1661,6 @@ encounter was exceedingly fierce that thus took place between Arjuna and
 his enemies, resembling that between Indra, in days of yore, and the vast
 host of the Asuras.'"
 
-
-
 15
 
 "Sanjaya said, 'Duryodhana, O king, and Dhrishtadyumna, the son of
@@ -1790,8 +1752,6 @@ fell, sped from the arms of the ruler of the Madras. Then, O king, we
 beheld the car of Shalya careering in that dreadful battle like the car
 of Shakra in days of yore on the occasion of the destruction of the
 Asuras.'"
-
-
 
 16
 
@@ -1934,8 +1894,6 @@ aloud. Stopping, the ruler of the Madras then ascended another car that
 had been equipped duly. That best of cars had a rattle deep as the roar
 of the clouds. Well furnished with weapons and instruments and all kinds
 of utensils, that vehicle made the hair of foes stand on end.'"
-
-
 
 17
 
@@ -2182,8 +2140,6 @@ days of yore, had applauded Indra after the slaughter of Vritra. And they
 beat and blew diverse kinds of musical instruments, making the Earth
 resound on every side with that noise.'"
 
-
-
 18
 
 "Sanjaya said, 'After the slaughter of Shalya, O king, the followers of
@@ -2271,8 +2227,6 @@ also their heroic king slain in battle, the entire army of Duryodhana
 once more turned away from the field. Struck, O monarch, by those firm
 bowmen, the Pandavas, the Kuru army fled away on all sides, inspired with
 fear.'
-
-
 
 19
 
@@ -2415,8 +2369,6 @@ celebrated over the three worlds, proceeded on his car against the foe.
 The two sons of Madri, and Satyaki, rushed against Shakuni, and the other
 (Pandava) heroes, smiling, rushed impetuously against thy forces.'"
 
-
-
 20
 
 "Sanjaya said, 'After the (Kuru) army had been rallied, Shalva, the ruler
@@ -2495,8 +2447,6 @@ by the Satwata hero, Salwa fell down on the Earth along with his prince
 of elephants, even like a mountain summit suddenly riven by the
 thunderbolt hurled by the chief of the celestials.'"
 
-
-
 21
 
 "Sanjaya said, 'After the heroic Salwa, that ornament of assemblies, had
@@ -2573,8 +2523,6 @@ sacrificial platform, sanctified with mantras. Even thus, king Duryodhana
 careered all over the field, in that battle. His foes could not approach
 him then, like living creatures unable to approach the Destroyer. Then
 the son of Hridika came there, riding on another car.'"
-
-
 
 22
 
@@ -2683,8 +2631,6 @@ to his strength and his rank, all of which were exceedingly fierce. The
 blazing splendour of those feats, O monarch, appeared full in view. Loud
 became the noise of falling shafts in that battle, resembling that made
 by a vast forest of bamboo while burning on every side.'"
-
-
 
 23
 
@@ -2877,8 +2823,6 @@ which no consideration was shown by anybody for anyone, and in which
 lances and swords and arrows fell fast, on every side and made the scene
 exceedingly terrible to behold.'"
 
-
-
 24
 
 "Sanjaya said, 'When the loud noise of battle had somewhat subsided and
@@ -3022,8 +2966,6 @@ size. Like the thunder-wielding Indra striking down the Daityas, Arjuna,
 alone, entering that division of mighty car-warriors, destroyed it with
 shafts of diverse forms.'"
 
-
-
 25
 
 "Sanjaya said, 'Dhananjaya, with his Gandiva, frustrated the purpose of
@@ -3146,8 +3088,6 @@ Duryodhana, amid the car-division, sought for thy royal son, Abandoning
 the prince of the Pancalas, they proceeded to the spot where Subala's son
 was anxious to have a sight of the king during that terrible carnage.'"
 
-
-
 26
 
 "Sanjaya said, 'After that elephant-division had been destroyed, O
@@ -3232,8 +3172,6 @@ Bhima then slapped his armpits, terrifying the huge elephants with the
 noise he produced. Then thy army, O monarch, which had lost a very large
 number of men, and which then consisted of a very few soldiers, became
 exceedingly cheerless, O king!'"
-
-
 
 27
 
@@ -3351,8 +3289,6 @@ then, of both sides, thus engaged in battle with one another, became
 exceedingly agitated. Struck by one another, the combatants of both
 armies, O king, began to fall down, wailing aloud for their (deceased)
 kinsmen.'"
-
-
 
 28
 
@@ -3499,8 +3435,6 @@ with Keshava among them, they blew their conchs in that battle,
 gladdening their troops. All of them, with glad hearts, worshipped
 Sahadeva, and said, "By good luck, O hero, Shakuni of wicked soul, that
 man of evil course, hath, with his son, been slain by thee!'"
-
-
 
 29
 
@@ -3724,8 +3658,6 @@ failed to obtain any joy at the panegyrics with which he was greeted. He
 passed the time, thinking of the terrible destruction of the Bharatas at
 one another's hands.'"
 
-
-
 30
 
 "Dhritarashtra said, 'After all the Kaurava troops had been slain by the
@@ -3876,8 +3808,6 @@ the bottom. The Pandavas have reached that spot, from desire of battle.
 How will the battle take place? What will become of the king?' Thinking
 of these things, O king, those heroes, Kripa and the others, liberated
 their horses from their cars and prepared to rest there for some time.'"
-
-
 
 31
 
@@ -4050,8 +3980,6 @@ benefit thee!"'
 flushed with victory, repeatedly spoke there (rebuking and mocking
 Duryodhana).'"
 
-
-
 32
 
 (Gada-yuddha Parva)
@@ -4221,8 +4149,6 @@ in your presence! Within this very hour, these words will become either
 true or false! Let him amongst you take up the mace that will fight with
 me!'"
 
-
-
 33
 
 "Sanjaya said, 'Whilst Duryodhana, O king, was repeatedly roaring in this
@@ -4358,8 +4284,6 @@ began to grunt and the steeds to neigh repeatedly. The weapons of the
 Pandavas, who were inspired with desire of victory blazed forth of their
 own accord.'"
 
-
-
 34
 
 "Sanjaya said, 'When that fierce battle, O monarch, was about to
@@ -4407,8 +4331,6 @@ the firmament, encompassed by multitudes of stars. Then that dreadful
 encounter, making the very hair stand on end, took place between those
 two sons of thine, O king, for terminating the quarrel (that had raged
 for many years).'"
-
-
 
 35
 
@@ -4608,8 +4530,6 @@ merits and great blessedness at that spot, and owing also to the coolness
 of the herbs and of the land there, know that the river has an invisible
 current, O monarch, through the bowels of the earth there."
 
-
-
 36
 
 Vaishampayana said, "Baladeva (as already said), proceeded next to the
@@ -4732,8 +4652,6 @@ immeasurable prowess, Valadeva touched the waters of Udapana. And he gave
 away diverse kinds of wealth there and worshipped many Brahmanas.
 Beholding Udapana and applauding it repeatedly, Valadeva next proceeded
 to Vinasana which also was on the Sarasvati."
-
-
 
 37
 
@@ -4885,8 +4803,6 @@ and devoted to righteousness. Valadeva, having the plough for his weapon,
 arrived at that tirtha called Sapta-Saraswat, where the great ascetic
 Mankanaka had performed his penances and became crowned with success."
 
-
-
 38
 
 Janamejaya said, "Why was that tirtha called Sapta-Saraswat? Who was the
@@ -5018,8 +4934,6 @@ Without doubt, such a one shall go to the region called Saraswat (in
 heaven) after death!' Even this is the history of Mankanaka of abundant
 energy. He was a son begotten by the god of wind upon (the lady) Sukanya."
 
-
-
 39
 
 Vaishampayana said, "Having passed one night more, Rama, having the
@@ -5106,8 +5020,6 @@ Sindhudwipa, and the great ascetic Devapi, and the adorable and
 illustrious Muni Vishvamitra of austere penances and fierce energy, had
 all acquired a similar status."
 
-
-
 40
 
 Janamejaya said, "Why did the adorable Arshtishena undergo the austerest
@@ -5181,8 +5093,6 @@ king, unto many foremost of Brahmanas, after having worshipped them duly.
 Then, O king, Rama proceeded to the asylum of Vaka which was not very
 distant from where he was, that asylum in which, as heard by us, Dalvya
 Vaka had practised the austerest of penances."
-
-
 
 41
 
@@ -5277,8 +5187,6 @@ on his banner, distinguished by great righteousness, and ever giving away
 the most valuable things, then proceeded to that tirtha of fierce current
 called Vasishthapavaha."
 
-
-
 42
 
 Janamejaya said, "Why is the current of (the tirtha known by the name of)
@@ -5368,8 +5276,6 @@ Apsaras, beholding the Sarasvati reduced to that plight, became filled
 with great sorrow. For this reason, O king, the tirtha came to be called
 Vasishthapravaha on earth. The foremost of rivers, however, once more got
 back her own proper condition."
-
-
 
 43
 
@@ -5477,8 +5383,6 @@ In that battle Skanda slew Taraka. There, on that occasion, Mahasena
 (Skanda), that destroyer of Daityas, obtained the command of the
 celestial forces. In that tirtha is a gigantic Aswattha tree. Under its
 shade, Kartikeya, otherwise called Kumara, always resides in person."
-
-
 
 44
 
@@ -5599,8 +5503,6 @@ at Samanta-panchaka, is celebrated over the three worlds. There, on the
 sacred bank, possessing every merit, of the Sarasvati, the gods and the
 Gandharvas took their seats with hearts well-pleased in consequence of
 the gratification of all their desires."
-
-
 
 45
 
@@ -5833,8 +5735,6 @@ became the companions of Kartikeya. Thousands upon thousands, millions
 upon millions, of such beings came there at the installation of the
 high-souled Kartikeya and stood surrounding him."
 
-
-
 46
 
 Vaishampayana said, "Listen now to the large bands of the mothers, those
@@ -6061,8 +5961,6 @@ that foremost of tirthas and touching its water, became cheerful and
 happy. I have now told thee everything about which thou hadst enquired,
 how the divine Skanda was installed by the assembled gods!"
 
-
-
 47
 
 Janamejaya said, "This history, O regenerate one, that I have heard from
@@ -6140,8 +6038,6 @@ Vala using white unguents thence proceeded quickly to another tirtha.
 Populous with all kinds of creatures, that tirtha is known by the name
 Vadarapachana. There the fruits of every season are always to be found
 and flowers and fruits of every kind are always abundant."
-
-
 
 48
 
@@ -6296,8 +6192,6 @@ that tirtha and given away much wealth unto many foremost of Brahmanas,
 then proceeded, with soul well-fixed on meditation, to the tirtha of
 Sakta."
 
-
-
 49
 
 Vaishampayana said, "The mighty chief of the Yadus, having proceeded to
@@ -6356,8 +6250,6 @@ of virtuous soul, O Bharata, having bathed in that tirtha, obtained great
 Yoga powers and attained to high success. Endued with great ascetic
 merit, the Rishi Asita-Devala also, having bathed in that very tirtha
 with soul rapt in high Yoga meditation, obtained great Yoga powers."
-
-
 
 50
 
@@ -6511,8 +6403,6 @@ Bathing there and giving away wealth unto the Brahmanas, the high-souled
 wielder of the plough, of noble deeds, earned great merit and then
 proceeded to the tirtha of Soma."
 
-
-
 51
 
 Vaishampayana said, "There, in that tirtha, O Bharata, where the Lord of
@@ -6642,8 +6532,6 @@ brother of Keshava, having given away wealth in that tirtha, then
 joyfully proceeded to another place where lived (in days of yore) an old
 lady without having passed through the ceremony of marriage."
 
-
-
 52
 
 Janamejaya said, "Why, O regenerate one, did that maiden betake herself
@@ -6721,8 +6609,6 @@ at Kurukshetra. Asked by that lion of Yadu's race about the results of
 the battle at Kurukshetra, those high-souled ones told him everything as
 it had happened."
 
-
-
 53
 
 "The Rishis said, 'O Rama, this Samantapanchaka is said to be the eternal
@@ -6787,8 +6673,6 @@ is for this that Kshatriyas slain in battle here obtain sacred regions of
 eternal blessedness. Even this was said by Shakra himself about the high
 blessedness of Kurukshetra. All that Shakra said was again approved and
 sanctioned by Brahman, by Vishnu, and by Maheshvara.'"
-
-
 
 54
 
@@ -6885,8 +6769,6 @@ ascended an excellent car unto which were yoked goodly steeds. Journeying
 then on that car of great fleetness, Baladeva, that bull of Yadu's race,
 desirous of beholding the approaching encounter of his two disciples
 arrived on the field."
-
-
 
 55
 
@@ -6988,8 +6870,6 @@ speeches. Having addressed each other in disagreeable and bitter words,
 those two foremost of heroes of Kuru's race stood, casting angry glances
 upon each other, like Shakra and Vritra in fight."
 
-
-
 56
 
 Vaishampayana said, "At the outset, O Janamejaya a fierce wordy encounter
@@ -7089,8 +6969,6 @@ The high-souled Vrikodara, the son of Pandu, then, uplifting his mace,
 rushed furiously at thy high-souled son. The elephants present there
 trumpeted aloud and the steeds neighed repeatedly. The weapons of the
 Pandavas who longed for victory blazed forth of their own accord.'"
-
-
 
 57
 
@@ -7245,8 +7123,6 @@ face which had been dyed with blood, and mustering great patience,
 Vrikodara stood up, with rolling eyes steadying himself with great
 effort."
 
-
-
 58
 
 "Sanjaya said, 'Beholding that fight thus raging between those two
@@ -7379,8 +7255,6 @@ they proceeded, of that wonderful battle between thy sons. Similarly the
 Siddhas, and the Charanas of the fleetest course, went to those places
 from which they had come, applauding those two lions among men."
 
-
-
 59
 
 "Sanjaya said, 'Beholding Duryodhana felled upon the earth like a
@@ -7455,8 +7329,6 @@ The grief-afflicted wives of Dhritarashtra's sons and grandsons, those
 widows crushed with sorrow, will without doubt, curse us all!" Having
 said these words, Dharma's royal son, Yudhishthira, deeply afflicted with
 grief, began to breathe hard and indulge in lamentations.'"
-
-
 
 60
 
@@ -7580,8 +7452,6 @@ having acted according to the counsels of Krishna! By good luck, thou
 hast paid off thy debt to thy mother and to thy wrath! By good luck, thou
 hast been victorious, O invincible hero, and by good luck, thy foe hath
 been slain!"'"
-
-
 
 61
 
@@ -7746,8 +7616,6 @@ filled with delight, roared like a multitude of lions. All of them blew
 their conchs and Jadava himself blew Panchajanya, filled with joy, O bull
 among men, at the sight of Duryodhana struck down in battle.'"
 
-
-
 62
 
 Sanjaya said, "All those kings, possessed of arms that resembled spiked
@@ -7853,8 +7721,6 @@ Pandavas) said unto him, 'Comfort the helpless Gandhari who hath lost all
 her sons!' Thus addressed by the Pandavas, that chief of the Satvatas
 then proceeded towards Hastinapura and arrived at the presence of
 Gandhari who had lost all her sons in the war.'"
-
-
 
 63
 
@@ -8018,8 +7884,6 @@ Arrived at the camp, he proceeded to the presence of the Pandavas.
 Telling them everything (about his mission to the city), he took his seat
 with them."
 
-
-
 64
 
 "Dhritarashtra said, 'Kicked at the head, his thighs broken, prostrated
@@ -8121,8 +7985,6 @@ king. Having represented everything unto Drona's son, O Bharata, all of
 them remained in a thoughtful mood for a long while and then went away,
 grief-stricken, to the place they came from.'"
 
-
-
 65
 
 "Sanjaya said, 'Having heard of Duryodhana's fall from the messengers,
@@ -8219,3 +8081,6 @@ away quickly from the field of battle, O king, those heroes, with hearts
 agitated by grief, began to reflect anxiously and earnestly.'"
 
 The End of Shalya-parv
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

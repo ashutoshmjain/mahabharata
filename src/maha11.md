@@ -1,18 +1,10 @@
-
-
-
-
 # The Mahabharata
 
 of
 
 Krishna-Dwaipayana Vyasa
 
-BOOK 11
-
 ## Stri-parva
-
-
 
 Translated into English Prose from the Original Sanskrit Text
 
@@ -24,8 +16,6 @@ Kisari Mohan Ganguli
 
 Scanned and Proofed by Mantra Caitanya. Additional proofing and
 formatting at sacred-texts.com, by J. B. Hare, October 2003.
-
-
 
 1
 
@@ -139,8 +129,6 @@ and bear thyself up with the strength of thy own self! Thus was the king
 comforted by the high-souled Sanjaya. Vidura then, O scorcher of foes,
 once again addressed the king, displaying great intelligence."
 
-
-
 2
 
 Vaishampayana said, "Listen, O Janamejaya, to the nectar-like words that
@@ -230,8 +218,6 @@ of ones own acts. Intelligent persons like thee, O king, never sink in
 sinful enormities that are disapproved by knowledge and that strike at
 the very root (of virtue and happiness)."
 
-
-
 3
 
 "Dhritarashtra said, O thou of great wisdom, my grief has been dispelled
@@ -276,8 +262,6 @@ of their own acts. They, however, that are wise, observant of virtue, and
 desirous of doing good unto all living creatures, they, acquainted with
 the real nature of the appearance of creatures in this world, attain at
 last to the highest end."
-
-
 
 4
 
@@ -327,8 +311,6 @@ scriptures) with his own eyes or hearing it from others, practiseth
 virtue in this unstable world of life and adhereth to it from early age,
 attaineth to the highest end. Learning all this, he that adhereth to
 Truth, O king, succeedeth in passing over all paths."
-
-
 
 5
 
@@ -381,8 +363,6 @@ the rats, and lastly from those bees flying about for tasting the honey.
 In that plight he continued to dwell, deprived of his senses, in that
 wilderness, never losing at any time the hope of prolonging his life."
 
-
-
 6
 
 "Dhritarashtra said, Alas, great was the distress of that person and very
@@ -417,8 +397,6 @@ desires. The numerous jets that are dropping honey are the pleasures
 derived from the gratification of our desires and to which men are seen
 to be strongly addicted. The wise know lifes course to be even such.
 Through that knowledge they succeed in tearing off its bonds."
-
-
 
 7
 
@@ -490,8 +468,6 @@ with diverse kinds of errors entangled by the net of their own
 intelligence, they that are wicked and are of good vision, wander
 repeatedly on the earth. They however, that are wise and endued with
 subtle sight, attain to a union with Brahman."
-
-
 
 8
 
@@ -609,8 +585,6 @@ shall live and act without indulging in grief! Hearing these words of
 Dhritarashtra, O monarch, Satyavatis son, Vyasa, disappeared then and
 there."
 
-
-
 9
 
 Janamejaya said, "After the holy Vyasa had departed, what, O regenerate
@@ -667,8 +641,6 @@ state of blessedness. One should not grieve for them. Do thou comfort thy
 own self. Do not grieve, O bull among men! It behoveth thee not to suffer
 thyself to be overwhelmed with sorrow and abandon all action."
 
-
-
 10
 
 Vaishampayana said, "Hearing these words of Vidura, that bull of Bharatas
@@ -717,8 +689,6 @@ consumed by the fire that arises at the end of the Yuga. The citizens
 also (of Hastinapura), devoted to the house of Kuru, with hearts filled
 with anxiety at the destruction that had overtaken their rules, set up, O
 king, a wail that was as loud as that uttered by those ladies."
-
-
 
 11
 
@@ -773,8 +743,6 @@ rose, went away, O monarch, to the places they chose. It was after this,
 O king, that the sons of Pandu, those great car-warriors, encountered the
 son of Drona, and putting forth their prowess, vanquished him, O monarch,
 (in the way already related)."
-
-
 
 12
 
@@ -887,8 +855,6 @@ words, the old king then embraced those princes of excellent frames,
 Bhima and Dhananjaya, and those two foremost of men, the two sons of
 Madri, and wept, and comforted and pronounced blessings upon them."
 
-
-
 14
 
 Vaishampayana said, "Commanded by Dhritarashtra, those bulls of Kurus
@@ -944,8 +910,6 @@ him in skill, struck the latter below the navel. It is this that moves my
 wrath. Why should heroes, for the sake of their lives, cast off
 obligations of duty that have been determined by high-souled persons
 conversant with every duty?"
-
-
 
 15
 
@@ -1055,8 +1019,6 @@ they should not be grieved for. I am in the same predicament with thee.
 fault, this foremost of races has been destroyed."
 
 Here ends the Jalapradanika-parva in the Stri-parva.
-
-
 
 16
 
@@ -1194,8 +1156,6 @@ Keshava, my sons and grandsons and brothers all slain by foes. While
 indulging in such lamentations in grief, Gandharis eyes fell upon her son
 (Duryodhana)."
 
-
-
 17
 
 Vaishampayana said, "Beholding Duryodhana, Gandhari, deprived of her
@@ -1265,8 +1225,6 @@ princess now rubbeth the face of her son and now that of her lord. If the
 scriptures and the shrutis be true, without doubt, this king has obtained
 those regions (of blessedness) that one may win by the use of weapons!"
 
-
-
 18
 
 "Gandhari said, Behold, O Madhava, my century of sons, incapable of
@@ -1330,8 +1288,6 @@ sleepeth, stretching his two massive arms, slain by Bhimasena like a
 mighty elephant by a lion. The very wrathful Bhimasena perpetrated a most
 horrible act by drinking in battle the blood of his foe!"
 
-
-
 19
 
 "Gandhari said, There, O Madhava, my son Vikarna, applauded by the wise,
@@ -1378,8 +1334,6 @@ The body of Duhsaha, covered with arrows, looks resplendent like a
 mountain overgrown with flowering karnikaras. With his garland of gold
 and his bright armour, Duhsaha, though deprived of life, looks
 resplendent yet, like a white mountain of fire!"
-
-
 
 20
 
@@ -1460,8 +1414,6 @@ colourless and pale. Behold also, O Madhava, those other children besides
 Abhimanyu--Uttara, Sudakshina the prince of the Kambhojas, and the
 handsome Lakshmana--all lying on the field of battle!"
 
-
-
 21
 
 "Gandhari said, Then the mighty Karna, that great bowman, lieth on the
@@ -1499,8 +1451,6 @@ that of the moon on the fourteenth night of the dark fortnight. Falling
 down on the earth, the cheerless dame is rising up again. Burning with
 grief on account of the death of her son also, she cometh and smelleth
 the face of her lord!"
-
-
 
 22
 
@@ -1543,8 +1493,6 @@ their son, after causing the slaughter of a vast force, at last himself
 succumbed to death. Alas, those wives of his, with faces as beautiful as
 the moon, are crying, sitting around that irresistible hero who resembled
 an infuriated elephant!"
-
-
 
 23
 
@@ -1639,8 +1587,6 @@ disciples of his of the regenerate class are proceeding towards the banks
 of the Ganga, along the left side of the pyre and having placed Kripi at
 their head!"
 
-
-
 24
 
 "Gandhari said, Behold the son of Somadatta, who was slain by Yuyudhana,
@@ -1714,8 +1660,6 @@ of bliss by the use of weapons. My fear, O slayer of Madhu, is that that
 crooked person may not succeed in fomenting dissensions even (there, the
 region attained by them) between my children, all of whom are confiding
 and possessed of candour!"
-
-
 
 25
 
@@ -1834,8 +1778,6 @@ Yadavas, therefore shall fall by one anothers hand. After he of Dasharhas
 race had said these words, the Pandavas became stupefied. Filled with
 anxiety all of them became hopeless of life!"
 
-
-
 26
 
 "The holy one said, Arise, arise, O Gandhari, do not set thy heart on
@@ -1941,8 +1883,6 @@ wood. Having caused their last rites to be performed, the Kuru king
 Yudhishthira, placing Dhritarashtra at his head, proceeded towards the
 river Ganga."
 
-
-
 27
 
 Vaishampayana said, "Arrived at the auspicious Ganga full of sacred
@@ -2007,3 +1947,6 @@ Having finished the ceremony, the king with his senses exceedingly
 agitated, rose from the waters of Ganga."
 
 The end of Stri-parv
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*

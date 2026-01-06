@@ -1,18 +1,10 @@
-
-
-
-
 # The Mahabharata
 
 of
 
 Krishna-Dwaipayana Vyasa
 
-BOOK 18
-
 ## Svargarohanika-parva
-
-
 
 Translated into English Prose from the Original Sanskrit Text
 
@@ -24,8 +16,6 @@ Kisari Mohan Ganguli
 
 Scanned and Proofed by Mantra Caitanya. Additional proofing and
 formatting at sacred-texts.com, by J. B. Hare, October 2003.
-
-
 
 1
 
@@ -94,8 +84,6 @@ O Brahmana? I do not see them here, O Narada. I desire to see, O Narada,
 Virata and Drupada and the other great Kshatriyas headed by Dhrishtaketu,
 as also Shikhandi, the Pancala prince, the sons of Draupadi, and
 Abhimanyu, irresistible in battle.
-
-
 
 2
 
@@ -167,8 +155,6 @@ shall we proceed along a path like this? It behoveth thee to tell me
 where those brothers of mine are. I desire also to know what region is
 this of the gods?
 
-
-
 "Hearing these words of king Yudhishthira the just, the celestial
 messenger stopped in his course and replied, saying, Thus far is your
 way. The denizens of Heaven commanded me that having come thus far, I am
@@ -234,8 +220,6 @@ celestial messenger returned to the place where the chief of the deities
 was, viz., he of a hundred sacrifices. He represented unto him the acts
 of Yudhishthira. Indeed, O ruler of men, he informed Indra of all that
 Dharmas son had said!
-
-
 
 3
 
@@ -341,8 +325,6 @@ Rishis uttered his praises. Indeed, he reached that place where those
 foremost of men, those heroes, viz., the Pandavas and the Dhartarashtras,
 freed from (human) wrath, were enjoying each his respective status.
 
-
-
 4
 
 Vaishampayana said, "King Yudhishthira, thus praised by the gods, the
@@ -400,8 +382,6 @@ thy side now walk with the Gandharvas or Yakshas or other sacred beings.
 Some have attained to the status of Guhyakas, O king. Having cast off
 their bodies, they have conquered Heaven by the merit they had acquired
 through word, thought and deed.
-
-
 
 5
 
@@ -563,8 +543,6 @@ What need has that man of a sprinkling of the waters of Pushkara who
 attentively listens to this Bharata, while it is recited to him? It
 represents the nectar that fell from the lips of the Island-born. It is
 immeasurable, sacred, sanctifying, sin-cleansing, and auspicious.
-
-
 
 6
 
@@ -884,3 +862,6 @@ Vishnu himself."
 The End of the Svargarohanika-parva
 
 The Eighteen parvas of the Mahabharata are thus complete
+
+---
+*Editor's Note: This text has been reviewed for major typos and grammatical errors. Headings and subheadings have been introduced to improve readability, but the original text remains otherwise unaltered.*
