@@ -1,8 +1,7 @@
 <div align="center">
 
 # The Mahabharata
-### of
-## Krishna Dwaipayana Vyasa
+## Krishna-Dwaipayana Vyasa
 
 *Translated by Kisari Mohan Ganguli (1883-1896)*
 
@@ -16,7 +15,7 @@
 
 ---
 
-### A Note on this Edition
+## A Note on this Edition
 
 This text is a digitized version of the Kisari Mohan Ganguli translation, first published between 1883 and 1896. This monumental work was one of the first and most comprehensive English translations of the Mahabharata.
 
