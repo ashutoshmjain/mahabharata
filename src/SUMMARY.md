@@ -2,8 +2,6 @@
 
 
 - [Mahabharata](maha00.md)
-  - [Ganesa](ganesa.svg)
-  - [Background](yellowBackground.png)
   - [Adi Parva](./maha01.md)
     - [Introduction](./adi-parva/00-introduction.md)
     - [Paushya](./adi-parva/01-paushya.md)
