@@ -1,0 +1,25 @@
+{
+  "name": "mahabharata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:pwa": "mdbook build && cp pwa/manifest.json pwa/sw-register.js book/ && cp -r pwa/icons book/ && npx workbox injectManifest workbox-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutoshmjain/mahabharata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ashutoshmjain/mahabharata/issues"
+  },
+  "homepage": "https://github.com/ashutoshmjain/mahabharata#readme",
+  "devDependencies": {
+    "workbox-cli": "^7.4.0"
+  }
+}
