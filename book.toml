@@ -8,7 +8,6 @@ description = "discovering Gita and Maha-bharata"
 [output.html]
 cname = "mahabharata.shutri.com"
 no-section-label = true
-head-before = "head-before.html"
 
 [output.html.print]
 enable = false    # include support for printable output
