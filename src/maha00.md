@@ -7,7 +7,7 @@
 
 <br>
 
-![Ganesa, the scribe](./ganesa.svg)
+<img src="nanoGanesa_transparent.png" alt="Ganesa" width="60%"/>
 
 *Ganesa, traditionally held as the scribe of the epic as dictated by Vyasa.*
 
