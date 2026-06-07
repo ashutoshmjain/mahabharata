@@ -19,7 +19,7 @@
 
 This text is a digitized version of the Kisari Mohan Ganguli translation, first published between 1883 and 1896. This monumental work was one of the first and most comprehensive English translations of the Mahabharata.
 
-The original work was scanned and proofread by volunteers at `sacred-texts.com` and Distributed Proofing. This edition aims to present that invaluable work in a clean, readable, and accessible format for modern devices.
+The original work was scanned and proofread by volunteers at `sacred-texts.com` and Distributed Proofing. This edition aims to present that invaluable work in a clean, readable, and accessible format for modern devices. (Updated for high-fidelity build 2026).
 
 **For navigation tips and information about this project, please see: [Navigation & About](./how.md)**
 
