@@ -6,6 +6,7 @@ title = "Mahabharata"
 description = "discovering Gita and Maha-bharata"
 
 [output.html]
+additional-css = ["theme/custom.css"]
 cname = "mahabharata.shutri.com"
 no-section-label = true
 
