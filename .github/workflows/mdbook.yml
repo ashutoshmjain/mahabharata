@@ -24,13 +24,22 @@ jobs:
         with:
           mdbook-version: '0.5.3'
 
+      - name: Cache mdbook-katex
+        id: cache-katex
+        uses: actions/cache@v4
+        with:
+          path: ~/.cargo/bin/mdbook-katex
+          key: ${{ runner.os }}-mdbook-katex-0.10.0-alpha
+
       - name: Install mdbook-katex
-        run: cargo install mdbook-katex
+        if: steps.cache-katex.outputs.cache-hit != 'true'
+        run: cargo install mdbook-katex --version 0.10.0-alpha
 
       - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
           node-version: '24'
+          cache: 'npm'
 
       - name: Install dependencies
         run: npm ci
